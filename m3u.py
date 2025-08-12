@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def dlhd_channels():
 
+def dlhd_channels():
     """
     Estrae tutti i canali da https://daddylive.sx/24-7-channels.php,
     deduce la regione dal nome canale, usa il dominio corretto e salva in un file M3U.
@@ -26,15 +26,13 @@ def dlhd_channels():
     html = response.text
 
     soup = BeautifulSoup(html, "html.parser")
+    
+    # Inizializza UNA SOLA VOLTA
     channels_by_region = {}
-
-
-    # Prendi tutti i div.grid-item che contengono i canali
-    grid_items = soup.find_all("div", class_="grid-item")
-    channels_by_region = {}
+    seen_channels = set()  # Aggiungi un set per tracciare i canali già visti
 
     region_keywords = [
-        "USA", "UK", "Italy", "Germany", "France", "Spain", "Portugal", "Poland", "Russia", "India", "Turkey", "Greece", "Netherlands", "Belgium", "Sweden", "Norway", "Denmark", "Finland", "Romania", "Hungary", "Bulgaria", "Serbia", "Croatia", "Slovenia", "Slovakia", "Czech", "Austria", "Switzerland", "Ireland", "Albania", "Bosnia", "Macedonia", "Montenegro", "Kosovo", "Ukraine", "Georgia", "Armenia", "Azerbaijan", "Lithuania", "Latvia", "Estonia", "China", "Japan", "Korea", "Australia", "Canada", "Brazil", "Argentina", "Mexico", "Chile", "Colombia", "Peru", "Venezuela", "Uruguay", "Paraguay", "Ecuador", "Bolivia", "Africa", "Arabia", "UAE", "Qatar", "Saudi", "Egypt", "Israel", "Morocco", "Tunisia", "Algeria", "Africa", "International"
+        "USA", "UK", "Italy", "Germany", "France", "Spain", "Portugal", "Poland", "Russia", "India", "Turkey", "Greece", "Netherlands", "Belgium", "Sweden", "Norway", "Denmark", "Finland", "Romania", "Hungary", "Bulgaria", "Serbia", "Croatia", "Slovenia", "Slovakia", "Czech", "Austria", "Switzerland", "Ireland", "Albania", "Bosnia", "Macedonia", "Montenegro", "Kosovo", "Ukraine", "Georgia", "Armenia", "Azerbaijan", "Lithuania", "Latvia", "Estonia", "China", "Japan", "Korea", "Australia", "Canada", "Brazil", "Argentina", "Mexico", "Chile", "Colombia", "Peru", "Venezuela", "Uruguay", "Paraguay", "Ecuador", "Bolivia", "Africa", "Arabia", "UAE", "Qatar", "Saudi", "Egypt", "Israel", "Morocco", "Tunisia", "Algeria", "International"
     ]
 
     def guess_region(name):
@@ -43,33 +41,51 @@ def dlhd_channels():
                 return region
         return "Other"
 
+    # Prendi tutti i div.grid-item che contengono i canali
+    grid_items = soup.find_all("div", class_="grid-item")
+
     for div in grid_items:
         a = div.find("a", href=True)
         if not a:
             continue
+        
         href = a["href"].strip()
         href = href.replace(" ", "").replace("//", "/")
+        
         strong = a.find("strong")
         if strong:
             name = strong.get_text(strip=True)
         else:
             name = a.get_text(strip=True)
+        
         match = re.search(r'stream-(\d+)\.php', href)
         if not match:
             continue
+            
         channel_id = match.group(1)
+        
+        # Crea una chiave unica per identificare canali duplicati
+        channel_key = (name.lower(), channel_id)
+        
+        # Salta se il canale è già stato processato
+        if channel_key in seen_channels:
+            continue
+            
+        seen_channels.add(channel_key)
+        
         stream_url = f"https://daddylive.sx/stream/stream-{channel_id}.php"
         region = guess_region(name)
+        
         if region not in channels_by_region:
             channels_by_region[region] = []
         channels_by_region[region].append((name, stream_url))
 
-    # Ordina le regioni e i canali alfabeticamente
+    # Resto del codice rimane uguale...
     output_file = "dlhd_channels.m3u"
+    
     def clean_name_for_m3u(name):
         cleaned = name
         for region_word in region_keywords:
-            # Rimuovi regione se preceduta da spazio, parentesi o inizio stringa e seguita da spazio, parentesi, fine stringa o numero
             cleaned = re.sub(rf"(\s|\(|\[|^)({re.escape(region_word)})(\s|\)|\]|$)", r" ", cleaned, flags=re.IGNORECASE)
         cleaned = re.sub(r'\s+', ' ', cleaned).strip()
         if not cleaned:
@@ -83,6 +99,7 @@ def dlhd_channels():
             for name, url in channels:
                 name_clean = clean_name_for_m3u(name)
                 f.write(f'#EXTINF:-1 group-title="{region} DLHD",{name_clean}\n{url}\n')
+    
     print(f"Creato file {output_file} con {sum(len(v) for v in channels_by_region.values())} canali 24/7.")
 
 def dlhd_events():
