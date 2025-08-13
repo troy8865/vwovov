@@ -13,6 +13,7 @@ def dlhd_channels():
     e salva in un file M3U senza raggruppamenti per regione.
     Rimuove automaticamente i canali duplicati.
     """
+    print("Eseguendo dlhd_channels...")
     import requests
     import re
     from bs4 import BeautifulSoup
