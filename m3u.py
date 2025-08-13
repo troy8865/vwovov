@@ -12,7 +12,7 @@ def dlhd():
     Estrae canali 24/7 e eventi live da DaddyLive e li salva in un unico file M3U.
     Rimuove automaticamente i canali duplicati.
     """
-    print("Eseguendo dlhd_unified...")
+    print("Eseguendo dlhd...")
     import requests
     import re
     from bs4 import BeautifulSoup
@@ -29,7 +29,7 @@ def dlhd():
     
     LINK_DADDY = os.getenv("LINK_DADDY", "https://daddylive.sx").strip()
     JSON_FILE = "daddyliveSchedule.json"
-    OUTPUT_FILE = "dlhd_unified.m3u"
+    OUTPUT_FILE = "dlhd.m3u"
     HEADERS = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
     }
@@ -456,7 +456,7 @@ def vavoo_channels():
                     break
         return all_channels
     
-    def save_as_m3u(channels, filename="vavoo_channels.m3u"):
+    def save_as_m3u(channels, filename="vavoo.m3u"):
         # Raggruppa i canali per categoria
         channels_by_category = {}
         
