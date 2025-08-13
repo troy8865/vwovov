@@ -11,6 +11,7 @@ def dlhd_channels():
     """
     Estrae tutti i canali da https://daddylive.sx/24-7-channels.php
     e salva in un file M3U senza raggruppamenti per regione.
+    Rimuove automaticamente i canali duplicati.
     """
     import requests
     import re
@@ -26,6 +27,7 @@ def dlhd_channels():
 
     soup = BeautifulSoup(html, "html.parser")
     channels = []
+    seen_names = set()  # Set per tracciare nomi già visti
 
     # Prendi tutti i div.grid-item che contengono i canali
     grid_items = soup.find_all("div", class_="grid-item")
@@ -46,7 +48,13 @@ def dlhd_channels():
             continue
         channel_id = match.group(1)
         stream_url = f"https://daddylive.sx/stream/stream-{channel_id}.php"
-        channels.append((name, stream_url))
+        
+        # Controlla se il nome del canale è già stato visto
+        if name not in seen_names:
+            seen_names.add(name)
+            channels.append((name, stream_url))
+        else:
+            print(f"Canale duplicato ignorato: {name}")
 
     # Ordina i canali alfabeticamente per nome
     channels.sort(key=lambda x: x[0].lower())
@@ -57,8 +65,8 @@ def dlhd_channels():
         for name, url in channels:
             f.write(f'#EXTINF:-1,{name}\n{url}\n')
     
-    print(f"Creato file {output_file} con {len(channels)} canali 24/7.")
-
+    print(f"Creato file {output_file} con {len(channels)} canali 24/7 (duplicati rimossi).")
+    
 def dlhd_events():
     print("Eseguendo dlhd_events...")
     import json
