@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Atlético Nacional vs São Paulo (00:30)
-https://daddylive.sx/stream/stream-425.php
-
 #EXTINF:-1 group-title="Live Events",Soccer | UEFA Super Cup : PSG vs Tottenham Hotspur (19:00)
 https://daddylive.sx/stream/stream-31.php
 
@@ -39,9 +36,6 @@ https://daddylive.sx/stream/stream-308.php
 #EXTINF:-1 group-title="Live Events",Soccer | Canadian Championship : Forge vs Vancouver Whitecaps (23:00)
 https://daddylive.sx/stream/stream-758.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | The Hundred Women : Southern Brave W vs Northern Superchargers W (10:30)
-https://daddylive.sx/stream/stream-65.php
-
 #EXTINF:-1 group-title="Live Events",Cricket | The Hundred Women : Welsh Fire W vs Manchester Originals W (14:00)
 https://daddylive.sx/stream/stream-449.php
 
@@ -54,20 +48,11 @@ https://daddylive.sx/stream/stream-65.php
 #EXTINF:-1 group-title="Live Events",Tennis | ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA (15:00)
 https://daddylive.sx/stream/stream-46.php
 
-#EXTINF:-1 group-title="Live Events",Golf | Odyssey: The Rise of Golf's #1 Putter Live (00:00)
-https://daddylive.sx/stream/stream-318.php
-
 #EXTINF:-1 group-title="Live Events",Golf | On the Range 2025 BMW Championship Live (19:30)
 https://daddylive.sx/stream/stream-318.php
 
 #EXTINF:-1 group-title="Live Events",Golf | Golfers tee off in the round of 64 of the U.S. Amateur at the Olympic Club (22:00)
 https://daddylive.sx/stream/stream-318.php
-
-#EXTINF:-1 group-title="Live Events",WWE | WWE NXT (00:00)
-https://daddylive.sx/stream/stream-300.php
-
-#EXTINF:-1 group-title="Live Events",WWE | WWE NXT (00:00)
-https://daddylive.sx/stream/stream-280.php
 
 #EXTINF:-1 group-title="Live Events",Snooker | Saudi Arabia Snooker Masters | Last 16 (11:00)
 https://daddylive.sx/stream/stream-33.php
@@ -77,15 +62,6 @@ https://daddylive.sx/stream/stream-31.php
 
 #EXTINF:-1 group-title="Live Events",Snooker | Saudi Arabia Snooker Masters | Last 16 (17:00)
 https://daddylive.sx/stream/stream-33.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Houston Astros vs Boston Red Sox (00:10)
-https://daddylive.sx/stream/stream-762.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Los Angeles Angels vs Los Angeles Dodgers (01:38)
-https://daddylive.sx/stream/stream-764.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Oakland Athletics vs Tampa Bay Rays (02:05)
-https://daddylive.sx/stream/stream-755.php
 
 #EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Puerto Rico vs Venezuela (17:00)
 https://daddylive.sx/stream/stream-44.php
@@ -131,12 +107,6 @@ https://daddylive.sx/stream/stream-759.php
 
 #EXTINF:-1 group-title="Live Events",Baseball | MLB : Houston Astros vs Boston Red Sox (23:10)
 https://daddylive.sx/stream/stream-762.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | WNBA : Los Angeles Sparks W vs New York Liberty W (02:00)
-https://daddylive.sx/stream/stream-404.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | WNBA : Los Angeles Sparks W vs New York Liberty W (02:00)
-https://daddylive.sx/stream/stream-654.php
 
 #EXTINF:-1 group-title="Live Events",Basketball | FIBA WC, EU Pre-Qualifiers : Switzerland vs Slovakia (16:50)
 https://daddylive.sx/stream/stream-12.php
