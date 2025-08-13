@@ -64,7 +64,7 @@ def dlhd_channels():
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for name, url in channels:
-            f.write(f'#EXTINF:-1,{name}\n{url}\n')
+            f.write(f'#EXTINF:-1 group-title="DLHD",{name}\n{url}\n')
     
     print(f"Creato file {output_file} con {len(channels)} canali 24/7 (duplicati rimossi).")
     
