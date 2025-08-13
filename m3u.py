@@ -492,7 +492,6 @@ def vavoo_channels():
         save_as_m3u(channels) 
 
 def main():
-    # ...existing code...
     try:
         try:
             schedule_extractor()
@@ -508,7 +507,8 @@ def main():
             dlhd()
         except Exception as e:
             print(f"Errore durante l'esecuzione di dlhd: {e}")
-            retune
+            return
+        print("Tutti gli script sono stati eseguiti correttamente!")
     finally:
         pass
 
