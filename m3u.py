@@ -7,242 +7,211 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def dlhd_channels():
+def dlhd():
     """
-    Estrae tutti i canali da https://daddylive.sx/24-7-channels.php
-    e salva in un file M3U senza raggruppamenti per regione.
+    Estrae canali 24/7 e eventi live da DaddyLive e li salva in un unico file M3U.
     Rimuove automaticamente i canali duplicati.
     """
-    print("Eseguendo dlhd_channels...")
+    print("Eseguendo dlhd_unified...")
     import requests
     import re
     from bs4 import BeautifulSoup
-
-    url = "https://daddylive.sx/24-7-channels.php"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-    }
-    response = requests.get(url, headers=headers, timeout=15)
-    response.raise_for_status()
-    html = response.text
-
-    soup = BeautifulSoup(html, "html.parser")
-    channels = []
-    seen_names = set()  # Set per tracciare nomi già visti
-
-    # Prendi tutti i div.grid-item che contengono i canali
-    grid_items = soup.find_all("div", class_="grid-item")
-
-    for div in grid_items:
-        a = div.find("a", href=True)
-        if not a:
-            continue
-        href = a["href"].strip()
-        href = href.replace(" ", "").replace("//", "/")
-        strong = a.find("strong")
-        if strong:
-            name = strong.get_text(strip=True)
-        else:
-            name = a.get_text(strip=True)
-        match = re.search(r'stream-(\d+)\.php', href)
-        if not match:
-            continue
-        channel_id = match.group(1)
-        stream_url = f"https://daddylive.sx/stream/stream-{channel_id}.php"
-        
-        # Controlla se il nome del canale è già stato visto
-        if name not in seen_names:
-            seen_names.add(name)
-            channels.append((name, stream_url))
-        else:
-            print(f"Canale duplicato ignorato: {name}")
-
-    # Ordina i canali alfabeticamente per nome
-    channels.sort(key=lambda x: x[0].lower())
-    
-    output_file = "dlhd_channels.m3u"
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        for name, url in channels:
-            f.write(f'#EXTINF:-1 group-title="DLHD",{name}\n{url}\n')
-    
-    print(f"Creato file {output_file} con {len(channels)} canali 24/7 (duplicati rimossi).")
-    
-def dlhd_events():
-    print("Eseguendo dlhd_events...")
     import json
-    import re
-    import requests
-    import urllib.parse # Consolidato
+    import urllib.parse
     from datetime import datetime, timedelta
     from dateutil import parser
     import os
     from dotenv import load_dotenv
     import time
-    
-    # Carica le variabili d'ambiente dal file .env
-    load_dotenv()
 
-    LINK_DADDY = os.getenv("LINK_DADDY", "https://daddylive.sx").strip() 
-    JSON_FILE = "daddyliveSchedule.json" 
-    OUTPUT_FILE = "dlhd_events.m3u" 
-    HEADERS = { 
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" 
-    } 
-     
-    HTTP_TIMEOUT = 10 
-    session = requests.Session() 
-    session.headers.update(HEADERS) 
-    # Definisci current_time e three_hours_in_seconds per la logica di caching
-    current_time = time.time()
-    three_hours_in_seconds = 3 * 60 * 60
+    # Carica le variabili d'ambiente
+    load_dotenv()
     
-    def clean_category_name(name): 
-        # Rimuove tag html come </span> o simili 
+    LINK_DADDY = os.getenv("LINK_DADDY", "https://daddylive.sx").strip()
+    JSON_FILE = "daddyliveSchedule.json"
+    OUTPUT_FILE = "dlhd_unified.m3u"
+    HEADERS = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+    }
+
+    # ========== FUNZIONI DI SUPPORTO ==========
+    def clean_category_name(name):
         return re.sub(r'<[^>]+>', '', name).strip()
         
     def clean_tvg_id(tvg_id):
-        """
-        Pulisce il tvg-id rimuovendo caratteri speciali, spazi e convertendo tutto in minuscolo
-        """
-        # import re # 're' Ã¨ giÃ  importato a livello di funzione
-        # Rimuove caratteri speciali comuni mantenendo solo lettere e numeri
         cleaned = re.sub(r'[^a-zA-Z0-9À-ÿ]', '', tvg_id)
         return cleaned.lower()
      
-    def get_stream_from_channel_id(channel_id): 
-        # Restituisce direttamente l'URL .php
-        embed_url = f"{LINK_DADDY}/stream/stream-{channel_id}.php" 
-        return embed_url
-     
-    def extract_channels_from_json(path): 
-        keywords = {"uk", "tnt", "usa", "tennis channel", "tennis stream", "la"} 
-        now = datetime.now()  # ora attuale completa (data+ora) 
-        yesterday_date = (now - timedelta(days=1)).date() # Data di ieri
-     
-        with open(path, "r", encoding="utf-8") as f: 
-            data = json.load(f) 
-     
-        categorized_channels = {} 
-     
-        for date_key, sections in data.items(): 
-            date_part = date_key.split(" - ")[0] 
-            try: 
-                date_obj = parser.parse(date_part, fuzzy=True).date() 
-            except Exception as e: 
-                print(f"[!] Errore parsing data '{date_part}': {e}") 
-                continue 
-            
-            # Determina se processare questa data
-            process_this_date = False
-            is_yesterday_early_morning_event_check = False
+    def get_stream_from_channel_id(channel_id):
+        return f"{LINK_DADDY}/stream/stream-{channel_id}.php"
 
-            if date_obj == now.date():
-                process_this_date = True
-            elif date_obj == yesterday_date:
-                process_this_date = True
-                is_yesterday_early_morning_event_check = True # Flag per eventi di ieri mattina presto
+    # ========== ESTRAZIONE CANALI 24/7 ==========
+    print("Estraendo canali 24/7...")
+    url = "https://daddylive.sx/24-7-channels.php"
+    
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=15)
+        response.raise_for_status()
+        html = response.text
+
+        soup = BeautifulSoup(html, "html.parser")
+        channels_247 = []
+        seen_names = set()
+
+        grid_items = soup.find_all("div", class_="grid-item")
+
+        for div in grid_items:
+            a = div.find("a", href=True)
+            if not a:
+                continue
+            href = a["href"].strip()
+            href = href.replace(" ", "").replace("//", "/")
+            strong = a.find("strong")
+            if strong:
+                name = strong.get_text(strip=True)
             else:
-                # Salta date che non sono nÃ© oggi nÃ© ieri
+                name = a.get_text(strip=True)
+            match = re.search(r'stream-(\d+)\.php', href)
+            if not match:
                 continue
+            channel_id = match.group(1)
+            stream_url = f"https://daddylive.sx/stream/stream-{channel_id}.php"
+            
+            if name not in seen_names:
+                seen_names.add(name)
+                channels_247.append((name, stream_url))
+            else:
+                print(f"Canale 24/7 duplicato ignorato: {name}")
 
-            if not process_this_date:
-                continue
-     
-            for category_raw, event_items in sections.items(): 
-                category = clean_category_name(category_raw)
-                # Salta la categoria TV Shows
-                if category.lower() == "tv shows":
+        channels_247.sort(key=lambda x: x[0].lower())
+        print(f"Trovati {len(channels_247)} canali 24/7")
+
+    except Exception as e:
+        print(f"Errore nell'estrazione dei canali 24/7: {e}")
+        channels_247 = []
+
+    # ========== ESTRAZIONE EVENTI LIVE ==========
+    print("Estraendo eventi live...")
+    live_events = []
+    
+    if os.path.exists(JSON_FILE):
+        try:
+            keywords = {"uk", "tnt", "usa", "tennis channel", "tennis stream", "la"}
+            now = datetime.now()
+            yesterday_date = (now - timedelta(days=1)).date()
+
+            with open(JSON_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            categorized_channels = {}
+
+            for date_key, sections in data.items():
+                date_part = date_key.split(" - ")[0]
+                try:
+                    date_obj = parser.parse(date_part, fuzzy=True).date()
+                except Exception as e:
+                    print(f"Errore parsing data '{date_part}': {e}")
                     continue
-                if category not in categorized_channels: 
-                    categorized_channels[category] = [] 
-     
-                for item in event_items: 
-                    time_str = item.get("time", "00:00") # Orario originale dal JSON
-                    event_title = item.get("event", "Evento") 
-     
-                    try: 
-                        # Parse orario evento originale (dal JSON)
-                        original_event_time_obj = datetime.strptime(time_str, "%H:%M").time()
+                
+                process_this_date = False
+                is_yesterday_early_morning_event_check = False
 
-                        # Costruisci datetime completo dell'evento con la sua data originale e l'orario originale (senza aggiungere ore)
-                        event_datetime_adjusted_for_display_and_filter = datetime.combine(date_obj, original_event_time_obj)
+                if date_obj == now.date():
+                    process_this_date = True
+                elif date_obj == yesterday_date:
+                    process_this_date = True
+                    is_yesterday_early_morning_event_check = True
+                else:
+                    continue
 
-                        if is_yesterday_early_morning_event_check:
-                            # Filtro per eventi di ieri mattina presto (00:00 - 04:00, ora JSON)
-                            start_filter_time = datetime.strptime("00:00", "%H:%M").time()
-                            end_filter_time = datetime.strptime("04:00", "%H:%M").time()
-                            # Confronta l'orario originale dell'evento
-                            if not (start_filter_time <= original_event_time_obj <= end_filter_time):
-                                # Evento di ieri, ma non nell'intervallo 00:00-04:00 -> salto
-                                continue
-                        else: # Eventi di oggi
-                            # Controllo: includi solo se l'evento Ã¨ iniziato da meno di 2 ore
-                            # Usa event_datetime_adjusted_for_display_and_filter che ha giÃ  il +2h
-                            if now - event_datetime_adjusted_for_display_and_filter > timedelta(hours=2):
-                                # Evento di oggi iniziato da piÃ¹ di 2 ore -> salto
-                                continue
-                        
-                        time_formatted = event_datetime_adjusted_for_display_and_filter.strftime("%H:%M")
-                    except Exception as e_time:
-                        print(f"[!] Errore parsing orario '{time_str}' per evento '{event_title}' in data '{date_key}': {e_time}")
-                        time_formatted = time_str # Fallback
-     
-                    for ch in item.get("channels", []): 
-                        channel_name = ch.get("channel_name", "") 
-                        channel_id = ch.get("channel_id", "") 
-     
-                        words = set(re.findall(r'\b\w+\b', channel_name.lower())) 
-                        if keywords.intersection(words): 
-                            tvg_name = f"{event_title} ({time_formatted})" 
-                            categorized_channels[category].append({ 
-                                "tvg_name": tvg_name, 
-                                "channel_name": channel_name, 
-                                "channel_id": channel_id,
-                                "event_title": event_title 
-                            }) 
-     
-        return categorized_channels 
-     
-    def generate_m3u_from_schedule(json_file, output_file): 
-        categorized_channels = extract_channels_from_json(json_file) 
+                if not process_this_date:
+                    continue
 
-        with open(output_file, "w", encoding="utf-8") as f: 
-            f.write("#EXTM3U\n") 
+                for category_raw, event_items in sections.items():
+                    category = clean_category_name(category_raw)
+                    if category.lower() == "tv shows":
+                        continue
+                    if category not in categorized_channels:
+                        categorized_channels[category] = []
 
-            # Controlla se ci sono eventi prima di aggiungere il canale DADDYLIVE
-            has_events = any(channels for channels in categorized_channels.values())
+                    for item in event_items:
+                        time_str = item.get("time", "00:00")
+                        event_title = item.get("event", "Evento")
+
+                        try:
+                            original_event_time_obj = datetime.strptime(time_str, "%H:%M").time()
+                            event_datetime_adjusted_for_display_and_filter = datetime.combine(date_obj, original_event_time_obj)
+
+                            if is_yesterday_early_morning_event_check:
+                                start_filter_time = datetime.strptime("00:00", "%H:%M").time()
+                                end_filter_time = datetime.strptime("04:00", "%H:%M").time()
+                                if not (start_filter_time <= original_event_time_obj <= end_filter_time):
+                                    continue
+                            else:
+                                if now - event_datetime_adjusted_for_display_and_filter > timedelta(hours=2):
+                                    continue
+                            
+                            time_formatted = event_datetime_adjusted_for_display_and_filter.strftime("%H:%M")
+                        except Exception as e_time:
+                            print(f"Errore parsing orario '{time_str}' per evento '{event_title}' in data '{date_key}': {e_time}")
+                            time_formatted = time_str
+
+                        for ch in item.get("channels", []):
+                            channel_name = ch.get("channel_name", "")
+                            channel_id = ch.get("channel_id", "")
+
+                            words = set(re.findall(r'\b\w+\b', channel_name.lower()))
+                            if keywords.intersection(words):
+                                tvg_name = f"{event_title} ({time_formatted})"
+                                categorized_channels[category].append({
+                                    "tvg_name": tvg_name,
+                                    "channel_name": channel_name,
+                                    "channel_id": channel_id,
+                                    "event_title": event_title,
+                                    "category": category
+                                })
+
+            # Converti in lista per il file M3U
+            for category, channels in categorized_channels.items():
+                for ch in channels:
+                    try:
+                        stream = get_stream_from_channel_id(ch["channel_id"])
+                        if stream:
+                            live_events.append((f"{category} | {ch['tvg_name']}", stream))
+                    except Exception as e:
+                        print(f"Errore su {ch['tvg_name']}: {e}")
+
+            print(f"Trovati {len(live_events)} eventi live")
+
+        except Exception as e:
+            print(f"Errore nell'estrazione degli eventi live: {e}")
+            live_events = []
+    else:
+        print(f"File {JSON_FILE} non trovato, eventi live saltati")
+
+    # ========== GENERAZIONE FILE M3U UNIFICATO ==========
+    print("Generando file M3U unificato...")
+    
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n\n")
+        
+        # Aggiungi eventi live se presenti
+        if live_events:
+            f.write(f'#EXTINF:-1 group-title="Live Events",DADDYLIVE\n')
+            f.write("https://example.com.m3u8\n\n")
             
-            if has_events:
-                # Aggiungi il canale iniziale/informativo solo se ci sono eventi
-                f.write(f'#EXTINF:-1 group-title="Live Events",DADDYLIVE\n')
-                f.write("https://example.com.m3u8\n\n")
-            else:
-                print("[ℹ️] Nessun evento trovato, canale DADDYLIVE non aggiunto.")
+            for name, url in live_events:
+                f.write(f'#EXTINF:-1 group-title="Live Events",{name}\n{url}\n\n')
+        
+        # Aggiungi canali 24/7
+        if channels_247:
+            for name, url in channels_247:
+                f.write(f'#EXTINF:-1 group-title="DLHD 24/7",{name}\n{url}\n\n')
 
-            for category, channels in categorized_channels.items(): 
-                if not channels: 
-                    continue 
-          
-                for ch in channels: 
-                    tvg_name = ch["tvg_name"] 
-                    channel_id = ch["channel_id"] 
-                    event_title = ch["event_title"]  # Otteniamo il titolo dell'evento
-                    channel_name = ch["channel_name"]
-     
-                    try: 
-                        stream = get_stream_from_channel_id(channel_id)
-                        if stream: 
-                            cleaned_event_id = clean_tvg_id(event_title) # Usa event_title per tvg-id
-                            f.write(f'#EXTINF:-1 group-title="Live Events",{category} | {tvg_name}\n')
-                            f.write(f'{stream}\n\n')
-                        else: 
-                            print(f"[✗] {tvg_name} - Nessuno stream trovato") 
-                    except Exception as e: 
-                        print(f"[!] Errore su {tvg_name}: {e}") 
-     
-    # Esegui la generazione quando la funzione viene chiamata
-    generate_m3u_from_schedule(JSON_FILE, OUTPUT_FILE)
+    total_channels = len(channels_247) + len(live_events)
+    print(f"Creato file {OUTPUT_FILE} con {total_channels} canali totali:")
+    print(f"  - {len(channels_247)} canali 24/7")
+    print(f"  - {len(live_events)} eventi live")
 
 # Funzione per il quarto script (schedule_extractor.py)
 def schedule_extractor():
@@ -536,16 +505,10 @@ def main():
             print(f"Errore durante l'esecuzione di vavoo_channels: {e}")
             return
         try:
-            dlhd_events()
+            dlhd()
         except Exception as e:
-            print(f"Errore durante l'esecuzione di dlhd_events: {e}")
-            return
-        try:
-            dlhd_channels()
-        except Exception as e:
-            print(f"Errore durante l'esecuzione di dlhd_channels: {e}")
-            return
-        print("Tutti gli script sono stati eseguiti correttamente!")
+            print(f"Errore durante l'esecuzione di dlhd: {e}")
+            retune
     finally:
         pass
 
