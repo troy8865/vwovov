@@ -71,21 +71,46 @@ def dlhd():
                 name = strong.get_text(strip=True)
             else:
                 name = a.get_text(strip=True)
+            
+            if name == "LA7d HD+ Italy":
+                name = "Canale 5 Italy"
+
+            if name == "Sky Calcio 7 (257) Italy":
+                name = "DAZN"
+
             match = re.search(r'stream-(\d+)\.php', href)
             if not match:
                 continue
             channel_id = match.group(1)
             stream_url = f"https://daddylive.sx/stream/stream-{channel_id}.php"
+            channels_247.append((name, stream_url))
             
-            if name not in seen_names:
-                seen_names.add(name)
-                channels_247.append((name, stream_url))
+        # Conta le occorrenze di ogni nome di canale
+        name_counts = {}
+        for name, _ in channels_247:
+            name_counts[name] = name_counts.get(name, 0) + 1
+
+        # Aggiungi un contatore ai nomi duplicati
+        final_channels = []
+        name_counter = {}
+
+        for name, stream_url in channels_247:
+            if name_counts[name] > 1:
+                if name not in name_counter:
+                    # Prima occorrenza di un duplicato, mantieni il nome originale
+                    name_counter[name] = 1
+                    final_channels.append((name, stream_url))
+                else:
+                    # Occorrenze successive, aggiungi contatore
+                    name_counter[name] += 1
+                    new_name = f"{name} ({name_counter[name]})"
+                    final_channels.append((new_name, stream_url))
             else:
-                print(f"Canale 24/7 duplicato ignorato: {name}")
+                final_channels.append((name, stream_url))
 
         channels_247.sort(key=lambda x: x[0].lower())
         print(f"Trovati {len(channels_247)} canali 24/7")
-
+        channels_247 = final_channels
     except Exception as e:
         print(f"Errore nell'estrazione dei canali 24/7: {e}")
         channels_247 = []
@@ -177,7 +202,7 @@ def dlhd():
                     try:
                         stream = get_stream_from_channel_id(ch["channel_id"])
                         if stream:
-                            live_events.append((f"{category} | {ch['tvg_name']}", stream))
+                            live_events.append((f"{category} | {ch['tvg_name']} | {ch['channel_name']}", stream))
                     except Exception as e:
                         print(f"Errore su {ch['tvg_name']}: {e}")
 
@@ -457,30 +482,54 @@ def vavoo_channels():
         return all_channels
     
     def save_as_m3u(channels, filename="vavoo.m3u"):
-        # Raggruppa i canali per categoria
-        channels_by_category = {}
-        
+        # 1. Raccogli tutti i canali in una lista flat
+        all_channels_flat = []
         for ch in channels:
             original_name = ch.get("name", "SenzaNome")
-            # Pulisce il nome rimuovendo .a, .b, .c
             name = clean_channel_name(original_name)
             url = ch.get("url", "")
-            category = ch.get("group", "Generale")  # Usa il campo "group" come categoria
-            
+            category = ch.get("group", "Generale")
             if url:
-                if category not in channels_by_category:
-                    channels_by_category[category] = []
-                channels_by_category[category].append((name, url))
-        
+                all_channels_flat.append({'name': name, 'url': url, 'category': category})
+
+        # 2. Conta le occorrenze di ogni nome
+        name_counts = {}
+        for ch_data in all_channels_flat:
+            name_counts[ch_data['name']] = name_counts.get(ch_data['name'], 0) + 1
+
+        # 3. Rinomina i duplicati
+        final_channels_data = []
+        name_counter = {}
+        for ch_data in all_channels_flat:
+            name = ch_data['name']
+            if name_counts[name] > 1:
+                if name not in name_counter:
+                    name_counter[name] = 1
+                    new_name = name  # Mantieni il nome originale per la prima occorrenza
+                else:
+                    name_counter[name] += 1
+                    new_name = f"{name} ({name_counter[name]})"
+            else:
+                new_name = name
+            final_channels_data.append({'name': new_name, 'url': ch_data['url'], 'category': ch_data['category']})
+
+        # 4. Raggruppa i canali per categoria per la scrittura del file
+        channels_by_category = {}
+        for ch_data in final_channels_data:
+            category = ch_data['category']
+            if category not in channels_by_category:
+                channels_by_category[category] = []
+            channels_by_category[category].append((ch_data['name'], ch_data['url']))
+
+        # 5. Scrivi il file M3U
         with open(filename, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
-            # Ordina categorie e canali alfabeticamente
             for category in sorted(channels_by_category.keys()):
                 channel_list = sorted(channels_by_category[category], key=lambda x: x[0].lower())
                 f.write(f"\n# {category.upper()}\n")
                 for name, url in channel_list:
                     f.write(f'#EXTINF:-1 group-title="{category} VAVOO",{name}\n{url}\n')
-        
+
         print(f"Playlist M3U salvata in: {filename}")
         print(f"Canali organizzati in {len(channels_by_category)} categorie:")
         for category, channel_list in channels_by_category.items():
