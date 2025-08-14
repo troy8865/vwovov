@@ -23,13 +23,23 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright python-dateutil python-dotenv
           playwright install
 
-      - name: Run Script with Retry
-        uses: nick-fields/retry@v2
-        with:
-          timeout_minutes: 30
-          max_attempts: 3
-          retry_wait_seconds: 300  # 5 minuti tra i tentativi
-          command: python m3u.py
+      - name: Run Script with Manual Retry
+        run: |
+          for attempt in 1 2 3; do
+            echo "Tentativo $attempt di 3..."
+            if python m3u.py; then
+              echo "Script eseguito con successo al tentativo $attempt"
+              break
+            else
+              if [ $attempt -eq 3 ]; then
+                echo "Script fallito dopo 3 tentativi"
+                exit 1
+              else
+                echo "Tentativo $attempt fallito, aspetto 5 minuti prima del prossimo..."
+                sleep 300
+              fi
+            fi
+          done
       
       - name: Configura Git
         run: |
