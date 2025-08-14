@@ -1,11 +1,11 @@
 name: RUN SCRIPT
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Esegui ogni 2 ore
-  workflow_dispatch:  # Consente l'esecuzione manuale
+    - cron: '0 6 * * *'  # Esegui ogni giorno alle 6:00 UTC
+  workflow_dispatch:
 
 jobs:
-  extract-data:
+  extract-
     runs-on: ubuntu-latest
     
     steps:
@@ -23,9 +23,13 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright python-dateutil python-dotenv
           playwright install
 
-      - name: Run Compiled Script
-        run: |
-          python m3u.py
+      - name: Run Script with Retry
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 30
+          max_attempts: 3
+          retry_wait_seconds: 300  # 5 minuti tra i tentativi
+          command: python m3u.py
       
       - name: Configura Git
         run: |
@@ -46,7 +50,7 @@ jobs:
       - name: Aggiungi il file generato al commit
         run: |
           git add .
-          git commit -m "UPDATE" || echo "Nessuna modifica da commitare"
+          git commit -m "UPDATE $(date '+%Y-%m-%d %H:%M:%S')" || echo "Nessuna modifica da commitare"
 
       - name: Pusha il cambiamento
         run: git push
