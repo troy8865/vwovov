@@ -1,5 +1,5 @@
 ## Playlist Description
-- **DLHD** → Includes **all 24/7 channels** plus **live events** (sports, shows, etc.).  
+- **DLHD (daddylivehd)** → Includes **all 24/7 channels** plus **live events** (sports, shows, etc.).  
 - **VAVOO** → Includes **channels from all around the world**, covering multiple countries and genres.
 
 ---
@@ -17,6 +17,7 @@ This proxy is required to ensure proper access and functionality.
 2. Configure your player or application to use the proxy for all requests to these lists.
 
 ---
+
 
 **Note:** Direct access to these lists without the proxy may not work as intended.
 
