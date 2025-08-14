@@ -358,7 +358,7 @@ def schedule_extractor():
                     print(f"Tentativo {attempt} di {max_attempts}...")
                     page.goto(url)
                     print("Attesa per il caricamento completo...")
-                    page.wait_for_timeout(10000)  # 10 secondi
+                    page.wait_for_timeout(30000)  # 10 secondi
     
                     schedule_content = page.evaluate("""() => {
                         const container = document.getElementById('main-schedule-container');
