@@ -1,7 +1,7 @@
 name: RUN SCRIPT
 on:
   schedule:
-    - cron: '0 6 * * *'  # Esegui ogni giorno alle 6:00 UTC
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -46,14 +46,14 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Stash delle modifiche locali (se presenti)
+      - name: Stash delle modifiche locali
         run: |
           git diff --quiet || git stash
 
       - name: Scarica le ultime modifiche dal repository remoto
         run: git pull --rebase origin main
 
-      - name: Ripristina le modifiche stashed (se presenti)
+      - name: Ripristina le modifiche stashed
         run: |
           git stash list | grep -q "stash@{0}" && git stash pop || echo "Nessuna modifica da ripristinare"
 
