@@ -3,230 +3,425 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Libertad vs River Plate (00:30) | beIN SPORTS USA
-https://daddylive.sx/stream/stream-425.php
+#EXTINF:-1 group-title="Live Events",Soccer | NWSL : Washington Spirit vs Racing Louisville FC (00:00) | TNT Sports 1 UK
+https://daddylive.sx/stream/stream-31.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Empoli vs Reggiana (16:00) | CBS Sports Golazo USA
-https://daddylive.sx/stream/stream-910.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Poland - Ekstraklasa : Zagłębie Lubin vs Lechia Gdańsk (16:00) | beIN SPORTS USA
-https://daddylive.sx/stream/stream-425.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Girona vs Rayo Vallecano (17:00) | LaLigaTV UK
-https://daddylive.sx/stream/stream-276.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Girona vs Rayo Vallecano (17:00) | Viaplay Sports 2 UK
-https://daddylive.sx/stream/stream-550.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Aldosivi vs Belgrano (18:30) | TNT Sports Argentina
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Racing Club vs Tigre (00:00) | TNT Sports Argentina
 https://daddylive.sx/stream/stream-388.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | France Ligue 1 : Rennes vs Olympique Marseille (18:45) | beIN SPORTS USA
-https://daddylive.sx/stream/stream-425.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Scottish League Cup : Celtic vs Falkirk (18:45) | Viaplay Sports 1 UK
-https://daddylive.sx/stream/stream-451.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Chile - Primera Division : Unión Española vs Deportes Iquique (19:00) | TNT SPORTS Premium HD
+#EXTINF:-1 group-title="Live Events",Soccer | Chile - Primera Division : Unión La Calera vs La Serena (00:00) | TNT SPORTS Premium HD
 https://daddylive.sx/stream/stream-642.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | England Premier League : Liverpool vs AFC Bournemouth (19:00) | USA Network
-https://daddylive.sx/stream/stream-343.php
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Puebla vs Atlético San Luis (01:00) | TUDN USA
+https://daddylive.sx/stream/stream-66.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | England Premier League : Liverpool vs AFC Bournemouth (19:00) | NBC UNIVERSO USA
-https://daddylive.sx/stream/stream-845.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England Premier League : Liverpool vs AFC Bournemouth (19:00) | Sky Sports Main Event UK
-https://daddylive.sx/stream/stream-38.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England Premier League : Liverpool vs AFC Bournemouth (19:00) | Sky Sports Premier League UK
-https://daddylive.sx/stream/stream-130.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Villarreal vs Real Oviedo (19:30) | LaLigaTV UK
-https://daddylive.sx/stream/stream-276.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Villarreal vs Real Oviedo (19:30) | Viaplay Sports 2 UK
-https://daddylive.sx/stream/stream-550.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | USL League One : Charlotte Independence vs Westchester SC (23:00) | MSG USA
-https://daddylive.sx/stream/stream-765.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Uruguay Primera Division : Boston River vs Peñarol (23:00) | GOLTV USA
+#EXTINF:-1 group-title="Live Events",Soccer | Peru - Primera Division : Sport Boys vs Deportivo Garcilaso (01:00) | GOLTV USA
 https://daddylive.sx/stream/stream-597.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | USL Championship : North Carolina vs Detroit City (23:30) | CBS Sports Network USA
+#EXTINF:-1 group-title="Live Events",Soccer | NWSL : Utah Royals vs Angel City (02:00) | CBS Sports Golazo USA
+https://daddylive.sx/stream/stream-910.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Necaxa vs León (03:00) | TUDN USA
+https://daddylive.sx/stream/stream-66.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Championship : Derby County vs Coventry City (11:30) | CBS Sports Network USA
 https://daddylive.sx/stream/stream-308.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | The Hundred Women : Northern Superchargers W vs Birmingham Phoenix W (14:00) | Sky Sports Cricket UK
-https://daddylive.sx/stream/stream-65.php
+#EXTINF:-1 group-title="Live Events",Soccer | England - League Two : Chesterfield vs Bristol Rovers (11:30) | CBS Sports Golazo USA
+https://daddylive.sx/stream/stream-910.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | The Hundred : Northern Superchargers vs Birmingham Phoenix (17:00) | Sky Sports Cricket UK
-https://daddylive.sx/stream/stream-65.php
+#EXTINF:-1 group-title="Live Events",Soccer | England - Championship : Preston North End vs Leicester City (14:00) | CBS Sports Golazo USA
+https://daddylive.sx/stream/stream-910.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | Caribbean Premier League : Saint Kitts and Nevis Patriots vs Guyana Amazon Warriors (23:00) | TNT Sports 1 UK
+#EXTINF:-1 group-title="Live Events",Soccer | U18 Premier League : Everton U18 vs Manchester United U18 (10:00) | MUTV UK
+https://daddylive.sx/stream/stream-377.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Premier League : Aston Villa vs Newcastle United (11:30) | TNT Sports 1 UK
 https://daddylive.sx/stream/stream-31.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Premier League : Aston Villa vs Newcastle United (11:30) | USA Network
+https://daddylive.sx/stream/stream-343.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Premier League : Aston Villa vs Newcastle United (11:30) | NBC UNIVERSO USA
+https://daddylive.sx/stream/stream-845.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Championship : Wrexham vs West Bromwich Albion (11:30) | ITV 4 UK
+https://daddylive.sx/stream/stream-353.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Championship : Wrexham vs West Bromwich Albion (11:30) | Sky Sports Football UK
+https://daddylive.sx/stream/stream-35.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Championship : Wrexham vs West Bromwich Albion (11:30) | Sky Sports Main Event UK
+https://daddylive.sx/stream/stream-38.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Poland - Ekstraklasa : Motor Lublin vs Piast Gliwice (12:45) | beIN SPORTS USA
+https://daddylive.sx/stream/stream-425.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Premier League : Brighton & Hove Albion vs Fulham (14:00) | USA Network
+https://daddylive.sx/stream/stream-343.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Premier League : Brighton & Hove Albion vs Fulham (14:00) | NBC UNIVERSO USA
+https://daddylive.sx/stream/stream-845.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | France - Ligue 1 : Lens vs Olympique Lyonnais (15:00) | beIN SPORTS USA
+https://daddylive.sx/stream/stream-425.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester City (16:30) | NBC USA
+https://daddylive.sx/stream/stream-53.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester City (16:30) | Sky Sports Main Event UK
+https://daddylive.sx/stream/stream-38.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester City (16:30) | Sky Sports Premier League UK
+https://daddylive.sx/stream/stream-130.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Südtirol (16:30) | CBS Sports Network USA
+https://daddylive.sx/stream/stream-308.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Scottish League Cup : Rangers vs Alloa Athletic (16:45) | Viaplay Sports 1 UK
+https://daddylive.sx/stream/stream-451.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | France - Ligue 1 : Monaco vs Le Havre (17:00) | beIN SPORTS USA
+https://daddylive.sx/stream/stream-425.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Portugal - Primeira Liga : Vitória Guimarães vs Estoril (17:00) | GOLTV USA
+https://daddylive.sx/stream/stream-597.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Mallorca vs Barcelona (17:30) | LaLigaTV UK
+https://daddylive.sx/stream/stream-276.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Mallorca vs Barcelona (17:30) | Viaplay Sports 2 UK
+https://daddylive.sx/stream/stream-550.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Mallorca vs Barcelona (17:30) | ESPN2 USA
+https://daddylive.sx/stream/stream-45.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | DFL-Supercup : Stuttgart vs Bayern München (18:30) | ABC USA
+https://daddylive.sx/stream/stream-51.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | DFL-Supercup : Stuttgart vs Bayern München (18:30) | ABC NY USA
+https://daddylive.sx/stream/stream-766.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Club Friendly : Internazionale vs Olympiakos Piraeus (18:30) | CBS Sports Golazo USA
+https://daddylive.sx/stream/stream-910.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Chile - Primera Division : Colo-Colo vs Universidad Católica (19:00) | TNT SPORTS Premium HD
+https://daddylive.sx/stream/stream-642.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | France - Ligue 1 : Nice vs Toulouse (19:05) | beIN SPORTS USA
+https://daddylive.sx/stream/stream-425.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Cremonese vs Palermo (19:15) | Viaplay Sports 1 UK
+https://daddylive.sx/stream/stream-451.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Huracán vs Argentinos Juniors (19:15) | TNT Sports Argentina
+https://daddylive.sx/stream/stream-388.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Portugal Primeira Liga : Amadora Estrela vs Benfica (19:30) | GOLTV USA
+https://daddylive.sx/stream/stream-597.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | NWSL : Kansas City Current vs Orlando Pride (20:00) | TNT Sports 4 UK
+https://daddylive.sx/stream/stream-34.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | NWSL : Kansas City Current vs Orlando Pride (20:00) | CBS USA
+https://daddylive.sx/stream/stream-52.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Rosario Central vs Deportivo Riestra (21:30) | TNT Sports Argentina
+https://daddylive.sx/stream/stream-388.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Rosario Central vs Deportivo Riestra (21:30) | Viaplay Sports 1 UK
+https://daddylive.sx/stream/stream-451.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Canadian Premier League : Pacific vs HFX Wanderers (22:00) | Fox Sports 2 USA
+https://daddylive.sx/stream/stream-758.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Chile - Primera Division : O'Higgins vs Cobresal (22:30) | TNT SPORTS Premium HD
+https://daddylive.sx/stream/stream-642.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | USL Championship : Pittsburgh Riverhounds vs Charleston Battery (23:00) | CBS Sports Golazo USA
+https://daddylive.sx/stream/stream-910.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Guadalajara vs Juárez (23:05) | NBC UNIVERSO USA
+https://daddylive.sx/stream/stream-845.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | NWSL : North Carolina Courage vs Portland Thorns (23:30) | ion USA
+https://daddylive.sx/stream/stream-325.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Argentina - Primera División : Vélez Sarsfield vs Independiente (23:30) | Viaplay Sports 1 UK
+https://daddylive.sx/stream/stream-451.php
+
+#EXTINF:-1 group-title="Live Events",Cricket | 3rd T20 : Australia vs South Africa (09:15) | TNT Sports 4 UK
+https://daddylive.sx/stream/stream-34.php
+
+#EXTINF:-1 group-title="Live Events",Cricket | The Hundred Women : Oval Invincibles vs Welsh Fire (13:30) | BBC Two UK
+https://daddylive.sx/stream/stream-357.php
+
+#EXTINF:-1 group-title="Live Events",Cricket | The Hundred Women : Oval Invincibles vs Welsh Fire (13:30) | Sky Sports Mix UK
+https://daddylive.sx/stream/stream-449.php
+
+#EXTINF:-1 group-title="Live Events",Cricket | The Hundred : Oval Invincibles vs Welsh Fire (16:30) | BBC Two UK
+https://daddylive.sx/stream/stream-357.php
+
+#EXTINF:-1 group-title="Live Events",Cricket | Caribbean Premier League : Antigua & Barbuda Falcons vs Barbados Tridents (22:30) | TNT Sports 4 UK
+https://daddylive.sx/stream/stream-34.php
 
 #EXTINF:-1 group-title="Live Events",Tennis | ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA (15:00) | Sky Sports Tennis UK
 https://daddylive.sx/stream/stream-46.php
 
-#EXTINF:-1 group-title="Live Events",WWE | TNA iMPACT! (00:00) | AXS TV USA
-https://daddylive.sx/stream/stream-742.php
+#EXTINF:-1 group-title="Live Events",Motorsport | MotoGP : Greek Grand Prix of Austria Practice 2 (07:00) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
 
-#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Danish Golf Championship (11:00) | Sky Sports Golf UK
-https://daddylive.sx/stream/stream-70.php
+#EXTINF:-1 group-title="Live Events",Motorsport | MotoGP : Greek Grand Prix of Austria Qualifying (08:00) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
 
-#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Danish Golf Championship (11:00) | USA Network
-https://daddylive.sx/stream/stream-343.php
+#EXTINF:-1 group-title="Live Events",Motorsport | MotoE | Round 3 | Austria Race 1 (10:00) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
 
-#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Danish Golf Championship (11:00) | GOLF Channel USA
-https://daddylive.sx/stream/stream-318.php
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto3 : Greek Grand Prix of Austria Qualifying (10:50) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
 
-#EXTINF:-1 group-title="Live Events",Golf | LIV Golf Indianapolis - Day 1 Featured Group 2 (16:00) | Fox Sports 1 USA
+#EXTINF:-1 group-title="Live Events",Motorsport | MotoGP : Greek Grand Prix of Austria Sprint Race (12:30) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | MotoGP : Greek Grand Prix of Austria Sprint Race (12:30) | Fox Sports 1 USA
 https://daddylive.sx/stream/stream-39.php
 
-#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour: Portland Classic - Day 2 (16:00) | Sky Sports Mix UK
-https://daddylive.sx/stream/stream-449.php
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto2 : Greek Grand Prix of Austria Qualifying (11:40) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
 
-#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Fedex Playoffs - BMW Championship (16:00) | Sky Sports Golf UK
-https://daddylive.sx/stream/stream-70.php
-
-#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Fedex Playoffs - BMW Championship (16:00) | USA Network
+#EXTINF:-1 group-title="Live Events",Motorsport | NASCAR Sprint Cup Series - Cook Out 400 (23:00) | USA Network
 https://daddylive.sx/stream/stream-343.php
 
-#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Fedex Playoffs - BMW Championship (16:00) | GOLF Channel USA
+#EXTINF:-1 group-title="Live Events",Motorsport | NASCAR Sprint Cup Series - Cook Out 400 (23:00) | Viaplay Sports 2 UK
+https://daddylive.sx/stream/stream-550.php
+
+#EXTINF:-1 group-title="Live Events",MMA | Professional Fighters League Finals : Alfie Davis vs Gadzhi Rabadanov (01:00) | ESPN USA
+https://daddylive.sx/stream/stream-44.php
+
+#EXTINF:-1 group-title="Live Events",MMA | UFC 319 Early Prelims : Karine Silva vs Dione Barbosa (22:00) | ESPN USA
+https://daddylive.sx/stream/stream-44.php
+
+#EXTINF:-1 group-title="Live Events",WWE | WWE Friday Night SmackDown (00:00) | USA Network
+https://daddylive.sx/stream/stream-343.php
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Danish Golf Championship (10:30) | Sky Sports Golf UK
+https://daddylive.sx/stream/stream-70.php
+
+#EXTINF:-1 group-title="Live Events",Golf | DP World Tour Danish Golf Championship (10:30) | GOLF Channel USA
+https://daddylive.sx/stream/stream-318.php
+
+#EXTINF:-1 group-title="Live Events",Golf | LIV Golf Indianapolis - The Club at Chatham Hills, USA (15:15) | FOX USA
+https://daddylive.sx/stream/stream-54.php
+
+#EXTINF:-1 group-title="Live Events",Golf | LIV Golf Indianapolis - The Club at Chatham Hills, USA (15:15) | FOXNY USA
+https://daddylive.sx/stream/stream-768.php
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Fedex Playoffs - BMW Championship (17:00) | Sky Sports Golf UK
+https://daddylive.sx/stream/stream-70.php
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Fedex Playoffs - BMW Championship (17:00) | GOLF Channel USA
+https://daddylive.sx/stream/stream-318.php
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Fedex Playoffs - BMW Championship (19:30) | Sky Sports Golf UK
+https://daddylive.sx/stream/stream-70.php
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Fedex Playoffs - BMW Championship (19:30) | GOLF Channel USA
+https://daddylive.sx/stream/stream-318.php
+
+#EXTINF:-1 group-title="Live Events",Golf | PGA Tour Fedex Playoffs - BMW Championship (19:30) | NBCNY USA
+https://daddylive.sx/stream/stream-769.php
+
+#EXTINF:-1 group-title="Live Events",Golf | 2025 U.S. Amateur Semifinals (19:30) | GOLF Channel USA
+https://daddylive.sx/stream/stream-318.php
+
+#EXTINF:-1 group-title="Live Events",Golf | LPGA Tour The Standard Portland Classic (22:00) | Golf Channel USA
 https://daddylive.sx/stream/stream-318.php
 
 #EXTINF:-1 group-title="Live Events",Golf | LPGA Tour The Standard Portland Classic (22:00) | Sky Sports Golf UK
 https://daddylive.sx/stream/stream-70.php
 
-#EXTINF:-1 group-title="Live Events",Golf | USGA Championship: U.S. Amateur - Day 3 (23:00) | GOLF Channel USA
-https://daddylive.sx/stream/stream-318.php
-
-#EXTINF:-1 group-title="Live Events",Snooker | Saudi Arabia Snooker Masters | Semi-Final (11:00) | TNT Sports 3 UK
+#EXTINF:-1 group-title="Live Events",Snooker | Saudi Arabia Snooker Masters | Final (11:00) | TNT Sports 3 UK
 https://daddylive.sx/stream/stream-33.php
 
-#EXTINF:-1 group-title="Live Events",Snooker | Saudi Arabia Snooker Masters | Semi-Final (17:00) | TNT Sports 3 UK
+#EXTINF:-1 group-title="Live Events",Snooker | Saudi Arabia Snooker Masters | Final (17:00) | TNT Sports 3 UK
 https://daddylive.sx/stream/stream-33.php
 
-#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Atlanta Falcons vs Tennessee Titans (23:00) | NFL Network USA
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Seattle Seahawks vs Kansas City Chiefs (02:00) | NFL Network USA
 https://daddylive.sx/stream/stream-405.php
 
-#EXTINF:-1 group-title="Live Events",Aussie rules | AFL Women : Sydney Swans W vs Richmond W (08:15) | FOX Sports 2 USA
+#EXTINF:-1 group-title="Live Events",Am. Football | CFL : Saskatchewan Roughriders vs Hamilton Tiger-Cats (19:00) | CBS Sports Network USA
+https://daddylive.sx/stream/stream-308.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | CFL : BC Lions vs Montreal Alouettes (23:00) | CBS Sports Network USA
+https://daddylive.sx/stream/stream-308.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Philadelphia Eagles vs Cleveland Browns (17:00) | NFL Network USA
+https://daddylive.sx/stream/stream-405.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Las Vegas Raiders vs San Francisco 49ers (20:00) | NFL Network USA
+https://daddylive.sx/stream/stream-405.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : Las Vegas Raiders vs San Francisco 49ers (20:00) | Sky Sports Action UK
+https://daddylive.sx/stream/stream-37.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : New York Giants vs New York Jets (23:00) | NFL Network USA
+https://daddylive.sx/stream/stream-405.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : New York Giants vs New York Jets (23:00) | CBSNY USA
+https://daddylive.sx/stream/stream-767.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : New York Giants vs New York Jets (23:00) | NBCNY USA
+https://daddylive.sx/stream/stream-769.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NFL : New York Giants vs New York Jets (23:00) | Sky Sports Action UK
+https://daddylive.sx/stream/stream-37.php
+
+#EXTINF:-1 group-title="Live Events",Athletics | IAAF Diamond League Kamila Skolimowska Memorial - Silesian Stadium (14:00) | BBC Two UK
+https://daddylive.sx/stream/stream-357.php
+
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL : Gold Coast Suns vs Greater Western Sydney (02:35) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
+
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL Women : Geelong Cats W vs North Melbourne Kangaroos W (05:30) | TNT Sports 3 UK
+https://daddylive.sx/stream/stream-33.php
+
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL : Hawthorn Hawks vs Melbourne Demons (06:15) | FOX Sports 2 USA
 https://daddylive.sx/stream/stream-758.php
 
-#EXTINF:-1 group-title="Live Events",Aussie rules | AFL Women : Sydney Swans W vs Richmond W (08:15) | TNT Sports 1 UK
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL : Hawthorn Hawks vs Melbourne Demons (06:15) | TNT Sports 1 UK
 https://daddylive.sx/stream/stream-31.php
 
-#EXTINF:-1 group-title="Live Events",Aussie rules | AFL : Essendon Bombers vs St Kilda Saints (09:20) | TNT Sports 4 UK
-https://daddylive.sx/stream/stream-34.php
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL Women : Greater Western Sydney W vs Essendon Bombers W (07:30) | TNT Sports 3 UK
+https://daddylive.sx/stream/stream-33.php
 
-#EXTINF:-1 group-title="Live Events",Aussie rules | AFL : Fremantle Dockers vs Brisbane Lions (10:20) | FOX Sports 2 USA
-https://daddylive.sx/stream/stream-758.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | Minor League Baseball : Albuquerque Isotopes vs Oklahoma City Comets (00:00) | Spectrum SportsNet LA
-https://daddylive.sx/stream/stream-764.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Colorado Rockies vs Arizona Diamondbacks (00:40) | FOX Sports 1 USA
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL : Adelaide Crows vs Collingwood Magpies (09:35) | FOX Sports 1 USA
 https://daddylive.sx/stream/stream-39.php
 
-#EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Canada vs. Venezuela (17:00) | ESPN USA
-https://daddylive.sx/stream/stream-44.php
+#EXTINF:-1 group-title="Live Events",Baseball | Banana Ball World Tour : The Firefighters vs Savannah Bananas (00:00) | ESPN2 USA
+https://daddylive.sx/stream/stream-45.php
 
-#EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Washington vs. Nevada (19:00) | ESPN USA
-https://daddylive.sx/stream/stream-44.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Aruba vs. Panama (21:00) | ESPN USA
-https://daddylive.sx/stream/stream-44.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Hawaii vs. Connecticut (23:00) | ESPN USA
-https://daddylive.sx/stream/stream-44.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | Baseball Coverage of baseball action (23:00) | CNBC USA
-https://daddylive.sx/stream/stream-309.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Chicago Cubs vs Pittsburgh Pirates (18:20) | TNT Sports 1 UK
-https://daddylive.sx/stream/stream-31.php
-
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Chicago Cubs vs Pittsburgh Pirates (18:20) | Marquee Sports Network USA
+#EXTINF:-1 group-title="Live Events",Baseball | Minor League Baseball : Worcester Red Sox vs Iowa Cubs (00:00) | Marquee Sports Network USA
 https://daddylive.sx/stream/stream-770.php
 
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Washington Nationals vs Philadelphia Phillies (22:45) | NBCS Philadelphia USA
-https://daddylive.sx/stream/stream-777.php
+#EXTINF:-1 group-title="Live Events",Baseball | Baseball Coverage of baseball action (02:00) | CNBC USA
+https://daddylive.sx/stream/stream-309.php
 
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Washington Nationals vs Philadelphia Phillies (22:45) | MASN USA
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : St. Louis Cardinals vs New York Yankees (00:15) | YES USA
+https://daddylive.sx/stream/stream-763.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : Oakland Athletics vs Los Angeles Angels (02:05) | NBCS California USA
+https://daddylive.sx/stream/stream-755.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : Los Angeles Dodgers vs San Diego Padres (02:10) | Spectrum SportsNet LA
+https://daddylive.sx/stream/stream-764.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : San Francisco Giants vs Tampa Bay Rays (02:15) | NBCS Bay Area USA
+https://daddylive.sx/stream/stream-753.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : San Francisco Giants vs Tampa Bay Rays (02:15) | MLB Network USA
+https://daddylive.sx/stream/stream-399.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Australia vs TBA (17:00) | ESPN USA
+https://daddylive.sx/stream/stream-44.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Texas vs TBA (19:00) | ESPN USA
+https://daddylive.sx/stream/stream-44.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | Baseball Coverage of baseball action (20:00) | CNBC USA
+https://daddylive.sx/stream/stream-309.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Puerto Rico vs TBA (21:00) | ESPN USA
+https://daddylive.sx/stream/stream-44.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | 2025 Little League Baseball World Series : Illinois vs TBA (23:00) | ESPN2 USA
+https://daddylive.sx/stream/stream-45.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | Minor League Baseball : Worcester Red Sox vs Iowa Cubs (23:00) | Marquee Sports Network USA
+https://daddylive.sx/stream/stream-770.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : Chicago Cubs vs Pittsburgh Pirates (18:00) | FOX Sports 1 USA
+https://daddylive.sx/stream/stream-39.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : Toronto Blue Jays vs Texas Rangers (19:07) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : Washington Nationals vs Philadelphia Phillies (20:05) | MASN USA
 https://daddylive.sx/stream/stream-829.php
 
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : Boston Red Sox vs Miami Marlins (23:10) | NESN USA
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : Washington Nationals vs Philadelphia Phillies (20:05) | NBCS Philadelphia USA
+https://daddylive.sx/stream/stream-777.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : Boston Red Sox vs Miami Marlins (20:10) | NESN USA
 https://daddylive.sx/stream/stream-762.php
 
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : New York Mets vs Seattle Mariners (23:10) | Root Sports NW USA
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : New York Mets vs Seattle Mariners (20:10) | CW USA
+https://daddylive.sx/stream/stream-300.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : New York Mets vs Seattle Mariners (20:10) | Root Sports NW USA
 https://daddylive.sx/stream/stream-920.php
 
-#EXTINF:-1 group-title="Live Events",Baseball | MLB : New York Mets vs Seattle Mariners (23:10) | SportsNet New York USA
-https://daddylive.sx/stream/stream-759.php
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : New York Mets vs Seattle Mariners (20:10) | CW PIX 11 USA
+https://daddylive.sx/stream/stream-280.php
 
-#EXTINF:-1 group-title="Live Events",Basketball | WNBA : Indiana Fever W vs Washington Mystics W (23:30) | ION USA
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : St. Louis Cardinals vs New York Yankees (23:15) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
+
+#EXTINF:-1 group-title="Live Events",Baseball | MLB : St. Louis Cardinals vs New York Yankees (23:15) | FOXNY USA
+https://daddylive.sx/stream/stream-768.php
+
+#EXTINF:-1 group-title="Live Events",Basketball | WNBA : Las Vegas Aces vs Phoenix Mercury (02:00) | ION USA
 https://daddylive.sx/stream/stream-325.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | Tour de Romandie - Women's Stage 1 (11:00) | TNT Sports 1 UK
-https://daddylive.sx/stream/stream-31.php
+#EXTINF:-1 group-title="Live Events",Basketball | WNBA : Minnesota Lynx W vs New York Liberty W (18:00) | CBS USA
+https://daddylive.sx/stream/stream-52.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | Czech Tour | Stage 2 Men | Pardubice - Dlouhé Stráně (173km) (12:30) | TNT Sports 4 UK
+#EXTINF:-1 group-title="Live Events",Basketball | WNBA : Minnesota Lynx W vs New York Liberty W (18:00) | CBSNY USA
+https://daddylive.sx/stream/stream-767.php
+
+#EXTINF:-1 group-title="Live Events",Cycling | Tour of Denmark | Stage 5 Men | Hobro – Silkeborg (157.3km) (13:00) | TNT Sports 4 UK
 https://daddylive.sx/stream/stream-34.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | Tour of Denmark | Stage 4 Men | Svendborg – Vejle (226.9km) (13:45) | TNT Sports 1 UK
-https://daddylive.sx/stream/stream-31.php
+#EXTINF:-1 group-title="Live Events",Cycling | Czech Tour | Stage 3 Men | Prostějov - Ostrava (148km) (13:30) | TNT Sports 4 UK
+https://daddylive.sx/stream/stream-34.php
 
 #EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from around the UK (12:00) | Sky Sports Racing UK
 https://daddylive.sx/stream/stream-554.php
 
-#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from Epsom, Newmarket, Thirsk, Dundalk and Tramore (12:30) | Racing Tv UK
+#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from Newbury (12:30) | ITV 4 UK
+https://daddylive.sx/stream/stream-353.php
+
+#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from Newmarket, Perth, Market Rasen, the Curragh and Tramore (12:30) | Racing Tv UK
 https://daddylive.sx/stream/stream-555.php
 
-#EXTINF:-1 group-title="Live Events",Horse Racing | Horse Racing Saratoga Live (20:00) | Fox Sports 2 USA
+#EXTINF:-1 group-title="Live Events",Horse Racing | Horse Racing Saratoga Live (16:30) | Fox Sports 2 USA
 https://daddylive.sx/stream/stream-758.php
 
-#EXTINF:-1 group-title="Live Events",Rugby League | National Rugby League : Sydney Roosters vs Canterbury Bulldogs (10:00) | Sky Sports Action UK
-https://daddylive.sx/stream/stream-37.php
+#EXTINF:-1 group-title="Live Events",Horse Racing | FOX Saratoga Saturday (20:00) | FOX USA
+https://daddylive.sx/stream/stream-54.php
 
-#EXTINF:-1 group-title="Live Events",Rugby League | Super League Rugby : Wigan Warriorsvs Hull KR (19:00) | BBC Two UK
-https://daddylive.sx/stream/stream-357.php
+#EXTINF:-1 group-title="Live Events",Horse Racing | FOX Saratoga Saturday (20:00) | FOXNY USA
+https://daddylive.sx/stream/stream-768.php
 
-#EXTINF:-1 group-title="Live Events",Rugby League | Super League Rugby : Wigan Warriorsvs Hull KR (19:00) | Sky Sports Action UK
-https://daddylive.sx/stream/stream-37.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | MotoGP : Greek Grand Prix of Austria Free Practice 1 (07:00) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | Moto3 : Greek Grand Prix of Austria (07:00) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | Moto2 : Greek Grand Prix of Austria (07:45) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | Moto3 : Greek Grand Prix of Austria (11:10) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | MotoGP : Greek Grand Prix of Austria Practice 1 (11:15) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | Moto2 : Greek Grand Prix of Austria (12:00) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | MotoE | Round 3 | Austria Qualifying (15:00) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | NASCAR Craftsman Truck Series NCTS Race at Richmond, Qualifying (18:00) | Fox Sports 2 USA
-https://daddylive.sx/stream/stream-758.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | NASCAR Cup Series Cook Out 400, Qualifying (20:30) | trutv USA
-https://daddylive.sx/stream/stream-341.php
-
-#EXTINF:-1 group-title="Live Events",Motorsport | NASCAR Craftsman Truck Series NCTS Race at Richmond (23:30) | Fox Sports 1 USA
+#EXTINF:-1 group-title="Live Events",Horse Racing | Horse Racing Saratoga Live (22:00) | Fox Sports 1 USA
 https://daddylive.sx/stream/stream-39.php
 
-#EXTINF:-1 group-title="Live Events",Rugby Union | Bunnings NPC : Southland vs Manawatu (07:10) | Sky Sports Action UK
+#EXTINF:-1 group-title="Live Events",Rugby League | National Rugby League Women : Cronulla Sharks W vs Gold Coast Titans W (02:45) | Sky Sports Mix UK
+https://daddylive.sx/stream/stream-449.php
+
+#EXTINF:-1 group-title="Live Events",Rugby League | National Rugby League Women : Brisbane Broncos W vs Parramatta Eels W (05:15) | Sky Sports Mix UK
+https://daddylive.sx/stream/stream-449.php
+
+#EXTINF:-1 group-title="Live Events",Rugby League | National Rugby League Women : New Zealand Warriors W vs Canberra Raiders W (07:15) | Sky Sports Mix UK
+https://daddylive.sx/stream/stream-449.php
+
+#EXTINF:-1 group-title="Live Events",Rugby Union | Currie Cup : Cheetahs vs Western Province (12:00) | Sky Sports Action UK
 https://daddylive.sx/stream/stream-37.php
+
+#EXTINF:-1 group-title="Live Events",Rugby Union | Rugby Championship : South Africa vs Australia (15:10) | Sky Sports Action UK
+https://daddylive.sx/stream/stream-37.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | European Championship Qualification : Switzerland vs. Sweden (15:00) | RSI LA 2 Switzerland
+https://daddylive.sx/stream/stream-109.php
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://daddylive.sx/stream/stream-51.php
