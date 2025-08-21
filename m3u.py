@@ -26,7 +26,7 @@ def dlhd():
 
     # Carica le variabili d'ambiente
     load_dotenv()
-    
+
     LINK_DADDY = os.getenv("LINK_DADDY", "https://daddylive.sx").strip()
     JSON_FILE = "daddyliveSchedule.json"
     OUTPUT_FILE = "dlhd.m3u"
@@ -37,18 +37,18 @@ def dlhd():
     # ========== FUNZIONI DI SUPPORTO ==========
     def clean_category_name(name):
         return re.sub(r'<[^>]+>', '', name).strip()
-        
+
     def clean_tvg_id(tvg_id):
         cleaned = re.sub(r'[^a-zA-Z0-9À-ÿ]', '', tvg_id)
         return cleaned.lower()
-     
+
     def get_stream_from_channel_id(channel_id):
         return f"{LINK_DADDY}/stream/stream-{channel_id}.php"
 
     # ========== ESTRAZIONE CANALI 24/7 ==========
     print("Estraendo canali 24/7...")
     url = "https://daddylive.sx/24-7-channels.php"
-    
+
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
         response.raise_for_status()
@@ -71,7 +71,7 @@ def dlhd():
                 name = strong.get_text(strip=True)
             else:
                 name = a.get_text(strip=True)
-            
+
             if name == "LA7d HD+ Italy":
                 name = "Canale 5 Italy"
 
@@ -84,7 +84,7 @@ def dlhd():
             channel_id = match.group(1)
             stream_url = f"https://daddylive.sx/stream/stream-{channel_id}.php"
             channels_247.append((name, stream_url))
-            
+
         # Conta le occorrenze di ogni nome di canale
         name_counts = {}
         for name, _ in channels_247:
@@ -118,10 +118,9 @@ def dlhd():
     # ========== ESTRAZIONE EVENTI LIVE ==========
     print("Estraendo eventi live...")
     live_events = []
-    
+
     if os.path.exists(JSON_FILE):
         try:
-            keywords = {"uk", "tnt", "usa", "tennis channel", "tennis stream", "la"}
             now = datetime.now()
             yesterday_date = (now - timedelta(days=1)).date()
 
@@ -137,7 +136,7 @@ def dlhd():
                 except Exception as e:
                     print(f"Errore parsing data '{date_part}': {e}")
                     continue
-                
+
                 process_this_date = False
                 is_yesterday_early_morning_event_check = False
 
@@ -175,7 +174,7 @@ def dlhd():
                             else:
                                 if now - event_datetime_adjusted_for_display_and_filter > timedelta(hours=2):
                                     continue
-                            
+
                             time_formatted = event_datetime_adjusted_for_display_and_filter.strftime("%H:%M")
                         except Exception as e_time:
                             print(f"Errore parsing orario '{time_str}' per evento '{event_title}' in data '{date_key}': {e_time}")
@@ -185,16 +184,14 @@ def dlhd():
                             channel_name = ch.get("channel_name", "")
                             channel_id = ch.get("channel_id", "")
 
-                            words = set(re.findall(r'\b\w+\b', channel_name.lower()))
-                            if keywords.intersection(words):
-                                tvg_name = f"{event_title} ({time_formatted})"
-                                categorized_channels[category].append({
-                                    "tvg_name": tvg_name,
-                                    "channel_name": channel_name,
-                                    "channel_id": channel_id,
-                                    "event_title": event_title,
-                                    "category": category
-                                })
+                            tvg_name = f"{event_title} ({time_formatted})"
+                            categorized_channels[category].append({
+                                "tvg_name": tvg_name,
+                                "channel_name": channel_name,
+                                "channel_id": channel_id,
+                                "event_title": event_title,
+                                "category": category
+                            })
 
             # Converti in lista per il file M3U
             for category, channels in categorized_channels.items():
@@ -216,18 +213,18 @@ def dlhd():
 
     # ========== GENERAZIONE FILE M3U UNIFICATO ==========
     print("Generando file M3U unificato...")
-    
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n\n")
-        
+
         # Aggiungi eventi live se presenti
         if live_events:
             f.write(f'#EXTINF:-1 group-title="Live Events",DADDYLIVE\n')
             f.write("https://example.com.m3u8\n\n")
-            
+
             for name, url in live_events:
                 f.write(f'#EXTINF:-1 group-title="Live Events",{name}\n{url}\n\n')
-        
+
         # Aggiungi canali 24/7
         if channels_247:
             for name, url in channels_247:
