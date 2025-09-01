@@ -434,7 +434,6 @@ def vavoo_channels():
         }
         resp = requests.post("https://vavoo.to/mediahubmx-signature.json", json=data, headers=headers, timeout=10)
         return resp.json().get("signature")
-        proxy_prefix = "https://pulutotv-alsancak.hf.space/proxy/m3u?url="
     
     def vavoo_groups():
         # Puoi aggiungere altri gruppi per più canali
