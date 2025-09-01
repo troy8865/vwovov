@@ -9,6 +9,7 @@ https://example.com.m3u8
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Live Events",Soccer | Bulgaria Second Professional League : Marek Dupnica vs. PFC Minyor Pernik (14:30) | Diema Sport 1 Bulgaria
 https://daddylive.sx/stream/stream-465.php
 
@@ -130,6 +131,10 @@ https://daddylive.sx/stream/stream-756.php
 
 #EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Nuova Monterosi vs Pineto (19:00) | Sky Sport 252 IT
 https://daddylive.sx/stream/stream-4.php
+=======
+#EXTINF:-1 group-title="Live Events",PPV Events | Thunder Mountain Speedway (21:30) | Event PPV
+https://daddylive.sx/stream/stream-5003.php
+>>>>>>> Stashed changes
 
 #EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Leganés vs Deportivo La Coruña (19:30) | LALIGA TV Hypermotion
 https://daddylive.sx/stream/stream-539.php
@@ -164,6 +169,7 @@ https://daddylive.sx/stream/stream-388.php
 #EXTINF:-1 group-title="Live Events",Soccer | Colombia - Primera B : Barranquilla vs Internacional Palmira (23:05) | Win+ Futbol Colombia
 https://daddylive.sx/stream/stream-392.php
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -451,6 +457,25 @@ https://daddylive.sx/stream/stream-1503.php
 #EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Alexandrova E./Zhang S. vs Fernandez L./Williams V. (21:00) | Tennis Stream
 https://daddylive.sx/stream/stream-1502.php
 >>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Live Events",ATP - US OPEN | Sinner J. vs Bublik A. (23:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1501.php
+
+#EXTINF:-1 group-title="Live Events",ATP DOUBLES - US OPEN | Matos R./Melo M. vs Doumbia S./Reboul F. (20:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1505.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Kudermetova V./Mertens E. vs Kostyuk M./Ruse G. (19:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1512.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Stollar F./Wu F. vs Errani S./Paolini J. (19:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1517.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Siniakova K./Townsend T. vs Osorio C./Yuan Y. (20:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1503.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Alexandrova E./Zhang S. vs Fernandez L./Williams V. (21:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1502.php
+>>>>>>> Stashed changes
 
 #EXTINF:-1 group-title="Live Events",Am. Football | CFL : Calgary Stampeders vs Edmonton Eskimos (22:00) | TSN1
 https://daddylive.sx/stream/stream-111.php
@@ -461,6 +486,7 @@ https://daddylive.sx/stream/stream-114.php
 #EXTINF:-1 group-title="Live Events",Am. Football | CFL : Calgary Stampeders vs Edmonton Eskimos (22:00) | CBS Sports Network
 https://daddylive.sx/stream/stream-308.php
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -560,6 +586,8 @@ https://daddylive.sx/stream/stream-900.php
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Live Events",Baseball | MLB : Chicago Cubs vs Atlanta Braves (20:05) | MLB League Pass
 https://daddylive.sx/stream/stream-5.php
 
@@ -620,6 +648,7 @@ https://daddylive.sx/stream/stream-406.php
 #EXTINF:-1 group-title="Live Events",Baseball | MLB : Tampa Bay Rays vs Seattle Mariners (23:35) | Sportsnet West
 https://daddylive.sx/stream/stream-407.php
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -743,6 +772,11 @@ https://daddylive.sx/stream/stream-719.php
 #EXTINF:-1 group-title="Live Events",Lacrosse | Premier Lacrosse League : Philadelphia Waterdogs vs. New York Atlas (19:00) | ESPN2 USA
 https://daddylive.sx/stream/stream-45.php
 
+=======
+#EXTINF:-1 group-title="Live Events",Floorball | H?quei em Patins: Campeonato da Europa de Seniores Masculinos Portugal x It?lia (20:45) | RTP 1 Portugal
+https://daddylive.sx/stream/stream-719.php
+
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Live Events",Lacrosse | Premier Lacrosse League : California Redwoods vs. Denver Outlaws (20:00) | ESPN2 USA
 https://daddylive.sx/stream/stream-45.php
 

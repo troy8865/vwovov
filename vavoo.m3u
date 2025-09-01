@@ -261,8 +261,11 @@ https://vavoo.to/vavoo-iptv/play/3712244746d26871cca04d
 <<<<<<< Updated upstream
 #EXTINF:-1 group-title="Albania VAVOO",ELRODI
 https://vavoo.to/vavoo-iptv/play/112491378a8473a136c34
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Albania VAVOO",ELRODI (2)
 https://vavoo.to/vavoo-iptv/play/3378038047b82623e92d0c
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -578,6 +581,9 @@ https://vavoo.to/vavoo-iptv/play/3771639848fea4a354193b
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -617,6 +623,9 @@ https://vavoo.to/vavoo-iptv/play/26954191379aabfa19e6f0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -676,6 +685,7 @@ https://vavoo.to/vavoo-iptv/play/34626180753ab5edf33e2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Albania VAVOO",KUJTESA SPORT 4
 https://vavoo.to/vavoo-iptv/play/3453708250b97fcfe1ed4e
@@ -693,6 +703,8 @@ https://vavoo.to/vavoo-iptv/play/3453708250b97fcfe1ed4e
 =======
 #EXTINF:-1 group-title="Albania VAVOO",KUJTESA SPORT 4
 https://vavoo.to/vavoo-iptv/play/3453708250b97fcfe1ed4e
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Albania VAVOO",KUJTESA SPORT 4 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/1007948568f280970bcbcf
@@ -708,8 +720,6 @@ https://vavoo.to/vavoo-iptv/play/2263551325e812af439ca6
 https://vavoo.to/vavoo-iptv/play/2414744747adc0335f397a
 #EXTINF:-1 group-title="Albania VAVOO",MAHDI
 https://vavoo.to/vavoo-iptv/play/316784769462a2e30cfc70
-#EXTINF:-1 group-title="Albania VAVOO",MALISHEVA TV
-https://vavoo.to/vavoo-iptv/play/156359219864ec6fa03b79
 #EXTINF:-1 group-title="Albania VAVOO",MAMLAKA TV (FHD)
 https://vavoo.to/vavoo-iptv/play/24792898455ba7e6718014
 #EXTINF:-1 group-title="Albania VAVOO",MANAR (576P) [NOT 24/7]
@@ -1065,6 +1075,7 @@ https://vavoo.to/vavoo-iptv/play/5448956225627a1789d68
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 =======
@@ -1072,6 +1083,10 @@ https://vavoo.to/vavoo-iptv/play/5448956225627a1789d68
 #EXTINF:-1 group-title="Albania VAVOO",SUNNAH AL NABAWIYAH TV (MEDINA) (720P) [NOT 24/7]
 https://vavoo.to/vavoo-iptv/play/39103662908725aa615594
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Albania VAVOO",SUNNAH AL NABAWIYAH TV (MEDINA) (720P) [NOT 24/7]
+https://vavoo.to/vavoo-iptv/play/39103662908725aa615594
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Albania VAVOO",SUNNAH AL NABAWIYAH TV (MEDINA) (720P) [NOT 24/7]
@@ -1192,6 +1207,9 @@ https://vavoo.to/vavoo-iptv/play/8858773582b1ed5f18e00
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1240,6 +1258,9 @@ https://vavoo.to/vavoo-iptv/play/2123951332c02379597ff8
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -1875,9 +1896,12 @@ https://vavoo.to/vavoo-iptv/play/1599327267dd6c12e5baba
 https://vavoo.to/vavoo-iptv/play/1599327267dd6c12e5baba
 #EXTINF:-1 group-title="Arabia VAVOO",ALHAYAT MUSLSALAT
 https://vavoo.to/vavoo-iptv/play/3471043301152727465289
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Arabia VAVOO",ALHAQIQA
 https://vavoo.to/vavoo-iptv/play/835993160e290e6edf40c
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Arabia VAVOO",ALHAYAT WE ALNAS
 https://vavoo.to/vavoo-iptv/play/3200500109a5540038010a
@@ -2118,6 +2142,7 @@ https://vavoo.to/vavoo-iptv/play/39963218323a9e9285206
 https://vavoo.to/vavoo-iptv/play/1442111562afcd2f1e1488
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Arabia VAVOO",BE SPORTS 2 HD
 https://vavoo.to/vavoo-iptv/play/257313198838733e097fc9
@@ -2125,6 +2150,8 @@ https://vavoo.to/vavoo-iptv/play/257313198838733e097fc9
 #EXTINF:-1 group-title="Arabia VAVOO",BE SPORTS 4 HD
 https://vavoo.to/vavoo-iptv/play/15971065154aab9a3b06d8
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Arabia VAVOO",BE SPORTS 5 HD
@@ -2605,8 +2632,6 @@ https://vavoo.to/vavoo-iptv/play/4319269248ed39e571f72
 https://vavoo.to/vavoo-iptv/play/61856338809c4e363d984
 #EXTINF:-1 group-title="Arabia VAVOO",C SAT
 https://vavoo.to/vavoo-iptv/play/220886695603447d9e6bd5
-#EXTINF:-1 group-title="Arabia VAVOO",C20 ARG: CANAL 20 VILLA MARÍA
-https://vavoo.to/vavoo-iptv/play/1466744444864a5b0a6c46
 #EXTINF:-1 group-title="Arabia VAVOO",C21 TV
 https://vavoo.to/vavoo-iptv/play/5662411005fb9da9ddc5f
 #EXTINF:-1 group-title="Arabia VAVOO",C5N
@@ -2631,9 +2656,12 @@ https://vavoo.to/vavoo-iptv/play/554272998258ee87c2dcb
 https://vavoo.to/vavoo-iptv/play/419790485049b47b58f179
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Arabia VAVOO",CANAL 10 NORTEVISION
 https://vavoo.to/vavoo-iptv/play/34380175104dc7d25a6ece
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Arabia VAVOO",CANAL 10 RIO NEGRO
@@ -2823,6 +2851,7 @@ https://vavoo.to/vavoo-iptv/play/29797434205430fc3a2e87
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Arabia VAVOO",CINEMA 1 HD
 https://vavoo.to/vavoo-iptv/play/330050883453775d644137
 =======
@@ -2849,6 +2878,10 @@ https://vavoo.to/vavoo-iptv/play/330050883453775d644137
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Arabia VAVOO",CINEMA 2 HD
 https://vavoo.to/vavoo-iptv/play/1245102913668ed5bc52e3
+=======
+#EXTINF:-1 group-title="Arabia VAVOO",CINEMA 1 HD
+https://vavoo.to/vavoo-iptv/play/330050883453775d644137
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Arabia VAVOO",CIUDAD MAGAZINE
 https://vavoo.to/vavoo-iptv/play/228510210513dba3cd3661
 #EXTINF:-1 group-title="Arabia VAVOO",CN3 PINAMAR
@@ -2869,8 +2902,6 @@ https://vavoo.to/vavoo-iptv/play/138384296537a6963d1e11
 https://vavoo.to/vavoo-iptv/play/2733578595d543ecd7441b
 #EXTINF:-1 group-title="Arabia VAVOO",CPETV
 https://vavoo.to/vavoo-iptv/play/3007234519cf738c18b8fb
-#EXTINF:-1 group-title="Arabia VAVOO",CRIME HD
-https://vavoo.to/vavoo-iptv/play/57876427671137d36b1f8
 #EXTINF:-1 group-title="Arabia VAVOO",CRONICA TV
 https://vavoo.to/vavoo-iptv/play/409207230691ab51267a2e
 #EXTINF:-1 group-title="Arabia VAVOO",CTV
@@ -2899,20 +2930,12 @@ https://vavoo.to/vavoo-iptv/play/17415087153bf2e4dec7fc
 https://vavoo.to/vavoo-iptv/play/1599231011e38dc8ae657b
 #EXTINF:-1 group-title="Arabia VAVOO",DISCOVERY HD
 https://vavoo.to/vavoo-iptv/play/1497426810df237e3c83c5
-#EXTINF:-1 group-title="Arabia VAVOO",DISCOVERY ID HD
-https://vavoo.to/vavoo-iptv/play/2356538576422af025282c
-#EXTINF:-1 group-title="Arabia VAVOO",DISCOVERY SC HD
-https://vavoo.to/vavoo-iptv/play/3210620198700066426d14
 #EXTINF:-1 group-title="Arabia VAVOO",DISCOVERY THEATER
 https://vavoo.to/vavoo-iptv/play/398220909527d473779368
 #EXTINF:-1 group-title="Arabia VAVOO",DISNEY
 https://vavoo.to/vavoo-iptv/play/917094634b9a88a1c5288
-#EXTINF:-1 group-title="Arabia VAVOO",DISNEY HD
-https://vavoo.to/vavoo-iptv/play/33845349697c66d1a39c03
 #EXTINF:-1 group-title="Arabia VAVOO",DISNEY JUNIOR HD
 https://vavoo.to/vavoo-iptv/play/3739835707f0c3a29b0451
-#EXTINF:-1 group-title="Arabia VAVOO",DISNEY XD
-https://vavoo.to/vavoo-iptv/play/33961997144ff280369241
 #EXTINF:-1 group-title="Arabia VAVOO",DIYALANA
 https://vavoo.to/vavoo-iptv/play/91631337581e7285af1d3
 #EXTINF:-1 group-title="Arabia VAVOO",DMC
@@ -3132,8 +3155,11 @@ https://vavoo.to/vavoo-iptv/play/38302490315ee20878bda9
 #EXTINF:-1 group-title="Arabia VAVOO",HOME CINEMA ACTION 2
 https://vavoo.to/vavoo-iptv/play/3777277773c4c451c641d0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Arabia VAVOO",HOME CINEMA ARABIC 1
 https://vavoo.to/vavoo-iptv/play/76483446421594a112279
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Arabia VAVOO",HOME CINEMA HINDI
@@ -4054,8 +4080,6 @@ https://vavoo.to/vavoo-iptv/play/44426657865f67fea298
 https://vavoo.to/vavoo-iptv/play/10699274417f614c0ff6fb
 #EXTINF:-1 group-title="Arabia VAVOO",SNIPERS TOM AND JERRY 1
 https://vavoo.to/vavoo-iptv/play/144334755b2c7416e2dd
-#EXTINF:-1 group-title="Arabia VAVOO",SNIPERS TOM AND JERRY 2
-https://vavoo.to/vavoo-iptv/play/119932673927eb8aaef2f1
 #EXTINF:-1 group-title="Arabia VAVOO",SNIPERS TURKISH
 https://vavoo.to/vavoo-iptv/play/37924263445a2419626f0d
 #EXTINF:-1 group-title="Arabia VAVOO",SNIPERS WWE 1
@@ -4287,15 +4311,28 @@ https://vavoo.to/vavoo-iptv/play/485954907a02ecac94902
 https://vavoo.to/vavoo-iptv/play/2788051729465c85c26038
 #EXTINF:-1 group-title="Arabia VAVOO",YAHALA BL ARABI
 https://vavoo.to/vavoo-iptv/play/1033333554c7a13bd463a0
+#EXTINF:-1 group-title="Arabia VAVOO",YAHALA BL ARABI (2)
+https://vavoo.to/vavoo-iptv/play/1033333554c7a13bd463a0
 #EXTINF:-1 group-title="Arabia VAVOO",YAHALA HD
+https://vavoo.to/vavoo-iptv/play/1136513828908c9b77dea7
+#EXTINF:-1 group-title="Arabia VAVOO",YAHALA HD (2)
 https://vavoo.to/vavoo-iptv/play/1136513828908c9b77dea7
 #EXTINF:-1 group-title="Arabia VAVOO",YARIED TV
 https://vavoo.to/vavoo-iptv/play/5058791378432ed66317d
+#EXTINF:-1 group-title="Arabia VAVOO",YARIED TV (2)
+https://vavoo.to/vavoo-iptv/play/5058791378432ed66317d
 #EXTINF:-1 group-title="Arabia VAVOO",YEMEN
+https://vavoo.to/vavoo-iptv/play/360609133b4ff982b8a67
+#EXTINF:-1 group-title="Arabia VAVOO",YEMEN (2)
 https://vavoo.to/vavoo-iptv/play/360609133b4ff982b8a67
 #EXTINF:-1 group-title="Arabia VAVOO",YEMEN SAMA
 https://vavoo.to/vavoo-iptv/play/1805447649d9c98c5a032f
+<<<<<<< Updated upstream
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Arabia VAVOO",YEMEN SAMA (2)
+https://vavoo.to/vavoo-iptv/play/1805447649d9c98c5a032f
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Arabia VAVOO",YEMEN SHABAB
 https://vavoo.to/vavoo-iptv/play/20678386697d8ef5807d94
@@ -4883,14 +4920,6 @@ https://vavoo.to/vavoo-iptv/play/163552861106f96ede3fcb
 https://vavoo.to/vavoo-iptv/play/1475437684814169bb278f
 #EXTINF:-1 group-title="Balkans VAVOO",PINK HORROR (2)
 https://vavoo.to/vavoo-iptv/play/3176281207d666a44ce34
-#EXTINF:-1 group-title="Balkans VAVOO",PINK KIDS
-https://vavoo.to/vavoo-iptv/play/2796447463a799dd2059dc
-#EXTINF:-1 group-title="Balkans VAVOO",PINK KIDS (2)
-https://vavoo.to/vavoo-iptv/play/3963699480f3d6ea042b92
-#EXTINF:-1 group-title="Balkans VAVOO",PINK KONCERT
-https://vavoo.to/vavoo-iptv/play/357360011645073c60dcd8
-#EXTINF:-1 group-title="Balkans VAVOO",PINK KUVAR
-https://vavoo.to/vavoo-iptv/play/24813824551dbb565879b2
 #EXTINF:-1 group-title="Balkans VAVOO",PINK LOL
 https://vavoo.to/vavoo-iptv/play/1318827435f2974d6304df
 #EXTINF:-1 group-title="Balkans VAVOO",PINK M
@@ -5466,6 +5495,9 @@ https://vavoo.to/vavoo-iptv/play/3764864653be24619e4035
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -5482,6 +5514,7 @@ https://vavoo.to/vavoo-iptv/play/1103383282ee21527ffcdf
 #EXTINF:-1 group-title="Bulgaria VAVOO",NAT GEO (7)
 https://vavoo.to/vavoo-iptv/play/1176264166c3fe9895c2cc
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Bulgaria VAVOO",NAT GEO WILD (5)
 https://vavoo.to/vavoo-iptv/play/3093560896aaad81a502d3
 #EXTINF:-1 group-title="Bulgaria VAVOO",NAT GEO WILD (6)
@@ -5491,6 +5524,11 @@ https://vavoo.to/vavoo-iptv/play/1176264166c3fe9895c2cc
 #EXTINF:-1 group-title="Bulgaria VAVOO",NAT GEO WILD (5)
 https://vavoo.to/vavoo-iptv/play/3093560896aaad81a502d3
 #EXTINF:-1 group-title="Bulgaria VAVOO",NAT GEO WILD (6)
+=======
+#EXTINF:-1 group-title="Bulgaria VAVOO",NAT GEO WILD (5)
+https://vavoo.to/vavoo-iptv/play/3093560896aaad81a502d3
+#EXTINF:-1 group-title="Bulgaria VAVOO",NAT GEO WILD (6)
+>>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/2474272926e1a71e3a1dc9
 #EXTINF:-1 group-title="Bulgaria VAVOO",NAT GEO WILD (7)
 https://vavoo.to/vavoo-iptv/play/3093560896aaad81a502d3
@@ -5508,10 +5546,18 @@ https://vavoo.to/vavoo-iptv/play/937172426dbf1778e7c96
 https://vavoo.to/vavoo-iptv/play/80557129493302dddca79
 #EXTINF:-1 group-title="Bulgaria VAVOO",NICK JR (6)
 https://vavoo.to/vavoo-iptv/play/937172426dbf1778e7c96
+#EXTINF:-1 group-title="Bulgaria VAVOO",NICK JR (5)
+https://vavoo.to/vavoo-iptv/play/80557129493302dddca79
+#EXTINF:-1 group-title="Bulgaria VAVOO",NICK JR (6)
+https://vavoo.to/vavoo-iptv/play/937172426dbf1778e7c96
 #EXTINF:-1 group-title="Bulgaria VAVOO",NICKELODEON (5)
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/103614351643983549fec0
 #EXTINF:-1 group-title="Bulgaria VAVOO",NICKELODEON (5)
+https://vavoo.to/vavoo-iptv/play/4262594289ec42fd836e25
+#EXTINF:-1 group-title="Bulgaria VAVOO",NICKELODEON (7)
+https://vavoo.to/vavoo-iptv/play/103614351643983549fec0
+#EXTINF:-1 group-title="Bulgaria VAVOO",NICKELODEON (8)
 https://vavoo.to/vavoo-iptv/play/4262594289ec42fd836e25
 #EXTINF:-1 group-title="Bulgaria VAVOO",NICKELODEON (7)
 https://vavoo.to/vavoo-iptv/play/103614351643983549fec0
@@ -5697,6 +5743,7 @@ https://vavoo.to/vavoo-iptv/play/3638789513f8ccd703cc28
 https://vavoo.to/vavoo-iptv/play/2290952272f961b542eda7
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",ALTICE STUDIO
 https://vavoo.to/vavoo-iptv/play/5234125702f1ab7e4d96f
 =======
@@ -5704,6 +5751,8 @@ https://vavoo.to/vavoo-iptv/play/5234125702f1ab7e4d96f
 =======
 #EXTINF:-1 group-title="France VAVOO",ALSACE 20
 https://vavoo.to/vavoo-iptv/play/32407529590081a502d69b
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",ALTICE STUDIO HD
 https://vavoo.to/vavoo-iptv/play/81737034162dae716442d
@@ -5725,6 +5774,9 @@ https://vavoo.to/vavoo-iptv/play/1551731280c530dcaccd63
 =======
 #EXTINF:-1 group-title="France VAVOO",AMAZON PRIME 4
 https://vavoo.to/vavoo-iptv/play/39695145985d944aa264ce
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",AMAZON PRIME 4 HD
 https://vavoo.to/vavoo-iptv/play/258695433034433ac372ee
@@ -5972,6 +6024,7 @@ https://vavoo.to/vavoo-iptv/play/2939277ca78c406a368
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",BOX OFFICE 5
 https://vavoo.to/vavoo-iptv/play/2406231085af769db66b41
 #EXTINF:-1 group-title="France VAVOO",BOX OFFICE 6
@@ -5993,12 +6046,17 @@ https://vavoo.to/vavoo-iptv/play/29871323172d6843a0c088
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",BOX OFFICE 4
 https://vavoo.to/vavoo-iptv/play/29871323172d6843a0c088
 #EXTINF:-1 group-title="France VAVOO",BOX OFFICE 7
 https://vavoo.to/vavoo-iptv/play/412172270143474ff3ec5c
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -6066,6 +6124,7 @@ https://vavoo.to/vavoo-iptv/play/3350560308f1ae9b7a6c6
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 =======
 >>>>>>> Stashed changes
@@ -6098,6 +6157,12 @@ https://vavoo.to/vavoo-iptv/play/164930952e4b00a3d6fd6
 https://vavoo.to/vavoo-iptv/play/193075376859e75e04d8da
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="France VAVOO",CANAL PLAY 13
+https://vavoo.to/vavoo-iptv/play/3153361304c5404e3f2d00
+#EXTINF:-1 group-title="France VAVOO",CANAL PLAY 14
+https://vavoo.to/vavoo-iptv/play/164930952e4b00a3d6fd6
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",CANAL PLAY 17
 https://vavoo.to/vavoo-iptv/play/131628220046722550c863
@@ -6420,6 +6485,11 @@ https://vavoo.to/vavoo-iptv/play/3319953260dfcfaf5b80f3
 https://vavoo.to/vavoo-iptv/play/25988419569bf080bab8ad
 #EXTINF:-1 group-title="France VAVOO",DIGITAL BLACK MUSIC (DBM)
 https://vavoo.to/vavoo-iptv/play/8884295080d400fed773d
+<<<<<<< Updated upstream
+=======
+#EXTINF:-1 group-title="France VAVOO",DIRECT EQUIPE
+https://vavoo.to/vavoo-iptv/play/272201374708c808452afa
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",DISCOVERY CHANNEL (5)
 https://vavoo.to/vavoo-iptv/play/340454356536c0a44a2785
 #EXTINF:-1 group-title="France VAVOO",DISCOVERY FAMILY (2)
@@ -6470,9 +6540,9 @@ https://vavoo.to/vavoo-iptv/play/4039125784a8c6af55cefd
 https://vavoo.to/vavoo-iptv/play/357894050d7f96e94e22f
 #EXTINF:-1 group-title="France VAVOO",DISNEY JUNIOR HD (2)
 https://vavoo.to/vavoo-iptv/play/4072150322035a105f553c
-#EXTINF:-1 group-title="France VAVOO",DISNEY XD (2)
+#EXTINF:-1 group-title="France VAVOO",DISNEY XD
 https://vavoo.to/vavoo-iptv/play/3237934255bfec4e787a8b
-#EXTINF:-1 group-title="France VAVOO",DISNEY XD (3)
+#EXTINF:-1 group-title="France VAVOO",DISNEY XD (2)
 https://vavoo.to/vavoo-iptv/play/13299406005657d2c035e2
 #EXTINF:-1 group-title="France VAVOO",DISNEY+
 https://vavoo.to/vavoo-iptv/play/2427544834a3f2c10b9493
@@ -6803,6 +6873,9 @@ https://vavoo.to/vavoo-iptv/play/125439915962261b6c173f
 #EXTINF:-1 group-title="France VAVOO",MEZZO LIVE
 https://vavoo.to/vavoo-iptv/play/187506502594b281da82dc
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -6813,10 +6886,15 @@ https://vavoo.to/vavoo-iptv/play/1458795517d80de7fca828
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",MEZZO SD
 https://vavoo.to/vavoo-iptv/play/601190127be1aad38e358
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="France VAVOO",MEZZO SD
+https://vavoo.to/vavoo-iptv/play/601190127be1aad38e358
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="France VAVOO",MEZZO SD
@@ -6857,9 +6935,12 @@ https://vavoo.to/vavoo-iptv/play/1070202514e16631328ce9
 #EXTINF:-1 group-title="France VAVOO",MULTISPORT 4
 https://vavoo.to/vavoo-iptv/play/2961771314ea752fe08b2c
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",MULTISPORT 6 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/4167553993545014049085
 <<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",MULTISPORTS 1 HD
@@ -6890,11 +6971,17 @@ https://vavoo.to/vavoo-iptv/play/255021912731d9f86c75eb
 #EXTINF:-1 group-title="France VAVOO",MYZEN TV
 https://vavoo.to/vavoo-iptv/play/2233165627cefa09c11eba
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",NAT GEO (8)
 https://vavoo.to/vavoo-iptv/play/13411697827c093b9217a6
 #EXTINF:-1 group-title="France VAVOO",NAT GEO (9)
 =======
 #EXTINF:-1 group-title="France VAVOO",NAT GEO (10)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="France VAVOO",NAT GEO (8)
+https://vavoo.to/vavoo-iptv/play/13411697827c093b9217a6
+#EXTINF:-1 group-title="France VAVOO",NAT GEO (9)
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/1428792459dd86f1c5464b
 #EXTINF:-1 group-title="France VAVOO",NAT GEO (9)
@@ -6902,11 +6989,17 @@ https://vavoo.to/vavoo-iptv/play/13411697827c093b9217a6
 #EXTINF:-1 group-title="France VAVOO",NAT GEO FHD
 https://vavoo.to/vavoo-iptv/play/2662111844aff3a550d3f7
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",NAT GEO WILD (7)
 https://vavoo.to/vavoo-iptv/play/4163250572cb7f669550a4
 #EXTINF:-1 group-title="France VAVOO",NAT GEO WILD (8)
 =======
 #EXTINF:-1 group-title="France VAVOO",NAT GEO WILD (10)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="France VAVOO",NAT GEO WILD (7)
+https://vavoo.to/vavoo-iptv/play/4163250572cb7f669550a4
+#EXTINF:-1 group-title="France VAVOO",NAT GEO WILD (8)
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/12578909822641fbc02dc3
 #EXTINF:-1 group-title="France VAVOO",NAT GEO WILD (9)
@@ -6919,6 +7012,7 @@ https://vavoo.to/vavoo-iptv/play/4087509269bc6b8e5313a4
 https://vavoo.to/vavoo-iptv/play/51792978604e042fd009f
 #EXTINF:-1 group-title="France VAVOO",NICK JUNIOR
 https://vavoo.to/vavoo-iptv/play/844674923ad02e0baaec7
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",NICKELODEON (6)
 https://vavoo.to/vavoo-iptv/play/3562748294b2ebad358cbf
@@ -6935,6 +7029,14 @@ https://vavoo.to/vavoo-iptv/play/2881806872c3195b245695
 https://vavoo.to/vavoo-iptv/play/3562748294b2ebad358cbf
 #EXTINF:-1 group-title="France VAVOO",NICKELODEON +1
 https://vavoo.to/vavoo-iptv/play/2786840044bbf88bfbe8f7
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="France VAVOO",NICKELODEON (10)
+https://vavoo.to/vavoo-iptv/play/280381887053bd39b0c65f
+#EXTINF:-1 group-title="France VAVOO",NICKELODEON (11)
+https://vavoo.to/vavoo-iptv/play/2881806872c3195b245695
+#EXTINF:-1 group-title="France VAVOO",NICKELODEON (9)
+https://vavoo.to/vavoo-iptv/play/3562748294b2ebad358cbf
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",NICKELODEON 4 TEEN
 https://vavoo.to/vavoo-iptv/play/3199219011710e9ef1e081
@@ -6960,8 +7062,11 @@ https://vavoo.to/vavoo-iptv/play/215687074c5e526fe2816
 https://vavoo.to/vavoo-iptv/play/16260338528710828dbe45
 #EXTINF:-1 group-title="France VAVOO",NRJ 12
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 https://vavoo.to/vavoo-iptv/play/2127716293a7c02b99643e
 #EXTINF:-1 group-title="France VAVOO",NRJ 12 (2)
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/320790022bfc96711ce6a
@@ -7102,6 +7207,7 @@ https://vavoo.to/vavoo-iptv/play/8651096953466cfd4c49a
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",RAKUTEN GUARDIAN
 https://vavoo.to/vavoo-iptv/play/3557692300ca02256bc720
 <<<<<<< Updated upstream
@@ -7120,6 +7226,10 @@ https://vavoo.to/vavoo-iptv/play/780409303783a097bff06
 #EXTINF:-1 group-title="France VAVOO",RAKUTEN TV
 https://vavoo.to/vavoo-iptv/play/1713644642ee0b52d2a1eb
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="France VAVOO",RAKUTEN SERIE CRIME
+https://vavoo.to/vavoo-iptv/play/4171934323030b0eb6a709
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="France VAVOO",RAKUTEN SERIE CRIME
@@ -7160,6 +7270,7 @@ https://vavoo.to/vavoo-iptv/play/235106601922765d099ee0
 https://vavoo.to/vavoo-iptv/play/37905311685b668ac8d224
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",RFM TV MUSIC
 https://vavoo.to/vavoo-iptv/play/4197312592de677f26e1da
 =======
@@ -7169,6 +7280,8 @@ https://vavoo.to/vavoo-iptv/play/4197312592de677f26e1da
 https://vavoo.to/vavoo-iptv/play/4100689874e4f474bc38f3
 #EXTINF:-1 group-title="France VAVOO",RFM TV SD
 https://vavoo.to/vavoo-iptv/play/2642050442743edf3d3496
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",RMC DECOUVERTE
 https://vavoo.to/vavoo-iptv/play/2957270266f8a57fc4d110
@@ -7218,9 +7331,12 @@ https://vavoo.to/vavoo-iptv/play/1431047598ad121808116b
 https://vavoo.to/vavoo-iptv/play/38852199726fa0c900bb0d
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 17
 https://vavoo.to/vavoo-iptv/play/3673418036295f31622f35
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT 18
@@ -7289,6 +7405,7 @@ https://vavoo.to/vavoo-iptv/play/27022257457f80d7d7d05d
 https://vavoo.to/vavoo-iptv/play/3041190071fb8e52e96fde
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 13 HD
 https://vavoo.to/vavoo-iptv/play/41503886821eb0565c3750
@@ -7303,6 +7420,8 @@ https://vavoo.to/vavoo-iptv/play/3041190071fb8e52e96fde
 https://vavoo.to/vavoo-iptv/play/10032187722877964a1e85
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 14 HD
 https://vavoo.to/vavoo-iptv/play/425544469138297bd647ca
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -7324,10 +7443,13 @@ https://vavoo.to/vavoo-iptv/play/24148072590d63bcae2cb3
 https://vavoo.to/vavoo-iptv/play/748262697206d933e210e
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 8 HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/3927680764c9e05a6809f5
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",RMC SPORT LIVE 8 HD
@@ -7398,9 +7520,14 @@ https://vavoo.to/vavoo-iptv/play/2611555727a6d71dd30596
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="France VAVOO",SPORT EN FRANCE FHD
 https://vavoo.to/vavoo-iptv/play/28990515040b9592deaeeb
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="France VAVOO",SPORT EN FRANCE
+https://vavoo.to/vavoo-iptv/play/2793894290cd54f0356613
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="France VAVOO",SPORT EN FRANCE
@@ -7574,6 +7701,7 @@ https://vavoo.to/vavoo-iptv/play/744802293949edf1de1ba
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",TV8 MONT BLANC
 https://vavoo.to/vavoo-iptv/play/2601990719c1c86fa4201f
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="France VAVOO",TV8 MONT BLANC (2)
 https://vavoo.to/vavoo-iptv/play/2601990719c1c86fa4201f
 #EXTINF:-1 group-title="France VAVOO",TVM 3 FHD
@@ -7583,6 +7711,8 @@ https://vavoo.to/vavoo-iptv/play/183645299317f53feb93f0
 =======
 #EXTINF:-1 group-title="France VAVOO",TVM 3 FHD (2)
 https://vavoo.to/vavoo-iptv/play/183645299317f53feb93f0
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="France VAVOO",TVR (BRETAGNE)
 https://vavoo.to/vavoo-iptv/play/28787254875857e36d9a6e
 #EXTINF:-1 group-title="France VAVOO",TVR (BRETAGNE) (2)
@@ -7734,6 +7864,9 @@ https://vavoo.to/vavoo-iptv/play/33911158650eccddb037b3
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -7931,6 +8064,7 @@ https://vavoo.to/vavoo-iptv/play/2267295660ea349d1224ad
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 10 (MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/2936413245fcd7a1896aec
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 11 (MATCH TIME) HD
@@ -7945,6 +8079,10 @@ https://vavoo.to/vavoo-iptv/play/819765155d84dfe52625b
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Germany VAVOO",DAZN 11 (MATCH TIME) HD
+https://vavoo.to/vavoo-iptv/play/819765155d84dfe52625b
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 12(MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/428364898836a591cccc8d
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 13 (MATCH TIME) HD
@@ -7958,9 +8096,12 @@ https://vavoo.to/vavoo-iptv/play/50488455976ad9be2ecb7
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 17 (MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/3336673893ee37fb44c0ce
 <<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 18 (MATCH TIME) HD
@@ -7990,11 +8131,14 @@ https://vavoo.to/vavoo-iptv/play/7163121413b507d0b7735
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 2 HD
 https://vavoo.to/vavoo-iptv/play/162211919344d3ba16b8d
 #EXTINF:-1 group-title="Germany VAVOO",DAZN 3 (MATCH TIME) HD
 https://vavoo.to/vavoo-iptv/play/832542472f749e42c74bc
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -8067,9 +8211,12 @@ https://vavoo.to/vavoo-iptv/play/263471499993a94c3cfe8
 https://vavoo.to/vavoo-iptv/play/15523057836d53a91dceeb
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",DER AKTIONÄR TV
 https://vavoo.to/vavoo-iptv/play/451068309931b929079e3
 <<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -8111,8 +8258,9 @@ https://vavoo.to/vavoo-iptv/play/21170811702894c8613daf
 https://vavoo.to/vavoo-iptv/play/20397282244d59acc5caf8
 #EXTINF:-1 group-title="Germany VAVOO",DISNEY PLUS FILM
 https://vavoo.to/vavoo-iptv/play/27493923745b76a03413d8
-#EXTINF:-1 group-title="Germany VAVOO",DISNEY XD (4)
+#EXTINF:-1 group-title="Germany VAVOO",DISNEY XD (3)
 https://vavoo.to/vavoo-iptv/play/27959125340f3d677ad175
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
@@ -8120,6 +8268,8 @@ https://vavoo.to/vavoo-iptv/play/27959125340f3d677ad175
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",DISNEY+ (3)
 https://vavoo.to/vavoo-iptv/play/383959877793b0fa4d60aa
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",DK4
 https://vavoo.to/vavoo-iptv/play/1419294625c9fd386fbfa1
@@ -8135,6 +8285,7 @@ https://vavoo.to/vavoo-iptv/play/79403627856f32c18a077
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 =======
@@ -8143,6 +8294,8 @@ https://vavoo.to/vavoo-iptv/play/79403627856f32c18a077
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",DR RAMASJANG
 https://vavoo.to/vavoo-iptv/play/1249122834b047faba16d7
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",DR2
 https://vavoo.to/vavoo-iptv/play/427826005041b1be170154
 =======
@@ -8171,6 +8324,7 @@ https://vavoo.to/vavoo-iptv/play/4939706396689225497ed
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Germany VAVOO",DYN SPORT 2
 https://vavoo.to/vavoo-iptv/play/1523654175d237ed7b050e
@@ -8190,6 +8344,8 @@ https://vavoo.to/vavoo-iptv/play/1523654175d237ed7b050e
 https://vavoo.to/vavoo-iptv/play/1739667375b70564ce305e
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",DYN SPORT 10
@@ -8197,6 +8353,9 @@ https://vavoo.to/vavoo-iptv/play/42463225237f7f47aea6f7
 #EXTINF:-1 group-title="Germany VAVOO",DYN SPORT 3
 https://vavoo.to/vavoo-iptv/play/1739667375b70564ce305e
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -8213,11 +8372,16 @@ https://vavoo.to/vavoo-iptv/play/29413685430926e4f60080
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Germany VAVOO",DYN SPORT 7
 https://vavoo.to/vavoo-iptv/play/24527220317420861d5507
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Germany VAVOO",DYN SPORT 7
+https://vavoo.to/vavoo-iptv/play/24527220317420861d5507
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Germany VAVOO",DYN SPORT 7
@@ -8436,12 +8600,15 @@ https://vavoo.to/vavoo-iptv/play/15837360750065fb4250da
 https://vavoo.to/vavoo-iptv/play/1901642755a8909d8992af
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",HSE (2)
 https://vavoo.to/vavoo-iptv/play/2076663286f798a812a38
 <<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",INDIANA JONES CHANNEL
 https://vavoo.to/vavoo-iptv/play/4162626550b5eaa77efdb7
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -8455,11 +8622,14 @@ https://vavoo.to/vavoo-iptv/play/3970741463def7ddd2dabd
 #EXTINF:-1 group-title="Germany VAVOO",HSE TREND
 https://vavoo.to/vavoo-iptv/play/3146392775e1da82ce9ca5
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",ID INVESTIGATION DISCOVERY
 https://vavoo.to/vavoo-iptv/play/4202971985e0418640ee35
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",INDIANA JONES CHANNEL
 https://vavoo.to/vavoo-iptv/play/4162626550b5eaa77efdb7
 #EXTINF:-1 group-title="Germany VAVOO",INDIANA JONES CHANNEL (2)
@@ -8539,6 +8709,7 @@ https://vavoo.to/vavoo-iptv/play/4229893511f54fcdd55e8d
 #EXTINF:-1 group-title="Germany VAVOO",KINOPORTAL 3
 https://vavoo.to/vavoo-iptv/play/32463350314b2b8473ade8
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",KINOPORTAL 4
 https://vavoo.to/vavoo-iptv/play/1935669287a6cf54a9db74
@@ -8555,6 +8726,10 @@ https://vavoo.to/vavoo-iptv/play/4229893511f54fcdd55e8d
 =======
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Germany VAVOO",KINOPORTAL 5
+https://vavoo.to/vavoo-iptv/play/13128052718f1b837846ae
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Germany VAVOO",KINOPORTAL 5
@@ -8739,6 +8914,7 @@ https://vavoo.to/vavoo-iptv/play/2660473561e71e974820c9
 =======
 #EXTINF:-1 group-title="Germany VAVOO",NACHRICHTEN
 https://vavoo.to/vavoo-iptv/play/825882949e288457ddb5d
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",NAT GEO (11)
 https://vavoo.to/vavoo-iptv/play/216938993712354d07de62
 #EXTINF:-1 group-title="Germany VAVOO",NAT GEO (12)
@@ -8751,6 +8927,20 @@ https://vavoo.to/vavoo-iptv/play/2660473561e71e974820c9
 https://vavoo.to/vavoo-iptv/play/35013254978a3ef8455e8c
 #EXTINF:-1 group-title="Germany VAVOO",NAT GEO WILD (13)
 https://vavoo.to/vavoo-iptv/play/325169620a3d369d4b452
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Germany VAVOO",NAT GEO (10)
+https://vavoo.to/vavoo-iptv/play/216938993712354d07de62
+#EXTINF:-1 group-title="Germany VAVOO",NAT GEO (11)
+https://vavoo.to/vavoo-iptv/play/999974349f42b3e1dcc2c
+#EXTINF:-1 group-title="Germany VAVOO",NAT GEO (12)
+https://vavoo.to/vavoo-iptv/play/3763693854ca571680c944
+#EXTINF:-1 group-title="Germany VAVOO",NAT GEO WILD (10)
+https://vavoo.to/vavoo-iptv/play/35013254978a3ef8455e8c
+#EXTINF:-1 group-title="Germany VAVOO",NAT GEO WILD (11)
+https://vavoo.to/vavoo-iptv/play/325169620a3d369d4b452
+#EXTINF:-1 group-title="Germany VAVOO",NAT GEO WILD (9)
+https://vavoo.to/vavoo-iptv/play/2660473561e71e974820c9
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",NAT GEO WILD HD+
 https://vavoo.to/vavoo-iptv/play/21368565729346eaf12cd8
@@ -8765,11 +8955,17 @@ https://vavoo.to/vavoo-iptv/play/1228600214ab763ea85cc
 #EXTINF:-1 group-title="Germany VAVOO",NDR FERNSEHEN (2)
 https://vavoo.to/vavoo-iptv/play/10515081e9dbfb5be662
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",NICK EMMA EINFACH MAGISCH
 https://vavoo.to/vavoo-iptv/play/1148629658b56d011eafd4
 #EXTINF:-1 group-title="Germany VAVOO",NICK JR (4)
 https://vavoo.to/vavoo-iptv/play/4035838813404dc0cd5ba8
 #EXTINF:-1 group-title="Germany VAVOO",NICK JR (5)
+=======
+#EXTINF:-1 group-title="Germany VAVOO",NICK JR (7)
+https://vavoo.to/vavoo-iptv/play/4035838813404dc0cd5ba8
+#EXTINF:-1 group-title="Germany VAVOO",NICK JR (8)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Germany VAVOO",NICK JR (7)
 https://vavoo.to/vavoo-iptv/play/4035838813404dc0cd5ba8
@@ -8781,17 +8977,23 @@ https://vavoo.to/vavoo-iptv/play/30037137910f43d25982fe
 #EXTINF:-1 group-title="Germany VAVOO",NICK/COMEDY CENTRAL+1
 https://vavoo.to/vavoo-iptv/play/849239493d4fa6df2aa7c
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",NICKELODEON (10)
 https://vavoo.to/vavoo-iptv/play/8464164627c88c86963e2
 #EXTINF:-1 group-title="Germany VAVOO",NICKELODEON (11)
 https://vavoo.to/vavoo-iptv/play/8464164627c88c86963e2
 #EXTINF:-1 group-title="Germany VAVOO",NICKELODEON (12)
 =======
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",NICKELODEON (12)
 https://vavoo.to/vavoo-iptv/play/331687469668daf946f8a3
 #EXTINF:-1 group-title="Germany VAVOO",NICKELODEON (13)
 https://vavoo.to/vavoo-iptv/play/8464164627c88c86963e2
 #EXTINF:-1 group-title="Germany VAVOO",NICKELODEON (14)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/21587905004d4186cc65b5
 #EXTINF:-1 group-title="Germany VAVOO",NICKELODEON (9)
@@ -8885,9 +9087,12 @@ https://vavoo.to/vavoo-iptv/play/4193046475c910cf0ab0a1
 https://vavoo.to/vavoo-iptv/play/28315231787947d502bc5f
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Germany VAVOO",PARANORMAL
 https://vavoo.to/vavoo-iptv/play/33165075943c5cb8f10e94
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -8965,6 +9170,9 @@ https://vavoo.to/vavoo-iptv/play/192343514111ad3d59f586
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -9098,6 +9306,9 @@ https://vavoo.to/vavoo-iptv/play/702188030d3d5a2294bd5
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -9363,6 +9574,7 @@ https://vavoo.to/vavoo-iptv/play/161533874538ce15b11567
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 11 HD
 https://vavoo.to/vavoo-iptv/play/3324968452d696150ffee
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 12 HD
 https://vavoo.to/vavoo-iptv/play/26402140626dcce209aab0
 <<<<<<< Updated upstream
@@ -9376,6 +9588,8 @@ https://vavoo.to/vavoo-iptv/play/420771540a033a45b7850
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 14 HD
 https://vavoo.to/vavoo-iptv/play/1529967017b0cab400d116
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 15 HD
@@ -9383,6 +9597,7 @@ https://vavoo.to/vavoo-iptv/play/2543546679585c98840582
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 17 HD
 https://vavoo.to/vavoo-iptv/play/35860291301ffc8b0c2f2d
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 18 HD
@@ -9396,6 +9611,10 @@ https://vavoo.to/vavoo-iptv/play/3224659064fc9706402fe4
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 2 HD
 https://vavoo.to/vavoo-iptv/play/40060260109c0d37d42857
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 19 HD
+https://vavoo.to/vavoo-iptv/play/3224659064fc9706402fe4
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Germany VAVOO",SKY BOX PREMIEREN 19 HD
@@ -9516,6 +9735,9 @@ https://vavoo.to/vavoo-iptv/play/1779919359802f2c8cd069
 #EXTINF:-1 group-title="Germany VAVOO",SKY CINEMA BEST
 https://vavoo.to/vavoo-iptv/play/227712345007279b49b40c
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -9800,6 +10022,9 @@ https://vavoo.to/vavoo-iptv/play/87314260030d570309897
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",SKY SERIEN & SHOWS FHD
 https://vavoo.to/vavoo-iptv/play/3136992921d55ebb99706
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",SKY SERIEN&SHOWS HD+
@@ -9891,11 +10116,16 @@ https://vavoo.to/vavoo-iptv/play/86330662609d054c4c696
 #EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 8 (MATCH TIME)
 https://vavoo.to/vavoo-iptv/play/20972212099a78bee77fe0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 8 HD
 https://vavoo.to/vavoo-iptv/play/23634792766d334318406
 =======
 #EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 8 (MATCH TIME) (2)
 https://vavoo.to/vavoo-iptv/play/20972212099a78bee77fe0
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 8 HD
+https://vavoo.to/vavoo-iptv/play/23634792766d334318406
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",SKY SPORT 9
 https://vavoo.to/vavoo-iptv/play/236268082e90deb789bcb
@@ -10058,6 +10288,7 @@ https://vavoo.to/vavoo-iptv/play/1287331330d5e2b15f5157
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Germany VAVOO",STERN FILME 8
 https://vavoo.to/vavoo-iptv/play/34715427397436fd5f172b
@@ -10068,6 +10299,8 @@ https://vavoo.to/vavoo-iptv/play/34715427397436fd5f172b
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",STERN FILME 9
 https://vavoo.to/vavoo-iptv/play/40860140518438639bc6cf
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -10196,8 +10429,13 @@ https://vavoo.to/vavoo-iptv/play/506657131acd86612fb96
 https://vavoo.to/vavoo-iptv/play/106859642370e24bd89b41
 #EXTINF:-1 group-title="Germany VAVOO",TV 2 NEWS
 https://vavoo.to/vavoo-iptv/play/9378185667186a6a69096
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Germany VAVOO",TV 2 ZULU
 https://vavoo.to/vavoo-iptv/play/1318804769d37322e5b7f8
+=======
+#EXTINF:-1 group-title="Germany VAVOO",TV 2 SPORT
+https://vavoo.to/vavoo-iptv/play/1278410942dcdf0e759ea9
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",TV INGOLSTADT
 https://vavoo.to/vavoo-iptv/play/3676375271a8923c3f58de
 #EXTINF:-1 group-title="Germany VAVOO",TV INGOLSTADT (2)
@@ -10210,16 +10448,12 @@ https://vavoo.to/vavoo-iptv/play/1617812332a22e062b19c8
 https://vavoo.to/vavoo-iptv/play/435447391d04e23618790
 #EXTINF:-1 group-title="Germany VAVOO",TV3 HD
 https://vavoo.to/vavoo-iptv/play/4096804646a62b3d1f7ff1
-#EXTINF:-1 group-title="Germany VAVOO",TV3 MAX
-https://vavoo.to/vavoo-iptv/play/3712417544dd2df44df7ae
 #EXTINF:-1 group-title="Germany VAVOO",TV3 PULS
 https://vavoo.to/vavoo-iptv/play/2566182864ea369e25615c
 #EXTINF:-1 group-title="Germany VAVOO",TV3 SPORT
 https://vavoo.to/vavoo-iptv/play/3307783229b070addd157d
 #EXTINF:-1 group-title="Germany VAVOO",TV3+ HD
 https://vavoo.to/vavoo-iptv/play/389774673655d47b50b7c7
-#EXTINF:-1 group-title="Germany VAVOO",TVA OSTBAYERN
-https://vavoo.to/vavoo-iptv/play/1364897583a36dd6013875
 #EXTINF:-1 group-title="Germany VAVOO",UNIVERSAL TV (2)
 https://vavoo.to/vavoo-iptv/play/6161772480582fdab00eb
 #EXTINF:-1 group-title="Germany VAVOO",UNIVERSAL TV (3)
@@ -10230,17 +10464,18 @@ https://vavoo.to/vavoo-iptv/play/26926031318884a572f28
 https://vavoo.to/vavoo-iptv/play/3611544303636e825d3344
 #EXTINF:-1 group-title="Germany VAVOO",V FILM ACTION
 https://vavoo.to/vavoo-iptv/play/2279462690ef746e396a2f
-#EXTINF:-1 group-title="Germany VAVOO",V FILM FAMILY
-https://vavoo.to/vavoo-iptv/play/2086139873e54578e3bcc9
 #EXTINF:-1 group-title="Germany VAVOO",V FILM HITS
 https://vavoo.to/vavoo-iptv/play/39592075475dad9fb46d17
 <<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Germany VAVOO",V SERIES
 https://vavoo.to/vavoo-iptv/play/16126897713cec8d43189c
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",V SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/3439312957ce321c82c4d
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Germany VAVOO",VH1 CLASSIC
 https://vavoo.to/vavoo-iptv/play/7540185640152f57743e4
 #EXTINF:-1 group-title="Germany VAVOO",VIASAT EXPLORE (4)
@@ -10669,6 +10904,7 @@ https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Italy VAVOO",MEDIASET INFINITY+ 2
 https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 <<<<<<< Updated upstream
@@ -10683,6 +10919,10 @@ https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
 https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Italy VAVOO",MEDIASET INFINITY+ 1
+https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Italy VAVOO",MEDIASET IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
@@ -10699,6 +10939,9 @@ https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 group-title="Italy VAVOO",MTV HITS (3)
 https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Italy VAVOO",NAT GEO (13)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 group-title="Italy VAVOO",NAT GEO (14)
@@ -10707,6 +10950,7 @@ https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 group-title="Italy VAVOO",NAT GEO WILD (13)
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Italy VAVOO",NICK JR (6)
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 #EXTINF:-1 group-title="Italy VAVOO",NICKELODEON (13)
@@ -10719,6 +10963,11 @@ https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 group-title="Italy VAVOO",NAT GEO WILD (15)
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
+#EXTINF:-1 group-title="Italy VAVOO",NICK JR (9)
+https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 group-title="Italy VAVOO",NICKELODEON (15)
+>>>>>>> Stashed changes
+=======
 #EXTINF:-1 group-title="Italy VAVOO",NICK JR (9)
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 #EXTINF:-1 group-title="Italy VAVOO",NICKELODEON (15)
@@ -10829,6 +11078,7 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Italy VAVOO",RAKUTEN ACTION MOVIES
 =======
@@ -10842,6 +11092,8 @@ https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 <<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -10983,6 +11235,9 @@ https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -11089,10 +11344,13 @@ https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Italy VAVOO",STAR COMEDY
 https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 #EXTINF:-1 group-title="Italy VAVOO",STAR LIFE
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Italy VAVOO",STAR LIFE (2)
@@ -11176,9 +11434,12 @@ https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 https://vavoo.to/vavoo-iptv/play/257447576d383e8001862
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Italy VAVOO",TELEVENEZIA
 https://vavoo.to/vavoo-iptv/play/281431819814af663d4567
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Italy VAVOO",TELEVIDEO AGRIGENTO
@@ -11263,8 +11524,11 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Italy VAVOO",ZONA DAZN
 https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -11375,7 +11639,7 @@ https://vavoo.to/vavoo-iptv/play/226214567e0c20bf9460f
 https://vavoo.to/vavoo-iptv/play/3081891203b2a412451903
 #EXTINF:-1 group-title="Netherlands VAVOO",DISNEY CHANNEL (6)
 https://vavoo.to/vavoo-iptv/play/4053879c83ceebeba71
-#EXTINF:-1 group-title="Netherlands VAVOO",DISNEY XD (5)
+#EXTINF:-1 group-title="Netherlands VAVOO",DISNEY XD (4)
 https://vavoo.to/vavoo-iptv/play/203464866df8cbe71f2ef
 #EXTINF:-1 group-title="Netherlands VAVOO",DJAZZ TV
 https://vavoo.to/vavoo-iptv/play/2897120181ffa02aa19db9
@@ -11510,6 +11774,9 @@ https://vavoo.to/vavoo-iptv/play/1624948125be3e9d8d0fbe
 #EXTINF:-1 group-title="Netherlands VAVOO",MTV LIVE (2)
 https://vavoo.to/vavoo-iptv/play/2735403248b72548f02c30
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Netherlands VAVOO",NAT GEO (15)
 https://vavoo.to/vavoo-iptv/play/1348286826641e0f3b3190
 #EXTINF:-1 group-title="Netherlands VAVOO",NAT GEO (16)
@@ -11532,7 +11799,11 @@ https://vavoo.to/vavoo-iptv/play/17510422768bfbac9f9825
 #EXTINF:-1 group-title="Netherlands VAVOO",NET 5 (2)
 https://vavoo.to/vavoo-iptv/play/1784324088bcb6c5d9666b
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Netherlands VAVOO",NICK JR (7)
+=======
+#EXTINF:-1 group-title="Netherlands VAVOO",NICK JR (10)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Netherlands VAVOO",NICK JR (10)
 >>>>>>> Stashed changes
@@ -11544,9 +11815,15 @@ https://vavoo.to/vavoo-iptv/play/1137374425292f5baac48f
 #EXTINF:-1 group-title="Netherlands VAVOO",NICK TOONS
 https://vavoo.to/vavoo-iptv/play/1934195856d6c93cc1c31c
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (14)
 https://vavoo.to/vavoo-iptv/play/3652339071642e807eae44
 #EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (15)
+=======
+#EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (16)
+https://vavoo.to/vavoo-iptv/play/3652339071642e807eae44
+#EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (17)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Netherlands VAVOO",NICKELODEON (16)
 https://vavoo.to/vavoo-iptv/play/3652339071642e807eae44
@@ -11913,8 +12190,11 @@ https://vavoo.to/vavoo-iptv/play/1134500053abda82773dc4
 #EXTINF:-1 group-title="Poland VAVOO",AXN WHITE (3)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Poland VAVOO",AXN WHITE
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -11978,7 +12258,10 @@ https://vavoo.to/vavoo-iptv/play/28755174678071a266e452
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Poland VAVOO",CANAL SPORT 3 HD
@@ -12132,7 +12415,7 @@ https://vavoo.to/vavoo-iptv/play/2241163706490bbe44a441
 https://vavoo.to/vavoo-iptv/play/426632608169dd5767fa2a
 #EXTINF:-1 group-title="Poland VAVOO",DISNEY JUNIOR (4)
 https://vavoo.to/vavoo-iptv/play/3236761715034e1a632c55
-#EXTINF:-1 group-title="Poland VAVOO",DISNEY XD (6)
+#EXTINF:-1 group-title="Poland VAVOO",DISNEY XD (5)
 https://vavoo.to/vavoo-iptv/play/99224805b721f6193439
 #EXTINF:-1 group-title="Poland VAVOO",DOMO HD
 https://vavoo.to/vavoo-iptv/play/417402640070f6624b1cd0
@@ -12345,9 +12628,13 @@ https://vavoo.to/vavoo-iptv/play/1426086923ecf5d0d39cf4
 #EXTINF:-1 group-title="Poland VAVOO",MTV ROCKS
 https://vavoo.to/vavoo-iptv/play/8236585817cbb8f75594b
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Poland VAVOO",NAT GEO (17)
 =======
 #EXTINF:-1 group-title="Poland VAVOO",NAT GEO (18)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Poland VAVOO",NAT GEO (17)
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/15675111987cef68c56bf8
 #EXTINF:-1 group-title="Poland VAVOO",NAT GEO PEOPLE
@@ -12367,7 +12654,11 @@ https://vavoo.to/vavoo-iptv/play/3673566291cd6e56c3203f
 #EXTINF:-1 group-title="Poland VAVOO",NICK JUNIOR (3)
 https://vavoo.to/vavoo-iptv/play/4176312110131628bf0859
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Poland VAVOO",NICKELODEON (16)
+=======
+#EXTINF:-1 group-title="Poland VAVOO",NICKELODEON (18)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Poland VAVOO",NICKELODEON (18)
 >>>>>>> Stashed changes
@@ -12588,12 +12879,15 @@ https://vavoo.to/vavoo-iptv/play/277459522379f7ee911bee
 #EXTINF:-1 group-title="Poland VAVOO",TTV
 https://vavoo.to/vavoo-iptv/play/4670888961d42afec1d6e
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Poland VAVOO",TTV (2)
 https://vavoo.to/vavoo-iptv/play/4670888961d42afec1d6e
 #EXTINF:-1 group-title="Poland VAVOO",TTV HD
 https://vavoo.to/vavoo-iptv/play/37776643717fc4a0a8cbae
 #EXTINF:-1 group-title="Poland VAVOO",TTV HD (2)
 https://vavoo.to/vavoo-iptv/play/37776643717fc4a0a8cbae
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Poland VAVOO",TV 4
@@ -12623,9 +12917,12 @@ https://vavoo.to/vavoo-iptv/play/2802119077fa9571eea3f2
 #EXTINF:-1 group-title="Poland VAVOO",TV PULS HD
 https://vavoo.to/vavoo-iptv/play/177509555810ac86df88df
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Poland VAVOO",TV PULS HD (2)
 https://vavoo.to/vavoo-iptv/play/177509555810ac86df88df
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Poland VAVOO",TV REPUBLIKA
 https://vavoo.to/vavoo-iptv/play/3581908167ff926e210541
@@ -12805,11 +13102,15 @@ https://vavoo.to/vavoo-iptv/play/47475930279ac9dcfd9c1
 https://vavoo.to/vavoo-iptv/play/2370723370bb823495ff98
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Portugal VAVOO",AXN WHITE (4)
 =======
 #EXTINF:-1 group-title="Portugal VAVOO",AXN WHITE (2)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Portugal VAVOO",AXN WHITE (4)
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Portugal VAVOO",AXN WHITE (4)
@@ -12931,6 +13232,9 @@ https://vavoo.to/vavoo-iptv/play/7711415421c705f6ba5dd
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Portugal VAVOO",DISNEY+ (2)
 https://vavoo.to/vavoo-iptv/play/2551829420791b5b928702
 =======
@@ -12997,10 +13301,13 @@ https://vavoo.to/vavoo-iptv/play/398423870926c3828a03bf
 https://vavoo.to/vavoo-iptv/play/34662135034440faed2387
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Portugal VAVOO",ELEVEN SPORTS 6 HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/178311678567a225e74dff
 #EXTINF:-1 group-title="Portugal VAVOO",EURONEWS (10)
 =======
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Portugal VAVOO",EURONEWS (9)
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/2842227117aaf7e860f895
@@ -13098,6 +13405,9 @@ https://vavoo.to/vavoo-iptv/play/35557164194cdcc75fb42f
 #EXTINF:-1 group-title="Portugal VAVOO",MTV PORTUGAL (2)
 https://vavoo.to/vavoo-iptv/play/35586821756dbad9fb0617
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Portugal VAVOO",NAT GEO (18)
 https://vavoo.to/vavoo-iptv/play/1196955352dcf13e1e10c5
 #EXTINF:-1 group-title="Portugal VAVOO",NAT GEO WILD (17)
@@ -13118,9 +13428,15 @@ https://vavoo.to/vavoo-iptv/play/32859584599ce78df64a7d
 #EXTINF:-1 group-title="Portugal VAVOO",NICK JUNIOR (4)
 https://vavoo.to/vavoo-iptv/play/11659668124a40dee2e709
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (17)
 https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f
 #EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (18)
+=======
+#EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (19)
+https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f
+#EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (20)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Portugal VAVOO",NICKELODEON (19)
 https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f
@@ -13306,9 +13622,14 @@ https://vavoo.to/vavoo-iptv/play/3292309622df6ab2322cc6
 #EXTINF:-1 group-title="Portugal VAVOO",TLC (16)
 https://vavoo.to/vavoo-iptv/play/1966027521cfea3ee092b5
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Portugal VAVOO",TOROS TV
 https://vavoo.to/vavoo-iptv/play/1243809524ae367b5e76b4
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Portugal VAVOO",TOROS
+https://vavoo.to/vavoo-iptv/play/16196976980919a19eb333
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Portugal VAVOO",TOROS TV (BACKUP)
 https://vavoo.to/vavoo-iptv/play/784576657f26a88c3fce5
@@ -13460,9 +13781,13 @@ https://vavoo.to/vavoo-iptv/play/21078026441cb26f93f71f
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Romania VAVOO",AXN WHITE (5)
 =======
 #EXTINF:-1 group-title="Romania VAVOO",AXN WHITE (3)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Romania VAVOO",AXN WHITE (5)
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Romania VAVOO",AXN WHITE (5)
@@ -13784,6 +14109,9 @@ https://vavoo.to/vavoo-iptv/play/278861199913432646bdf4
 #EXTINF:-1 group-title="Romania VAVOO",NASUL TV
 https://vavoo.to/vavoo-iptv/play/348279619ed392d0690d1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Romania VAVOO",NAT GEO (19)
 https://vavoo.to/vavoo-iptv/play/199075421934b7e0a57fa7
 #EXTINF:-1 group-title="Romania VAVOO",NAT GEO WILD (18)
@@ -13806,7 +14134,11 @@ https://vavoo.to/vavoo-iptv/play/1152291023d637d6290d18
 #EXTINF:-1 group-title="Romania VAVOO",NATIONAL TV (2)
 https://vavoo.to/vavoo-iptv/play/284043233372dabfb265
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Romania VAVOO",NICK JR (8)
+=======
+#EXTINF:-1 group-title="Romania VAVOO",NICK JR (11)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Romania VAVOO",NICK JR (11)
 >>>>>>> Stashed changes
@@ -13816,7 +14148,11 @@ https://vavoo.to/vavoo-iptv/play/3580885142aaf20274a37d
 #EXTINF:-1 group-title="Romania VAVOO",NICK TOONS (2)
 https://vavoo.to/vavoo-iptv/play/3576875795cefd64f1c650
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Romania VAVOO",NICKELODEON (19)
+=======
+#EXTINF:-1 group-title="Romania VAVOO",NICKELODEON (21)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Romania VAVOO",NICKELODEON (21)
 >>>>>>> Stashed changes
@@ -14082,6 +14418,7 @@ https://vavoo.to/vavoo-iptv/play/2022519012522857de3910
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Russia VAVOO",CARTOON NETWORK (19)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -14090,6 +14427,11 @@ https://vavoo.to/vavoo-iptv/play/1113667051962e353d6d23
 =======
 >>>>>>> Stashed changes
 =======
+https://vavoo.to/vavoo-iptv/play/1113667051962e353d6d23
+#EXTINF:-1 group-title="Russia VAVOO",CARTOON NETWORK (20)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Russia VAVOO",CARTOON NETWORK (19)
 https://vavoo.to/vavoo-iptv/play/1113667051962e353d6d23
 #EXTINF:-1 group-title="Russia VAVOO",CARTOON NETWORK (20)
 >>>>>>> Stashed changes
@@ -14452,6 +14794,9 @@ https://vavoo.to/vavoo-iptv/play/3863276446ea8dd5cd9209
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -14474,7 +14819,11 @@ https://vavoo.to/vavoo-iptv/play/2146269052f9754f9b47d1
 #EXTINF:-1 group-title="Russia VAVOO",NICK JR. (3)
 https://vavoo.to/vavoo-iptv/play/12271914897157c6e6d141
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Russia VAVOO",NICKELODEON (20)
+=======
+#EXTINF:-1 group-title="Russia VAVOO",NICKELODEON (22)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Russia VAVOO",NICKELODEON (22)
 >>>>>>> Stashed changes
@@ -15125,9 +15474,13 @@ https://vavoo.to/vavoo-iptv/play/2493319111ca06f6af6644
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Spain VAVOO",AXN WHITE (6)
 =======
 #EXTINF:-1 group-title="Spain VAVOO",AXN WHITE (4)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Spain VAVOO",AXN WHITE (6)
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Spain VAVOO",AXN WHITE (6)
@@ -15346,9 +15699,14 @@ https://vavoo.to/vavoo-iptv/play/27225633662edaae9cc410
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Spain VAVOO",EUROSPORT 4
 https://vavoo.to/vavoo-iptv/play/2752412701e74afdf9b33
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Spain VAVOO",EUROSPORT 4
+https://vavoo.to/vavoo-iptv/play/2752412701e74afdf9b33
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Spain VAVOO",EUROSPORT 4
@@ -15561,9 +15919,12 @@ https://vavoo.to/vavoo-iptv/play/1498547821a030b97a17f4
 https://vavoo.to/vavoo-iptv/play/369799243877c07b241614
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Spain VAVOO",MOVISTAR COMEDIA HD
 https://vavoo.to/vavoo-iptv/play/128504332060a4fe38a8e9
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Spain VAVOO",MOVISTAR DEPORTE 1 HD
@@ -15589,6 +15950,7 @@ https://vavoo.to/vavoo-iptv/play/19696741218d7802533835
 https://vavoo.to/vavoo-iptv/play/851881305a0fa02c31df2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Spain VAVOO",MOVISTAR LA LIGA 3
 https://vavoo.to/vavoo-iptv/play/262571241af1412d0bd59
 <<<<<<< Updated upstream
@@ -15612,6 +15974,10 @@ https://vavoo.to/vavoo-iptv/play/99407471309612174606f
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Spain VAVOO",MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT)
+https://vavoo.to/vavoo-iptv/play/99407471309612174606f
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Spain VAVOO",MOVISTAR LIGA DE CAMPEONES 4 HD (ONLY EVENT)
 https://vavoo.to/vavoo-iptv/play/3447547295cda5cb391fdc
 #EXTINF:-1 group-title="Spain VAVOO",MOVISTAR SERIESMANIA HD
@@ -15625,6 +15991,9 @@ https://vavoo.to/vavoo-iptv/play/406861984339e0e463fb39
 #EXTINF:-1 group-title="Spain VAVOO",MULTIDEPORTE
 https://vavoo.to/vavoo-iptv/play/2420131717f9390441c4d
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Spain VAVOO",NAT GEO (21)
 https://vavoo.to/vavoo-iptv/play/368990295245746b74b191
 #EXTINF:-1 group-title="Spain VAVOO",NAT GEO WILD (20)
@@ -15645,7 +16014,11 @@ https://vavoo.to/vavoo-iptv/play/16298526237d70540252a4
 #EXTINF:-1 group-title="Spain VAVOO",NEOX (2)
 https://vavoo.to/vavoo-iptv/play/39500046965ffc81c31919
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Spain VAVOO",NICK JR (9)
+=======
+#EXTINF:-1 group-title="Spain VAVOO",NICK JR (12)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Spain VAVOO",NICK JR (12)
 >>>>>>> Stashed changes
@@ -15653,7 +16026,11 @@ https://vavoo.to/vavoo-iptv/play/7875635221f6afe6eab4f
 #EXTINF:-1 group-title="Spain VAVOO",NICK JUNIOR (5)
 https://vavoo.to/vavoo-iptv/play/1143774621520503ae30d8
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Spain VAVOO",NICKELODEON (21)
+=======
+#EXTINF:-1 group-title="Spain VAVOO",NICKELODEON (23)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Spain VAVOO",NICKELODEON (23)
 >>>>>>> Stashed changes
@@ -15676,8 +16053,11 @@ https://vavoo.to/vavoo-iptv/play/26821954457ff1d9bbed4c
 https://vavoo.to/vavoo-iptv/play/14422677057467d8eb959e
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Spain VAVOO",PARAMOUNT NETWORK
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Spain VAVOO",PARAMOUNT NETWORK (2)
@@ -15761,9 +16141,12 @@ https://vavoo.to/vavoo-iptv/play/25373200360bc88aa084ee
 https://vavoo.to/vavoo-iptv/play/19804052756a4cb9bd26b9
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Spain VAVOO",TNT HD (2)
 https://vavoo.to/vavoo-iptv/play/4259288064c3a27aa033d4
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -16398,6 +16781,7 @@ https://vavoo.to/vavoo-iptv/play/116873446031ff5e217441
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Turkey VAVOO",BEST SALON 1
 https://vavoo.to/vavoo-iptv/play/2585357317352fbfd92833
 =======
@@ -16409,10 +16793,13 @@ https://vavoo.to/vavoo-iptv/play/35317279904b909276b540
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Turkey VAVOO",BEST NETFLIX
 https://vavoo.to/vavoo-iptv/play/35317279904b909276b540
 #EXTINF:-1 group-title="Turkey VAVOO",BEST SALON 1
 https://vavoo.to/vavoo-iptv/play/2585357317352fbfd92833
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
@@ -16429,6 +16816,8 @@ https://vavoo.to/vavoo-iptv/play/2585357317352fbfd92833
 =======
 #EXTINF:-1 group-title="Turkey VAVOO",BEST SALON 1
 https://vavoo.to/vavoo-iptv/play/2585357317352fbfd92833
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Turkey VAVOO",BEST SALON 3
 https://vavoo.to/vavoo-iptv/play/37723339252eec59344208
@@ -16533,6 +16922,7 @@ https://vavoo.to/vavoo-iptv/play/37370371587d37e629c448
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Turkey VAVOO",CARTOON NETWORK (21)
 https://vavoo.to/vavoo-iptv/play/16965737237b7911f24b84
 #EXTINF:-1 group-title="Turkey VAVOO",CARTOON NETWORK (22)
@@ -16550,6 +16940,11 @@ https://vavoo.to/vavoo-iptv/play/16965737237b7911f24b84
 #EXTINF:-1 group-title="Turkey VAVOO",CARTOON NETWORK (23)
 https://vavoo.to/vavoo-iptv/play/16965737237b7911f24b84
 #EXTINF:-1 group-title="Turkey VAVOO",CARTOON NETWORK (24)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="Turkey VAVOO",CARTOON NETWORK (21)
+https://vavoo.to/vavoo-iptv/play/16965737237b7911f24b84
+#EXTINF:-1 group-title="Turkey VAVOO",CARTOON NETWORK (22)
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Turkey VAVOO",CARTOON NETWORK (21)
@@ -16712,10 +17107,13 @@ https://vavoo.to/vavoo-iptv/play/10132204470a3c3b52576d
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Turkey VAVOO",DISCOVERY SCIENCE (10)
 https://vavoo.to/vavoo-iptv/play/10132204470a3c3b52576d
 #EXTINF:-1 group-title="Turkey VAVOO",DISCOVERY SCIENCE (11)
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -16840,8 +17238,13 @@ https://vavoo.to/vavoo-iptv/play/3889835776671d9bb9a169
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Turkey VAVOO",DREAM LOCA 3 (2)
 https://vavoo.to/vavoo-iptv/play/3889835776671d9bb9a169
+=======
+#EXTINF:-1 group-title="Turkey VAVOO",DREAM NETFLIX
+https://vavoo.to/vavoo-iptv/play/1713907990c1517cdc70d9
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Turkey VAVOO",DREAM NETFLIX
 https://vavoo.to/vavoo-iptv/play/1713907990c1517cdc70d9
@@ -16964,11 +17367,14 @@ https://vavoo.to/vavoo-iptv/play/633768195851d6f914620
 https://vavoo.to/vavoo-iptv/play/38337533385e11d005954b
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 #EXTINF:-1 group-title="Turkey VAVOO",ENO ANIMASYON (2)
 https://vavoo.to/vavoo-iptv/play/38337533385e11d005954b
 #EXTINF:-1 group-title="Turkey VAVOO",ENO TURK 1
 https://vavoo.to/vavoo-iptv/play/22336872173761a2f4bc0f
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -17068,8 +17474,11 @@ https://vavoo.to/vavoo-iptv/play/21476140819198063bb491
 #EXTINF:-1 group-title="Turkey VAVOO",EXXEN SPOR 1 SD
 https://vavoo.to/vavoo-iptv/play/20245689820af9ca3911b8
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Turkey VAVOO",EXXEN SPORTS 1
 https://vavoo.to/vavoo-iptv/play/1842018252a99ee10aa7f4
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="Turkey VAVOO",EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]
@@ -17758,6 +18167,9 @@ https://vavoo.to/vavoo-iptv/play/116649464548e13965dce6
 #EXTINF:-1 group-title="Turkey VAVOO",NASREDDIN HOCA
 https://vavoo.to/vavoo-iptv/play/2930757080c4b0b0917745
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Turkey VAVOO",NAT GEO (22)
 https://vavoo.to/vavoo-iptv/play/184566063009c2eced111a
 #EXTINF:-1 group-title="Turkey VAVOO",NAT GEO (23)
@@ -17790,7 +18202,11 @@ https://vavoo.to/vavoo-iptv/play/35138675369ae6fbf4e941
 #EXTINF:-1 group-title="Turkey VAVOO",NET SERVER 1
 https://vavoo.to/vavoo-iptv/play/69562723c4f409d4f312
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Turkey VAVOO",NICK JR (10)
+=======
+#EXTINF:-1 group-title="Turkey VAVOO",NICK JR (13)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Turkey VAVOO",NICK JR (13)
 >>>>>>> Stashed changes
@@ -17800,9 +18216,15 @@ https://vavoo.to/vavoo-iptv/play/70716309912fd7c8b433e
 #EXTINF:-1 group-title="Turkey VAVOO",NICK JUNIOR (6)
 https://vavoo.to/vavoo-iptv/play/1384991998bbb9bc709eb1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (22)
 https://vavoo.to/vavoo-iptv/play/3029254675256aa43dc772
 #EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (23)
+=======
+#EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (24)
+https://vavoo.to/vavoo-iptv/play/3029254675256aa43dc772
+#EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (25)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="Turkey VAVOO",NICKELODEON (24)
 https://vavoo.to/vavoo-iptv/play/3029254675256aa43dc772
@@ -18726,9 +19148,14 @@ https://vavoo.to/vavoo-iptv/play/937337463bdc41111006
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="United Kingdom VAVOO",AL JAZEERA HD
 https://vavoo.to/vavoo-iptv/play/15056796381235e0980b2d
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="United Kingdom VAVOO",AL JAZEERA HD
+https://vavoo.to/vavoo-iptv/play/15056796381235e0980b2d
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",AL JAZEERA HD
@@ -18753,9 +19180,12 @@ https://vavoo.to/vavoo-iptv/play/38083036347baf91d01759
 #EXTINF:-1 group-title="United Kingdom VAVOO",ANIMAL PLANET (15)
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",ANIMAL PLANET (16)
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",ANIMAL PLANET (15)
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/4087117235f21c527d3c84
 #EXTINF:-1 group-title="United Kingdom VAVOO",ARIRANG TV HD
@@ -18917,6 +19347,7 @@ https://vavoo.to/vavoo-iptv/play/3373040735775ddfeb441a
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="United Kingdom VAVOO",CARTOON NETWORK (23)
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",CARTOON NETWORK (22)
@@ -18926,6 +19357,9 @@ https://vavoo.to/vavoo-iptv/play/3373040735775ddfeb441a
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",CARTOON NETWORK (25)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="United Kingdom VAVOO",CARTOON NETWORK (23)
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",CARTOON NETWORK (23)
@@ -19109,9 +19543,14 @@ https://vavoo.to/vavoo-iptv/play/85263780203a8bbb82728
 https://vavoo.to/vavoo-iptv/play/1060350297ec72d74a0196
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY CHANNEL (14)
 https://vavoo.to/vavoo-iptv/play/415538164205e5902b4d99
 =======
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY CHANNEL (14)
+https://vavoo.to/vavoo-iptv/play/415538164205e5902b4d99
 >>>>>>> Stashed changes
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY CHANNEL (15)
 https://vavoo.to/vavoo-iptv/play/3783739771303538919cc6
@@ -19119,6 +19558,7 @@ https://vavoo.to/vavoo-iptv/play/3783739771303538919cc6
 https://vavoo.to/vavoo-iptv/play/1151638913fc083d3d1b49
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY ID (5)
 https://vavoo.to/vavoo-iptv/play/3654944975bb9ddcf7d69f
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -19132,6 +19572,11 @@ https://vavoo.to/vavoo-iptv/play/26216426445f249a5aee3a
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY SCIENCE (12)
 https://vavoo.to/vavoo-iptv/play/26216426445f249a5aee3a
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY SCIENCE (13)
+>>>>>>> Stashed changes
+=======
+#EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY SCIENCE (15)
+https://vavoo.to/vavoo-iptv/play/26216426445f249a5aee3a
+#EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY SCIENCE (16)
 >>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISCOVERY SCIENCE (15)
@@ -19162,11 +19607,15 @@ https://vavoo.to/vavoo-iptv/play/27075763748eba9a2a820c
 https://vavoo.to/vavoo-iptv/play/454135378978614203796
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY JUNIOR (8)
 https://vavoo.to/vavoo-iptv/play/4020316698ffe2410aa9ff
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY JUNIOR (9)
 https://vavoo.to/vavoo-iptv/play/408461551717ccc5b88f28
 #EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY XD (7)
+=======
+#EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY XD (6)
+>>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/16432978714b8bb29ccad6
-#EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY XD (8)
+#EXTINF:-1 group-title="United Kingdom VAVOO",DISNEY XD (7)
 https://vavoo.to/vavoo-iptv/play/2449536426596862547c9a
 #EXTINF:-1 group-title="United Kingdom VAVOO",DMAX (10)
 https://vavoo.to/vavoo-iptv/play/285095108763740ae01b08
@@ -19331,6 +19780,9 @@ https://vavoo.to/vavoo-iptv/play/24765974565aec0dd975a9
 #EXTINF:-1 group-title="United Kingdom VAVOO",HGTV+1
 https://vavoo.to/vavoo-iptv/play/652887423482dd04621ae
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="United Kingdom VAVOO",HIGH STREET TV 2
 https://vavoo.to/vavoo-iptv/play/465385516521e9300c478
 #EXTINF:-1 group-title="United Kingdom VAVOO",HIGH STREET TV 3
@@ -19487,6 +19939,7 @@ https://vavoo.to/vavoo-iptv/play/2630500553a77fda8c6613
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -19503,6 +19956,10 @@ https://vavoo.to/vavoo-iptv/play/3819038124227bf4f65d5c
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",NAT GEO (24)
 https://vavoo.to/vavoo-iptv/play/63782916473366b0d53c1
+=======
+#EXTINF:-1 group-title="United Kingdom VAVOO",NAT GEO (24)
+https://vavoo.to/vavoo-iptv/play/63782916473366b0d53c1
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="United Kingdom VAVOO",NAT GEO WILD (22)
 https://vavoo.to/vavoo-iptv/play/253455748562c14e6f8b1b
 >>>>>>> Stashed changes
@@ -19526,7 +19983,11 @@ https://vavoo.to/vavoo-iptv/play/22464850170fe128fcc323
 #EXTINF:-1 group-title="United Kingdom VAVOO",NHK WORLD HD
 https://vavoo.to/vavoo-iptv/play/545089696a5997218fba8
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICK JR (11)
+=======
+#EXTINF:-1 group-title="United Kingdom VAVOO",NICK JR (14)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICK JR (14)
 >>>>>>> Stashed changes
@@ -19542,9 +20003,15 @@ https://vavoo.to/vavoo-iptv/play/19524916174dcbcadf18d5
 >>>>>>> Stashed changes
 https://vavoo.to/vavoo-iptv/play/337718313a14120c52d4c
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (24)
 https://vavoo.to/vavoo-iptv/play/406235616455f438a9bb72
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (25)
+=======
+#EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (26)
+https://vavoo.to/vavoo-iptv/play/406235616455f438a9bb72
+#EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (27)
+>>>>>>> Stashed changes
 =======
 #EXTINF:-1 group-title="United Kingdom VAVOO",NICKELODEON (26)
 https://vavoo.to/vavoo-iptv/play/406235616455f438a9bb72
@@ -19686,6 +20153,9 @@ https://vavoo.to/vavoo-iptv/play/26740224556181385ada2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
