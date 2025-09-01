@@ -3,6 +3,7 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Live Events",Soccer | Bulgaria Second Professional League : Marek Dupnica vs. PFC Minyor Pernik (14:30) | Diema Sport 1 Bulgaria
 https://daddylive.sx/stream/stream-465.php
 
@@ -78,6 +79,8 @@ https://daddylive.sx/stream/stream-707.php
 #EXTINF:-1 group-title="Live Events",Soccer | Spain - Segunda Division : Huesca vs Eibar (17:30) | MAX Sport 2 Bulgaria
 https://daddylive.sx/stream/stream-473.php
 
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Live Events",Soccer | Romania - Liga I : Farul Constanța vs Petrolul 52 (18:00) | Digi Sport 1 Romania
 https://daddylive.sx/stream/stream-400.php
 
@@ -132,9 +135,10 @@ https://daddylive.sx/stream/stream-388.php
 #EXTINF:-1 group-title="Live Events",Soccer | Colombia - Primera B : Barranquilla vs Internacional Palmira (23:05) | Win+ Futbol Colombia
 https://daddylive.sx/stream/stream-392.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | Caribbean Premier League : Trinbago Knight Riders vs Saint Kitts and Nevis Patriots (14:30) | Willow 2 Cricket
-https://daddylive.sx/stream/stream-598.php
+#EXTINF:-1 group-title="Live Events",ATP - US OPEN | Musetti L. vs Munar J. (18:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1502.php
 
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Live Events",Cricket | Caribbean Premier League : Trinbago Knight Riders vs Saint Kitts and Nevis Patriots (14:30) | TNT Sports 3 UK
 https://daddylive.sx/stream/stream-33.php
 
@@ -236,6 +240,49 @@ https://daddylive.sx/stream/stream-31.php
 
 #EXTINF:-1 group-title="Live Events",Snooker | Ultimate Pool: Championship Shoot (17:00) | Sky Sport 2 NZ
 https://daddylive.sx/stream/stream-589.php
+=======
+#EXTINF:-1 group-title="Live Events",ATP - US OPEN | Sinner J. vs Bublik A. (23:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1501.php
+
+#EXTINF:-1 group-title="Live Events",ATP DOUBLES - US OPEN | Machac T./Vocel M. vs Arevalo M./Pavic M. (18:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1512.php
+
+#EXTINF:-1 group-title="Live Events",ATP DOUBLES - US OPEN | McDonald M./Quinn E. vs Granollers M./Zeballos H. (18:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1517.php
+
+#EXTINF:-1 group-title="Live Events",ATP DOUBLES - US OPEN | Cash R./Tracy J. vs Bolelli S./Vavassori A. (18:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1503.php
+
+#EXTINF:-1 group-title="Live Events",ATP DOUBLES - US OPEN | Gonzalez M./Molteni A. vs Harper C./Rojer J. (18:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1511.php
+
+#EXTINF:-1 group-title="Live Events",ATP DOUBLES - US OPEN | Matos R./Melo M. vs Doumbia S./Reboul F. (20:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1505.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Bucsa C./Melichar-Martinez N. vs Dabrowski/Routliffe (18:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1505.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Muhammad A./Schuurs D. vs Danilina A./Krunic A. (18:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1511.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Kudermetova V./Mertens E. vs Kostyuk M./Ruse G. (19:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1512.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Stollar F./Wu F. vs Errani S./Paolini J. (19:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1517.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Siniakova K./Townsend T. vs Osorio C./Yuan Y. (20:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1503.php
+
+#EXTINF:-1 group-title="Live Events",WTA DOUBLES - US OPEN | Alexandrova E./Zhang S. vs Fernandez L./Williams V. (21:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1502.php
+
+#EXTINF:-1 group-title="Live Events",Motorsports | NHRA Drag Racing Cornwell Quality Tools U.S. Nationals (18:00) | FOXNY USA
+https://daddylive.sx/stream/stream-768.php
+
+#EXTINF:-1 group-title="Live Events",Motorsports | NHRA Drag Racing Cornwell Quality Tools U.S. Nationals (18:00) | FOX USA
+https://daddylive.sx/stream/stream-54.php
+>>>>>>> Stashed changes
 
 #EXTINF:-1 group-title="Live Events",Am. Football | CFL : Hamilton Tiger-Cats vs Toronto Argonauts (18:30) | TSN1
 https://daddylive.sx/stream/stream-111.php
@@ -255,6 +302,7 @@ https://daddylive.sx/stream/stream-114.php
 #EXTINF:-1 group-title="Live Events",Am. Football | CFL : Calgary Stampeders vs Edmonton Eskimos (22:00) | CBS Sports Network
 https://daddylive.sx/stream/stream-308.php
 
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Live Events",Baseball | MLB : Washington Nationals vs Miami Marlins (17:05) | MLB League Pass
 https://daddylive.sx/stream/stream-10.php
 
@@ -297,6 +345,8 @@ https://daddylive.sx/stream/stream-894.php
 #EXTINF:-1 group-title="Live Events",Baseball | MLB : Cincinnati Reds vs Toronto Blue Jays (17:10) | FanDuel Sports Network Ohio
 https://daddylive.sx/stream/stream-899.php
 
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Live Events",Baseball | MLB : Boston Red Sox vs Cleveland Guardians (17:35) | MLB League Pass
 https://daddylive.sx/stream/stream-13.php
 
@@ -396,6 +446,7 @@ https://daddylive.sx/stream/stream-406.php
 #EXTINF:-1 group-title="Live Events",Baseball | MLB : Tampa Bay Rays vs Seattle Mariners (23:35) | Sportsnet West
 https://daddylive.sx/stream/stream-407.php
 
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Live Events",Basketball | EuroBasket : Portugal vs Latvia (15:00) | Magenta Sport 316
 https://daddylive.sx/stream/stream-7.php
 
@@ -447,6 +498,8 @@ https://daddylive.sx/stream/stream-101.php
 #EXTINF:-1 group-title="Live Events",Basketball | EuroBasket : Lithuania vs Finland (17:30) | Sport 5 Plus Israel
 https://daddylive.sx/stream/stream-145.php
 
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Live Events",Basketball | EuroBasket : Czech Republic vs Serbia (18:15) | Magenta Sport 316
 https://daddylive.sx/stream/stream-9.php
 
@@ -477,6 +530,7 @@ https://daddylive.sx/stream/stream-144.php
 #EXTINF:-1 group-title="Live Events",Floorball | H?quei em Patins: Campeonato da Europa de Seniores Masculinos Portugal x It?lia (20:45) | RTP 1 Portugal
 https://daddylive.sx/stream/stream-719.php
 
+<<<<<<< Updated upstream
 #EXTINF:-1 group-title="Live Events",Futsal | Poland, Ekstraklasa : Futsal Swiecie vs. Legia Warszawa (16:15) | TVP Sport Poland
 https://daddylive.sx/stream/stream-128.php
 
@@ -486,6 +540,8 @@ https://daddylive.sx/stream/stream-758.php
 #EXTINF:-1 group-title="Live Events",Ice Hockey | Slovensky Pohar : HC Topolcany vs. 95 Povazska Bystrica (16:00) | JOJ Sport Slovakia
 https://daddylive.sx/stream/stream-20.php
 
+=======
+>>>>>>> Stashed changes
 #EXTINF:-1 group-title="Live Events",Lacrosse | Premier Lacrosse League : Philadelphia Waterdogs vs. New York Atlas (19:00) | ESPN2 USA
 https://daddylive.sx/stream/stream-45.php
 
