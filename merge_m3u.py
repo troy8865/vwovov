@@ -3,6 +3,7 @@ import re
 
 # Birleştirilecek M3U listelerinin URL'leri
 URLS = [
+    "https://cine10giris.org.tr/ulusaltv.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u"
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u"
 ]
