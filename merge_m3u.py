@@ -12,11 +12,6 @@ URLS = [
 # Çıktı dosyasının adı
 OUTPUT_FILE = "karams.m3u"
 
-# Sonuç listesine eklenecek kategoriler
-EXCLUDED_CATEGORIES = {
-    "🎦 GLOBAL BOX",
-    "🎦 ENO SİNEMA",
-    "🎦 FIX CINEMA"
 }
 
 def get_group_title(info_line):
