@@ -12,7 +12,7 @@ URLS = [
 # Çıktı dosyasının adı
 OUTPUT_FILE = "karams.m3u"
 
-# Sonuç listesinden çıkarılacak, istenmeyen kategoriler
+# Sonuç listesine eklenecek kategoriler
 EXCLUDED_CATEGORIES = {
     "🎦 GLOBAL BOX",
     "🎦 ENO SİNEMA",
