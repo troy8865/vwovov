@@ -7,18 +7,13 @@ URLS = [
     "https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/daddylive-channels.m3u8",
     "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u",
     "https://raw.githubusercontent.com/troy8865/kblmod/refs/heads/main/tr_list.m3u",
-    
 ]
 
 # Çıktı dosyasının adı
 OUTPUT_FILE = "karams.m3u"
 
-# Sonuç listesinden çıkarılacak, istenmeyen kategoriler
-EXCLUDED_CATEGORIES = {
-    "🎦 GLOBAL BOX",
-    "🎦 ENO SİNEMA",
-    "🎦 FIX CINEMA"
-}
+# Dışlanacak kategori yok, tüm kanallar dahil edilecek
+EXCLUDED_CATEGORIES = set()
 
 def get_group_title(info_line):
     """
@@ -27,93 +22,76 @@ def get_group_title(info_line):
     match = re.search(r'group-title="([^"]+)"', info_line)
     if match:
         return match.group(1)
-    return "Diğer" # Kategori bulunamazsa varsayılan olarak bu kategoriye ekler
+    return "Diğer"  # Kategori bulunamazsa varsayılan olarak
 
 def process_m3u_lists():
     """
-    URL'lerdeki M3U listelerini işler, istenmeyen kategorileri filtreler,
-    birleştirir ve dosyaya yazar.
+    URL'lerdeki M3U listelerini işler, birleştirir ve .m3u dosyasına yazar.
     """
-    # Kanalları kategorilerine göre saklamak için bir sözlük (dictionary) yapısı
-    categorized_channels = {}
+    categorized_channels = {}  # Kategoriye göre kanalları tutar
+    seen_urls = set()  # Aynı yayını tekrar eklememek için
 
-    # Tekrar eden yayın URL'lerini kontrol etmek için bir set
-    seen_urls = set()
-
-    print("M3U listeleri indiriliyor ve işleniyor...")
+    print("M3U listeleri indiriliyor ve işleniyor...\n")
 
     for url in URLS:
         try:
             print(f"-> {url} işleniyor...")
             response = requests.get(url, timeout=15)
-            response.raise_for_status()  # HTTP hatası varsa programı durdurur
+            response.raise_for_status()
 
-            # İçeriği satırlara ayır
             lines = response.text.splitlines()
 
-            # Satırları gezerek kanal bilgilerini ve URL'sini al
             for i in range(len(lines)):
                 if lines[i].startswith("#EXTINF:"):
                     info_line = lines[i]
 
-                    # Sonraki satırın yayın URL'si olduğunu varsayalım
                     if i + 1 < len(lines) and lines[i+1].strip().startswith("http"):
                         stream_url = lines[i+1].strip()
 
-                        # Eğer bu yayın URL'si daha önce eklenmediyse işle
                         if stream_url not in seen_urls:
-                            # Kategoriyi al
                             category = get_group_title(info_line)
 
-                            # YENİ EKLENTİ: Kategori dışlama listesinde mi kontrol et
+                            # Kategori dışlama kontrolü (boş olduğundan tümü geçer)
                             if category in EXCLUDED_CATEGORIES:
-                                continue # Bu kategoriyi atla ve bir sonraki kanala geç
+                                continue
 
-                            # Kanal bilgisini ve URL'sini bir demet (tuple) olarak sakla
                             channel_data = (info_line, stream_url)
 
-                            # Eğer bu kategori daha önce oluşturulmadıysa, oluştur
                             if category not in categorized_channels:
                                 categorized_channels[category] = []
 
-                            # Kanalı ilgili kategoriye ekle
                             categorized_channels[category].append(channel_data)
-
-                            # Yayın URL'sini görülenlere ekle
                             seen_urls.add(stream_url)
 
         except requests.exceptions.RequestException as e:
-            print(f"Hata: {url} adresine ulaşılamadı. Hata detayı: {e}")
+            print(f"Hata: {url} alınamadı. Hata detayı: {e}")
         except Exception as e:
             print(f"Beklenmedik bir hata oluştu: {e}")
 
-    print("\nListeler birleştirildi ve filtrelendi. Şimdi dosya oluşturuluyor...")
+    print("\n✔️ Tüm listeler işlendi. Şimdi dosya yazılıyor...\n")
 
-    # Kategorileri alfabetik olarak sırala
+    # Kategorileri alfabetik sırala
     sorted_categories = sorted(categorized_channels.keys())
 
-    # Sonuçları dosyaya yaz
     try:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            f.write("#EXTM3U\n") # M3U dosyasının başlangıç etiketi
+            f.write("#EXTM3U\n")
 
             total_channels = 0
             for category in sorted_categories:
-                channels_in_category = categorized_channels[category]
-                if channels_in_category:
+                channels = categorized_channels[category]
+                if channels:
                     f.write("\n")
-                    print(f"-> '{category}' kategorisinde {len(channels_in_category)} kanal bulundu.")
-                    for info, url in channels_in_category:
+                    print(f"📂 '{category}' kategorisinde {len(channels)} kanal bulundu.")
+                    for info, url in channels:
                         f.write(f"{info}\n")
                         f.write(f"{url}\n")
                         total_channels += 1
 
-        print(f"\nİşlem tamamlandı! Toplam {len(sorted_categories)} kategori ve {total_channels} benzersiz kanal '{OUTPUT_FILE}' dosyasına kaydedildi.")
-        print(f"Dışlanan kategoriler: {', '.join(EXCLUDED_CATEGORIES)}")
+        print(f"\n✅ Tamamlandı! Toplam {total_channels} kanal '{OUTPUT_FILE}' dosyasına kaydedildi.\n")
 
     except IOError as e:
-        print(f"Dosya yazma hatası: {e}")
-
+        print(f"❌ Dosya yazma hatası: {e}")
 
 if __name__ == "__main__":
     process_m3u_lists()
