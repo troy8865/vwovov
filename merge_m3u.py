@@ -6,7 +6,6 @@ URLS = [
     "https://cine10giris.org.tr/ulusaltv.m3u",
     "https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/daddylive-channels.m3u8",
     "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u",
-    "https://raw.githubusercontent.com/troy8865/kblmod/refs/heads/main/tr_list.m3u",
 ]
 
 # Çıktı dosyasının adı
