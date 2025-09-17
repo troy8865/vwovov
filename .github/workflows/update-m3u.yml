@@ -1,0 +1,50 @@
+# İş akışının adı
+name: Update Birlesik M3U
+
+on:
+  # 1. GitHub arayüzünden manuel olarak tetiklemeyi sağlar
+  workflow_dispatch:
+
+  # 2. Her 30 dakikada bir otomatik olarak çalıştırır
+  schedule:
+    - cron: '*/30 * * * *'
+
+  # 3. 'main' branch'ine her kod gönderildiğinde çalışır
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    # İşin çalışacağı sanal makine
+    runs-on: ubuntu-latest
+
+    steps:
+      # Adım 1: Depodaki kodları sanal makineye indirir
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Adım 2: Python 3.11 ortamını kurar
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Adım 3: Gerekli Python kütüphanelerini yükler
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install httpx
+
+      # Adım 4: Python script'ini çalıştırarak Birlesik.m3u dosyasını oluşturur/günceller
+      - name: Run birlesik.py
+        run: python birlesik.py
+
+      # Adım 5: Oluşturulan/değiştirilen dosyayı depoya otomatik olarak commit'ler
+      - name: Commit and push if there are changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Otomatik M3U listesi güncellemesi"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
