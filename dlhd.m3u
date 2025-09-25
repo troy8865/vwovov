@@ -3,98 +3,1034 @@
 #EXTINF:-1 group-title="Live Events",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:14) | MultiFeed
+#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:07) | MultiFeed
 https://daddylive.sx/stream/stream-277.php
 
-#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:14) | BBFeed 1
+#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:07) | BBFeed 1
 https://daddylive.sx/stream/stream-261.php
 
-#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:14) | BBFeed 2
+#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:07) | BBFeed 2
 https://daddylive.sx/stream/stream-262.php
 
-#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:14) | BBFeed 3
+#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:07) | BBFeed 3
 https://daddylive.sx/stream/stream-263.php
 
-#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:14) | BBFeed 4
+#EXTINF:-1 group-title="Live Events",Big Brother 27 USA 2025 Live | Big Brother 27 USA 2025 Live Cam Feeds (03:07) | BBFeed 4
 https://daddylive.sx/stream/stream-264.php
 
-#EXTINF:-1 group-title="Live Events",Big Brother Naija 2025 Live | Big Brother Naija 2025 (03:14) | MainFeed
+#EXTINF:-1 group-title="Live Events",Big Brother Naija 2025 Live | Big Brother Naija 2025 (03:07) | MainFeed
 https://daddylive.sx/stream/stream-230.php
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | CONCACAF Caribbean Cup : Juventus vs Cibao (00:00) | Fox Soccer Plus
-https://daddylive.sx/stream/stream-756.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | United States - NCAA Men's Soccer : Penn St. vs Maryland (00:00) | BTN USA
-https://daddylive.sx/stream/stream-397.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | Sport TV1 Portugal
-https://daddylive.sx/stream/stream-49.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | beIN SPORTS USA
-https://daddylive.sx/stream/stream-425.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | beIN SPORTS en Español
-https://daddylive.sx/stream/stream-372.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | ESPN 1 NL
-https://daddylive.sx/stream/stream-379.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | Arena Sport 1 Croatia
-https://daddylive.sx/stream/stream-432.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | ESPN Argentina
-https://daddylive.sx/stream/stream-149.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | MAX Sport 4 Bulgaria
-https://daddylive.sx/stream/stream-475.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | beIN Sports MENA English 1
-https://daddylive.sx/stream/stream-61.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Copa Sudamericana : Fluminense vs Lanús (00:30) | Sport 2 Israel
-https://daddylive.sx/stream/stream-141.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Brazil - Serie B : Ferroviária vs Goiás (00:35) | ESPN Brazil
-https://daddylive.sx/stream/stream-81.php
-
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Liga MX : Puebla vs Pachuca (01:00) | TUDN USA
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Cruz Azul vs Querétaro (00:00) | TUDN USA
 https://daddylive.sx/stream/stream-66.php
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Liga MX : Guadalajara vs Necaxa (01:07) | NBC UNIVERSO USA
-https://daddylive.sx/stream/stream-845.php
+#EXTINF:-1 group-title="Live Events",Soccer | CONCACAF Caribbean Cup : Universidad O&M vs Moca (00:00) | Fox Soccer Plus
+https://daddylive.sx/stream/stream-756.php
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Liga MX : Juárez vs Pumas UNAM (03:00) | Azteca 7 MX
+#EXTINF:-1 group-title="Live Events",Soccer | Brazil Brasileirão Série B : Volta Redonda vs Remo (00:30) | ESPN4 Brazil
+https://daddylive.sx/stream/stream-85.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | beIN SPORTS USA
+https://daddylive.sx/stream/stream-425.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | Fox Sports Argentina
+https://daddylive.sx/stream/stream-787.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | Telefe Argentina
+https://daddylive.sx/stream/stream-19.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | beIN SPORTS en Español
+https://daddylive.sx/stream/stream-372.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | SPORT1+ DE
+https://daddylive.sx/stream/stream-640.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | Sport TV1 Portugal
+https://daddylive.sx/stream/stream-49.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | ESPN 1 NL
+https://daddylive.sx/stream/stream-379.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | Polsat Sport 2 Poland
+https://daddylive.sx/stream/stream-50.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | ESPN2 Mexico
+https://daddylive.sx/stream/stream-926.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | Arena 1 Premium Serbia
+https://daddylive.sx/stream/stream-134.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | Arena Sport 1 Croatia
+https://daddylive.sx/stream/stream-432.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | MAX Sport 4 Bulgaria
+https://daddylive.sx/stream/stream-475.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | ESPN Brazil
+https://daddylive.sx/stream/stream-81.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | beIN Sports MENA 4
+https://daddylive.sx/stream/stream-94.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | beIN Sports MENA English 1
+https://daddylive.sx/stream/stream-61.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : Palmeiras vs River Plate (00:30) | Sport 2 Israel
+https://daddylive.sx/stream/stream-141.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Once Caldas vs Independiente del Valle (00:30) | Sport TV3 Portugal
+https://daddylive.sx/stream/stream-454.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Once Caldas vs Independiente del Valle (00:30) | Arena Sport 2 Croatia
+https://daddylive.sx/stream/stream-433.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Once Caldas vs Independiente del Valle (00:30) | ESPN2 Brazil
+https://daddylive.sx/stream/stream-82.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Once Caldas vs Independiente del Valle (00:30) | ESPN2 Argentina
+https://daddylive.sx/stream/stream-150.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Once Caldas vs Independiente del Valle (00:30) | Arena 3 Premium Serbia
+https://daddylive.sx/stream/stream-139.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Once Caldas vs Independiente del Valle (00:30) | Sport 3 Israel
+https://daddylive.sx/stream/stream-142.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | USL Championship : Colorado Springs vs New Mexico United (01:00) | CBS Sports Network USA
+https://daddylive.sx/stream/stream-308.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Tigres UANL vs Atlas (01:00) | Azteca 7 MX
 https://daddylive.sx/stream/stream-844.php
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Liga MX : Juárez vs Pumas UNAM (03:00) | NBC UNIVERSO USA
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Tigres UANL vs Atlas (01:00) | Fox Sports 2 USA
+https://daddylive.sx/stream/stream-758.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Tigres UANL vs Atlas (01:00) | NBC UNIVERSO USA
 https://daddylive.sx/stream/stream-845.php
 
-#EXTINF:-1 group-title="Live Events",All Soccer Events | Liga MX : Juárez vs Pumas UNAM (03:00) | FOX Deportes
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Tigres UANL vs Atlas (01:00) | FOX Deportes
 https://daddylive.sx/stream/stream-643.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | Marsh One-Day Cup : South Australia vs Western Australia (00:30) | Sky Sport 6 NZ
-https://daddylive.sx/stream/stream-593.php
+#EXTINF:-1 group-title="Live Events",Soccer | Colombia - Primera A : Deportivo Pasto vs América de Cali (01:00) | Win+ Futbol Colombia
+https://daddylive.sx/stream/stream-392.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | Women's National Cricket League L: W Australia vs Queensland (06:00) | Sky Sport 5 NZ
-https://daddylive.sx/stream/stream-592.php
+#EXTINF:-1 group-title="Live Events",Soccer | CONCACAF Central American Cup : Plaza Amador vs Real España (02:00) | Fox Soccer Plus
+https://daddylive.sx/stream/stream-756.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | Asia Cup | T20 | Super Four : Bangladesh vs India (14:00) | Willow 2 Cricket
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Toluca vs Monterrey (02:05) | TUDN MX
+https://daddylive.sx/stream/stream-935.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Toluca vs Monterrey (02:05) | TUDN USA
+https://daddylive.sx/stream/stream-66.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Major League Soccer : Vancouver Whitecaps vs Portland Timbers (02:30) | MLS Season Pass
+https://daddylive.sx/stream/stream-59.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Liga MX : Atlético San Luis vs América (03:00) | ESPN Mexico
+https://daddylive.sx/stream/stream-925.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Asia - Arab Club Champions Cup : Johor Darul Ta'zim vs Bangkok United (09:30) | Astro Arena Bola
+https://daddylive.sx/stream/stream-1.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Asia - ASEAN Club Championship : Nam Dinh vs Svay Rieng Astro (12:30) | Arena Bola
+https://daddylive.sx/stream/stream-1.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Poland - Puchar Polski : Odra Bytom Odrzański vs Wisła Kraków (12:30) | TVP Sport Poland
+https://daddylive.sx/stream/stream-128.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | United Arab Emirates - UAE Pro League : Al Ahli vs Al Ain (13:25) | Dubai Sports 1
+https://daddylive.sx/stream/stream-604.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | United Arab Emirates - UAE Pro League : Al Ahli vs Al Ain (13:25) | Abu Dhabi Sports 1
+https://daddylive.sx/stream/stream-600.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : Amkal vs Yenisey (14:00) | Match Premier Russia
+https://daddylive.sx/stream/stream-573.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : Amkal vs Yenisey (14:00) | Match TV Russia
+https://daddylive.sx/stream/stream-127.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : Sivasspor vs Adana Demirspor (14:00) | TRT Spor Turkey
+https://daddylive.sx/stream/stream-889.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : Sivasspor vs Adana Demirspor (14:00) | beIN Sports 2 Turkey
+https://daddylive.sx/stream/stream-63.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Bulgaria - Parva Liga : Botev Plovdiv vs CSKA 1948 (14:30) | Diema Sport Bulgaria
+https://daddylive.sx/stream/stream-465.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | South Africa - Varsity Football : University Of Johannesburg vs Tshwane University Of Technology (14:45) | SuperSport Variety 4
+https://daddylive.sx/stream/stream-419.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Qatar - Qatar Stars League : Al Rayyan vs Al Gharafa (15:00) | beIN Sports MENA 4
+https://daddylive.sx/stream/stream-94.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Khaleej vs Al Taawon (15:10) | Thmanyah
+https://daddylive.sx/stream/stream-2.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Belarus - Belarus Premier League : Torpedo BelAZ vs Naftan (15:15) | Belarus 5
+https://daddylive.sx/stream/stream-3.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Shabab vs Al Kholood (15:25) | Thmanyah
+https://daddylive.sx/stream/stream-4.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Poland - Puchar Polski : Radomiak Radom vs Zagłębie Lubin (15:30) | TVP Sport Poland
+https://daddylive.sx/stream/stream-128.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Latvia - Virsliga : Rīgas FS vs Riga (16:00) | TV4 Latvia
+https://daddylive.sx/stream/stream-68.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Norway - NM Cup : Odd vs Bodø / Glimt (16:00) | TV2 Sport Norway
+https://daddylive.sx/stream/stream-69.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | United Arab Emirates - UAE Pro League : Al Wasl vs Al Sharjah (16:15) | Dubai Sports 1
+https://daddylive.sx/stream/stream-604.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | United Arab Emirates - UAE Pro League : Al Wasl vs Al Sharjah (16:15) | Abu Dhabi Sports 1
+https://daddylive.sx/stream/stream-600.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Renate vs Ospitaletto (16:30) | Sky Sport 254 IT
+https://daddylive.sx/stream/stream-5.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Pro Patria vs AlbinoLeffe (16:30) | Sky Sport 253 IT
+https://daddylive.sx/stream/stream-6.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Alcione (16:30) | Sky Sport 257 IT
+https://daddylive.sx/stream/stream-7.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (16:30) | Sky Sport 258 IT
+https://daddylive.sx/stream/stream-8.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Trento vs Pergolettese (16:30) | Sky Sport 255 IT
+https://daddylive.sx/stream/stream-9.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Cittadella vs Lumezzane (16:30) | Sky Sport 256 IT
+https://daddylive.sx/stream/stream-10.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Cittadella vs Lumezzane (16:30) | Sky Sport Calcio IT
+https://daddylive.sx/stream/stream-870.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : KAMAZ vs Spartak Kostroma (16:30) | Match Premier Russia
+https://daddylive.sx/stream/stream-573.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : KAMAZ vs Spartak Kostroma (16:30) | Match TV Russia
+https://daddylive.sx/stream/stream-127.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Genoa vs Empoli (16:30) | Italia 1 IT
+https://daddylive.sx/stream/stream-854.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Genoa vs Empoli (16:30) | Viaplay Sports 1 UK
+https://daddylive.sx/stream/stream-451.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Genoa vs Empoli (16:30) | Premier Sports 1 Ireland
+https://daddylive.sx/stream/stream-771.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Genoa vs Empoli (16:30) | Sport TV1 Portugal
+https://daddylive.sx/stream/stream-49.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Genoa vs Empoli (16:30) | Ziggo Sport 5 NL
+https://daddylive.sx/stream/stream-383.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Genoa vs Empoli (16:30) | Arena 5 Premium Serbia
+https://daddylive.sx/stream/stream-166.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Genoa vs Empoli (16:30) | Match! Football 1 Russia
+https://daddylive.sx/stream/stream-136.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (16:45) | Sky Sport Austria 1
+https://daddylive.sx/stream/stream-559.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (16:45) | Movistar Liga de Campeones
+https://daddylive.sx/stream/stream-435.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | TNT Sports 5 UK
+https://daddylive.sx/stream/stream-12.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Ziggo Sport 1 NL
+https://daddylive.sx/stream/stream-393.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Digi Sport 1 Romania
+https://daddylive.sx/stream/stream-400.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Prima Sport 1 Romania
+https://daddylive.sx/stream/stream-583.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Sky Sport Austria 4
+https://daddylive.sx/stream/stream-13.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Movistar Liga de Campeones 3
+https://daddylive.sx/stream/stream-14.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | DAZN Eleven 2 Portugal
+https://daddylive.sx/stream/stream-456.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Sky Sport 252 IT
+https://daddylive.sx/stream/stream-15.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Sky Sport Arena IT
+https://daddylive.sx/stream/stream-462.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Canal+ Foot France
+https://daddylive.sx/stream/stream-463.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Arena 2 Premium Serbia
+https://daddylive.sx/stream/stream-135.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Polsat Sport Premium 2 Poland
+https://daddylive.sx/stream/stream-11.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | beIN Sports 3 Malaysia
+https://daddylive.sx/stream/stream-714.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | MAX Sport 3 Bulgaria
+https://daddylive.sx/stream/stream-474.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | ESPN3 Argentina
+https://daddylive.sx/stream/stream-798.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | beIN Sports MENA Xtra 1
+https://daddylive.sx/stream/stream-100.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Go Ahead Eagles vs FCSB (16:45) | Sport 1 Israel
+https://daddylive.sx/stream/stream-140.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | TNT Sports 4 UK
+https://daddylive.sx/stream/stream-34.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | CBS Sports Network USA
+https://daddylive.sx/stream/stream-308.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Sky Sport Austria 3
+https://daddylive.sx/stream/stream-16.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Movistar Liga de Campeones 2
+https://daddylive.sx/stream/stream-17.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | DAZN Eleven 1 Portugal
+https://daddylive.sx/stream/stream-455.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Polsat Sport Premium 1 Poland
+https://daddylive.sx/stream/stream-18.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Sky Sport 251 IT
+https://daddylive.sx/stream/stream-19.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Sky Sport Uno IT
+https://daddylive.sx/stream/stream-461.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Canal+ France
+https://daddylive.sx/stream/stream-121.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | TUDN USA
+https://daddylive.sx/stream/stream-66.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Ziggo Sport 3 NL
+https://daddylive.sx/stream/stream-919.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | ESPN2 Mexico
+https://daddylive.sx/stream/stream-926.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Sony Sports Ten 2
+https://daddylive.sx/stream/stream-886.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Blue Sport 8 Live
+https://daddylive.sx/stream/stream-55.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | beIN Sports Malaysia
+https://daddylive.sx/stream/stream-712.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Arena 1 Premium Serbia
+https://daddylive.sx/stream/stream-134.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Arena Sport 4 Croatia
+https://daddylive.sx/stream/stream-580.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | ESPN2 Argentina
+https://daddylive.sx/stream/stream-150.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | bTV Action Bulgaria
+https://daddylive.sx/stream/stream-481.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | SuperSport Premier League
+https://daddylive.sx/stream/stream-414.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Supersport Grandstand
+https://daddylive.sx/stream/stream-412.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | beIN Sports MENA 3
+https://daddylive.sx/stream/stream-93.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | beIN Sports MENA English 1
+https://daddylive.sx/stream/stream-61.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Lille vs Brann (16:45) | Sport 2 Israel
+https://daddylive.sx/stream/stream-141.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | South Africa - Varsity Football : North-west University vs University Of The Free State (17:00) | SuperSport Variety 4
+https://daddylive.sx/stream/stream-419.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Sandviken vs Helsingborg (17:00) | max Extra 1 Sweden
+https://daddylive.sx/stream/stream-20.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Trelleborg FF vs Örgryte (17:00) | max Extra 2 Sweden
+https://daddylive.sx/stream/stream-21.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Umeå vs Västerås SK (17:00) | max Extra 3 Sweden
+https://daddylive.sx/stream/stream-22.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Östersunds FK vs Utsikten (17:00) | max Extra 4 Sweden
+https://daddylive.sx/stream/stream-23.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : Pendikspor vs Sakaryaspor (17:00) | Tabii Spor 6 Turkey
+https://daddylive.sx/stream/stream-24.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : Amed SK vs Sarıyer (17:00) | TRT Spor Turkey
+https://daddylive.sx/stream/stream-889.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : Amed SK vs Sarıyer (17:00) | beIN Sports 2 Turkey
+https://daddylive.sx/stream/stream-63.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Qatar - Qatar Stars League : Al Sadd vs Al Duhail (17:00) | beIN Sports HD Qatar
+https://daddylive.sx/stream/stream-578.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : Simulcast (17:00) | Magenta Sport
+https://daddylive.sx/stream/stream-26.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : Bayer Leverkusen vs Eintracht Frankfurt (17:00) | Magenta Sport 302
+https://daddylive.sx/stream/stream-27.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : Bayer Leverkusen vs Eintracht Frankfurt (17:00) | DAZN1 DE
+https://daddylive.sx/stream/stream-426.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : RB Leipzig vs Hamburger SV (17:00) | Magenta Sport 303
+https://daddylive.sx/stream/stream-28.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Jordan - Jordan League : Al Buqa'a vs Al Hussein (17:30) | Jordan TV Sport
+https://daddylive.sx/stream/stream-298.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | M+ LALIGA TV
+https://daddylive.sx/stream/stream-84.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | Nova Sport 3 CZ
+https://daddylive.sx/stream/stream-1023.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | DAZN Eleven 4 Portugal
+https://daddylive.sx/stream/stream-458.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | Canal+ Sport 3 Poland
+https://daddylive.sx/stream/stream-259.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | beIN Sports 1 France
+https://daddylive.sx/stream/stream-116.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | Now Sports 2 HK
+https://daddylive.sx/stream/stream-182.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | Match! Football 2 Russia
+https://daddylive.sx/stream/stream-137.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | ESPN Deportes
+https://daddylive.sx/stream/stream-375.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | Prima Sport 2 Romania
+https://daddylive.sx/stream/stream-584.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | Arena 4 Premium Serbia
+https://daddylive.sx/stream/stream-59.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | Nova Sports 1 Greece
+https://daddylive.sx/stream/stream-631.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | Arena Sport 3 Croatia
+https://daddylive.sx/stream/stream-434.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | MAX Sport 4 Bulgaria
+https://daddylive.sx/stream/stream-475.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | SuperSport Laliga
+https://daddylive.sx/stream/stream-415.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Osasuna vs Elche (17:30) | beIN Sports MENA 4
+https://daddylive.sx/stream/stream-94.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Hilal vs Al Akhdoud (18:00) | Thmanyah
+https://daddylive.sx/stream/stream-2.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Hilal vs Al Akhdoud (18:00) | Fox Soccer Plus
+https://daddylive.sx/stream/stream-756.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Hilal vs Al Akhdoud (18:00) | #Vamos ES
+https://daddylive.sx/stream/stream-521.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Hilal vs Al Akhdoud (18:00) | Sportdigital FUSSBALL DE
+https://daddylive.sx/stream/stream-571.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Hilal vs Al Akhdoud (18:00) | Sport TV2 Portugal
+https://daddylive.sx/stream/stream-74.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Hilal vs Al Akhdoud (18:00) | FOX Deportes
+https://daddylive.sx/stream/stream-643.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - Pro League : Al Hilal vs Al Akhdoud (18:00) | Sportklub 2 Croatia
+https://daddylive.sx/stream/stream-102.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Poland - Puchar Polski : Arka Gdynia vs Motor Lublin (18:30) | TVP Sport Poland
+https://daddylive.sx/stream/stream-128.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Uruguay - Copa Uruguay : Racing vs Universitario de Salto (18:30) | VTV+ Uruguay
+https://daddylive.sx/stream/stream-391.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Inter II vs Triestina (18:45) | Sky Sport 256 IT
+https://daddylive.sx/stream/stream-10.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Inter II vs Triestina (18:45) | Sky Sport Calcio IT
+https://daddylive.sx/stream/stream-870.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Dolomiti Bellunesi vs Vicenza (18:45) | Sky Sport 258 IT
+https://daddylive.sx/stream/stream-8.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Pro Vercelli vs Lecco (18:45) | Sky Sport 259 IT
+https://daddylive.sx/stream/stream-30.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Union Brescia vs Novara (18:45) | Sky Sport 257 IT
+https://daddylive.sx/stream/stream-7.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (19:00) | Sky Sport Austria 1
+https://daddylive.sx/stream/stream-559.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (19:00) | Canal+ Sport360
+https://daddylive.sx/stream/stream-464.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (19:00) | Movistar Liga de Campeones 3
+https://daddylive.sx/stream/stream-14.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (19:00) | Ziggo Sport 4 NL
+https://daddylive.sx/stream/stream-396.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | TNT Sports 8 UK
+https://daddylive.sx/stream/stream-68.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | Blue Sport D 2
+https://daddylive.sx/stream/stream-69.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | ANT 1 Greece
+https://daddylive.sx/stream/stream-76.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | Cosmote Sport 2 Greece
+https://daddylive.sx/stream/stream-623.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | Sky Sport Austria 6
+https://daddylive.sx/stream/stream-77.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | Movistar Liga de Campeones 7
+https://daddylive.sx/stream/stream-86.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | Polsat Sport Extra 4 Poland
+https://daddylive.sx/stream/stream-173.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | Ziggo Sport 6 NL
+https://daddylive.sx/stream/stream-901.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | Arena Sport 2 Serbia
+https://daddylive.sx/stream/stream-430.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Young Boys vs Panathinaikos (19:00) | beIN Sports MENA 6
+https://daddylive.sx/stream/stream-96.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | TNT Sports 7 UK
+https://daddylive.sx/stream/stream-105.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Canal+ France
+https://daddylive.sx/stream/stream-121.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Ziggo Sport 2 NL
+https://daddylive.sx/stream/stream-398.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Ziggo Sport 1 NL
+https://daddylive.sx/stream/stream-393.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Sky Sport Austria 5
+https://daddylive.sx/stream/stream-106.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Movistar Liga de Campeones 6
+https://daddylive.sx/stream/stream-107.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Polsat Sport Extra 3 Poland
+https://daddylive.sx/stream/stream-174.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | TRT Spor Turkey
+https://daddylive.sx/stream/stream-889.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | SONY TEN 3 HD
+https://daddylive.sx/stream/stream-887.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | DAZN Eleven 3 Portugal
+https://daddylive.sx/stream/stream-457.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Sky Sport 255 IT
+https://daddylive.sx/stream/stream-9.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Blue Sport 4 Live
+https://daddylive.sx/stream/stream-108.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Arena Sport 1 Serbia
+https://daddylive.sx/stream/stream-429.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | Ring bg
+https://daddylive.sx/stream/stream-471.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | ESPN2 Argentina
+https://daddylive.sx/stream/stream-150.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Utrecht vs Olympique Lyonnais (19:00) | beIN Sports MENA 9
+https://daddylive.sx/stream/stream-99.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | TNT Sports 5 UK
+https://daddylive.sx/stream/stream-12.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | RTL DE
+https://daddylive.sx/stream/stream-740.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Movistar Liga de Campeones
+https://daddylive.sx/stream/stream-435.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Sky Sport Austria 3
+https://daddylive.sx/stream/stream-16.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | DAZN Eleven 2 Portugal
+https://daddylive.sx/stream/stream-456.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Sky Sport 254 IT
+https://daddylive.sx/stream/stream-5.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Canal+ Live 4 France
+https://daddylive.sx/stream/stream-109.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Blue Sport 2 Live
+https://daddylive.sx/stream/stream-110.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | beIN Sports 2 Malaysia
+https://daddylive.sx/stream/stream-713.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | TUDN USA
+https://daddylive.sx/stream/stream-66.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | UniMás
+https://daddylive.sx/stream/stream-133.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Digi Sport 4 Romania
+https://daddylive.sx/stream/stream-403.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Prima Sport 4 Romania
+https://daddylive.sx/stream/stream-586.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Polsat Sport Extra 2 Poland
+https://daddylive.sx/stream/stream-175.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Arena Sport 2 Croatia
+https://daddylive.sx/stream/stream-433.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | Arena 1 Premium Serbia
+https://daddylive.sx/stream/stream-134.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | MAX Sport 3 Bulgaria
+https://daddylive.sx/stream/stream-474.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | ESPN3 Argentina
+https://daddylive.sx/stream/stream-798.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | SuperSport Action
+https://daddylive.sx/stream/stream-420.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Stuttgart vs Celta de Vigo (19:00) | beIN Sports MENA 3
+https://daddylive.sx/stream/stream-93.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | Sky Sport Austria 4
+https://daddylive.sx/stream/stream-13.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | Movistar Liga de Campeones 5
+https://daddylive.sx/stream/stream-151.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | Canal+ Live 5 France
+https://daddylive.sx/stream/stream-152.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | Blue Sport 7 Live
+https://daddylive.sx/stream/stream-153.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | Polsat Sport Extra 1 Poland
+https://daddylive.sx/stream/stream-176.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | Polsat Sport 2 Poland
+https://daddylive.sx/stream/stream-50.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | SuperSport Variety 3
+https://daddylive.sx/stream/stream-418.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | Arena Sport 4 Serbia
+https://daddylive.sx/stream/stream-581.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Rangers vs Genk (19:00) | beIN Sports MENA 5
+https://daddylive.sx/stream/stream-95.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | TNT Sports 9 UK
+https://daddylive.sx/stream/stream-154.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | M4 Sports Hungary
+https://daddylive.sx/stream/stream-265.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | Nova Sport 5 CZ
+https://daddylive.sx/stream/stream-1025.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | Sky Sport Austria 7
+https://daddylive.sx/stream/stream-155.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | Movistar Liga de Campeones 8
+https://daddylive.sx/stream/stream-156.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | Canal+ Live 6 France
+https://daddylive.sx/stream/stream-157.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | Blue Sport 6 Live
+https://daddylive.sx/stream/stream-158.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | Arena Sport 3 Serbia
+https://daddylive.sx/stream/stream-431.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | beIN Sports MENA Xtra 1
+https://daddylive.sx/stream/stream-100.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Ferencváros vs Viktoria Plzeň (19:00) | Sport 4 Israel
+https://daddylive.sx/stream/stream-143.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | TNT Sports 1 UK
+https://daddylive.sx/stream/stream-31.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | CBS Sports Network USA
+https://daddylive.sx/stream/stream-308.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Sky Sport 252 IT
+https://daddylive.sx/stream/stream-15.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Sky Sport Uno IT
+https://daddylive.sx/stream/stream-461.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Sky Sport Austria 2
+https://daddylive.sx/stream/stream-159.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | SRF zwei
+https://daddylive.sx/stream/stream-160.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Movistar Liga de Campeones 2
+https://daddylive.sx/stream/stream-17.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Sky Sport Top Event DE
+https://daddylive.sx/stream/stream-556.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Sky Sport Mix DE
+https://daddylive.sx/stream/stream-557.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | DAZN Eleven 1 Portugal
+https://daddylive.sx/stream/stream-455.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Polsat Sport Premium 1 Poland
+https://daddylive.sx/stream/stream-18.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Canal+ Foot France
+https://daddylive.sx/stream/stream-463.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | beIN Sports Malaysia
+https://daddylive.sx/stream/stream-712.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Ziggo Sport 3 NL
+https://daddylive.sx/stream/stream-919.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Prima Sport 3 Romania
+https://daddylive.sx/stream/stream-585.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Arena Sport 1 Croatia
+https://daddylive.sx/stream/stream-432.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Digi Sport 3 Romania
+https://daddylive.sx/stream/stream-402.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Sony Sports Ten 2
+https://daddylive.sx/stream/stream-886.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Arena 2 Premium Serbia
+https://daddylive.sx/stream/stream-135.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | bTV Action Bulgaria
+https://daddylive.sx/stream/stream-481.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | ESPN Argentina
+https://daddylive.sx/stream/stream-149.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | SuperSport Premier League
+https://daddylive.sx/stream/stream-414.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Supersport Grandstand
+https://daddylive.sx/stream/stream-412.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | beIN Sports MENA 2
+https://daddylive.sx/stream/stream-92.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | beIN Sports MENA English 1
+https://daddylive.sx/stream/stream-61.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Aston Villa vs Bologna (19:00) | Sport 2 Israel
+https://daddylive.sx/stream/stream-141.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | TNT Sports 6 UK
+https://daddylive.sx/stream/stream-161.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Sport TV5 Portugal
+https://daddylive.sx/stream/stream-290.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Movistar Liga de Campeones 4
+https://daddylive.sx/stream/stream-162.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Blue Sport 5 Live
+https://daddylive.sx/stream/stream-163.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | TV8 IT
+https://daddylive.sx/stream/stream-164.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Sky Sport 253 IT
+https://daddylive.sx/stream/stream-6.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Polsat Sport Premium 2 Poland
+https://daddylive.sx/stream/stream-11.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Canal+ Live 3 France
+https://daddylive.sx/stream/stream-165.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Ziggo Sport 5 NL
+https://daddylive.sx/stream/stream-383.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Arena Sport 4 Croatia
+https://daddylive.sx/stream/stream-580.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Arena 5 Premium Serbia
+https://daddylive.sx/stream/stream-166.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | MAX Sport 2 Bulgaria
+https://daddylive.sx/stream/stream-473.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | SuperSport Football
+https://daddylive.sx/stream/stream-56.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | SuperSport MaXimo 1
+https://daddylive.sx/stream/stream-572.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | beIN Sports MENA 7
+https://daddylive.sx/stream/stream-97.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Salzburg vs Porto (19:00) | Sport 1 Israel
+https://daddylive.sx/stream/stream-140.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Torino vs Pisa (19:00) | Italia 1 IT
+https://daddylive.sx/stream/stream-854.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Torino vs Pisa (19:00) | Match! Football 1 Russia
+https://daddylive.sx/stream/stream-136.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Torino vs Pisa (19:00) | Arena Sport 5 Serbia
+https://daddylive.sx/stream/stream-940.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Torino vs Pisa (19:00) | Nova Sports 2 Greece
+https://daddylive.sx/stream/stream-632.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | DAZN LaLiga
+https://daddylive.sx/stream/stream-538.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | DAZN LaLiga 2
+https://daddylive.sx/stream/stream-3.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Viaplay Sports 1 UK
+https://daddylive.sx/stream/stream-451.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Now Sports 2 HK
+https://daddylive.sx/stream/stream-183.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | TSN3
+https://daddylive.sx/stream/stream-113.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Nova Sport 4 CZ
+https://daddylive.sx/stream/stream-1024.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | DAZN Zona IT
+https://daddylive.sx/stream/stream-877.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | DAZN1 DE
+https://daddylive.sx/stream/stream-426.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | DAZN Eleven 4 Portugal
+https://daddylive.sx/stream/stream-458.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Canal+ Sport Poland
+https://daddylive.sx/stream/stream-48.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | beIN Sports 1 France
+https://daddylive.sx/stream/stream-116.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Canal+ Sport 3 Afrique
+https://daddylive.sx/stream/stream-488.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Match TV Russia
+https://daddylive.sx/stream/stream-127.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Match! Football 2 Russia
+https://daddylive.sx/stream/stream-137.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Digi Sport 1 Romania
+https://daddylive.sx/stream/stream-400.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Prima Sport 2 Romania
+https://daddylive.sx/stream/stream-584.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | ESPN Deportes
+https://daddylive.sx/stream/stream-375.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Arena 4 Premium Serbia
+https://daddylive.sx/stream/stream-59.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Nova Sports Prime Greece
+https://daddylive.sx/stream/stream-638.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | Arena Sport 3 Croatia
+https://daddylive.sx/stream/stream-434.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | TV2 Sport X Denmark
+https://daddylive.sx/stream/stream-808.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | TV4 Fotball
+https://daddylive.sx/stream/stream-747.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | ESPN Brazil
+https://daddylive.sx/stream/stream-81.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | MAX Sport 4 Bulgaria
+https://daddylive.sx/stream/stream-475.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | SuperSport Laliga
+https://daddylive.sx/stream/stream-415.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Oviedo vs Barcelona (19:30) | beIN Sports MENA 1
+https://daddylive.sx/stream/stream-91.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Peru - Primera Division : Ayacucho vs Juan Pablo II College (20:00) | Liga 1 Max Peru
+https://daddylive.sx/stream/stream-4.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | beIN SPORTS USA
+https://daddylive.sx/stream/stream-425.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | beIN SPORTS en Español
+https://daddylive.sx/stream/stream-372.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | SPORT1+ DE
+https://daddylive.sx/stream/stream-640.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | Sport TV1 Portugal
+https://daddylive.sx/stream/stream-49.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | ESPN2 Mexico
+https://daddylive.sx/stream/stream-926.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | Arena Sport 1 Croatia
+https://daddylive.sx/stream/stream-432.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | Arena 1 Premium Serbia
+https://daddylive.sx/stream/stream-134.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | Arena 4 Premium Serbia
+https://daddylive.sx/stream/stream-59.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | MAX Sport 4 Bulgaria
+https://daddylive.sx/stream/stream-475.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | Fox Sports Argentina
+https://daddylive.sx/stream/stream-787.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | beIN Sports MENA 4
+https://daddylive.sx/stream/stream-94.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | beIN Sports MENA English 1
+https://daddylive.sx/stream/stream-61.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | Copa Libertadores : São Paulo vs LDU Quito (22:00) | Sport 4 Israel
+https://daddylive.sx/stream/stream-143.php
+
+#EXTINF:-1 group-title="Live Events",Soccer | United States - NCAA Women's Soccer : Auburn vs LSU (23:00) | SEC Network USA
+https://daddylive.sx/stream/stream-385.php
+
+#EXTINF:-1 group-title="Live Events",Cricket | T20 | Asia Cup | Super Four : Bangladesh vs Pakistan (14:00) | Willow 2 Cricket
 https://daddylive.sx/stream/stream-598.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | Asia Cup | T20 | Super Four : Bangladesh vs India (14:00) | Willow Cricket
+#EXTINF:-1 group-title="Live Events",Cricket | T20 | Asia Cup | Super Four : Bangladesh vs Pakistan (14:00) | Willow Cricket
 https://daddylive.sx/stream/stream-346.php
 
-#EXTINF:-1 group-title="Live Events",Cricket | Asia Cup | T20 | Super Four : Bangladesh vs India (14:00) | Astro Cricket
+#EXTINF:-1 group-title="Live Events",Cricket | T20 | Asia Cup | Super Four : Bangladesh vs Pakistan (14:00) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
+
+#EXTINF:-1 group-title="Live Events",Cricket | T20 | Asia Cup | Super Four : Bangladesh vs Pakistan (14:00) | Astro Cricket
 https://daddylive.sx/stream/stream-370.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - CHENGDU | ATP - CHENGDU : Munar J. vs Berrettini M. (02:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1507.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - CHENGDU | ATP - CHENGDU : Munar J. vs Berrettini M. (02:00) | Tennis Stream
+https://daddylive.sx/stream/stream-40.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - CHENGDU | ATP - CHENGDU : Watanuki Y. vs Borges N. (03:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1507.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - CHENGDU | ATP - CHENGDU : Watanuki Y. vs Borges N. (03:30) | Tennis Stream
+https://daddylive.sx/stream/stream-40.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Dolehide C. vs Cirstea S. (03:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1502.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Kessler M. vs Shi H. (03:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1501.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Sevastova A. vs Birrell K. (03:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1503.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Boisson L. vs Galfi D. (06:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1504.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Jimenez Kasintseva V. vs Joint M. (06:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1505.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Siniakova K. vs Potapova A. (06:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1503.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Vekic D. vs Bucsa C. (06:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1501.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Bouzas Maneiro J. vs Cristian J. (07:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1504.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Kartal S. vs Parks A. (07:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1503.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Lamens S. vs Wang Y. (09:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1502.php
+
+#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Yuan Y. vs Putintseva Y. (12:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1501.php
 
 #EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | Tennis Channel
 https://daddylive.sx/stream/stream-40.php
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | TSN1
-https://daddylive.sx/stream/stream-111.php
-
 #EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | Sky Sports+
 https://daddylive.sx/stream/stream-36.php
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | TSN5
+https://daddylive.sx/stream/stream-115.php
 
 #EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | beIN Sports 2 France
 https://daddylive.sx/stream/stream-117.php
@@ -111,6 +1047,9 @@ https://daddylive.sx/stream/stream-701.php
 #EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | Arena Tennis
 https://daddylive.sx/stream/stream-612.php
 
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | Ziggo Sport 1 NL
+https://daddylive.sx/stream/stream-393.php
+
 #EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | Sport Klub 2 Croatia
 https://daddylive.sx/stream/stream-102.php
 
@@ -126,32 +1065,77 @@ https://daddylive.sx/stream/stream-396.php
 #EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (02:00) | Sport Klub HD Croatia
 https://daddylive.sx/stream/stream-453.php
 
-#EXTINF:-1 group-title="Live Events",Tennis | Mixed Coverage (ATP/WTA) Tokyo-ATP & Beijing-WTA 1st Round (10:00) | Tennis Channel
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Tennis Channel
 https://daddylive.sx/stream/stream-40.php
 
-#EXTINF:-1 group-title="Live Events",Tennis | Tennis ATP Japan Open (10:00) | TSN1
-https://daddylive.sx/stream/stream-111.php
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Sky Sports+
+https://daddylive.sx/stream/stream-36.php
 
-#EXTINF:-1 group-title="Live Events",MMA | UFC: Dana White's Contender Series, Week 7 : Dani Barbir vs Mantas Kondratavicius (00:00) | ESPN+ USA
-https://daddylive.sx/stream/stream-1.php
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | beIN Sports 2 France
+https://daddylive.sx/stream/stream-117.php
 
-#EXTINF:-1 group-title="Live Events",MMA | UFC: Dana White's Contender Series, Week 7 : Dani Barbir vs Mantas Kondratavicius (00:00) | RMC Sport 1 France
-https://daddylive.sx/stream/stream-119.php
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Sky Sports Tennis DE
+https://daddylive.sx/stream/stream-884.php
 
-#EXTINF:-1 group-title="Live Events",MMA | UFC: Dana White's Contender Series, Week 7 : Dani Barbir vs Mantas Kondratavicius (00:00) | FOX Sports 2 MX
-https://daddylive.sx/stream/stream-930.php
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Sky Sport Tennis Italy
+https://daddylive.sx/stream/stream-576.php
 
-#EXTINF:-1 group-title="Live Events",WWE | WWE NXT (00:00) | CW USA
-https://daddylive.sx/stream/stream-300.php
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | TV4 Tennis
+https://daddylive.sx/stream/stream-701.php
 
-#EXTINF:-1 group-title="Live Events",WWE | WWE NXT (00:00) | CW PIX 11 USA
-https://daddylive.sx/stream/stream-280.php
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Arena Tennis
+https://daddylive.sx/stream/stream-612.php
 
-#EXTINF:-1 group-title="Live Events",WWE | WWE NXT (00:00) | SuperSport Variety 3
-https://daddylive.sx/stream/stream-418.php
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Sport Klub 2 Croatia
+https://daddylive.sx/stream/stream-102.php
 
-#EXTINF:-1 group-title="Live Events",WWE | WWE NXT (00:00) | SuperSport Grandstand
-https://daddylive.sx/stream/stream-412.php
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | MAX Sport 1 Bulgaria
+https://daddylive.sx/stream/stream-472.php
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Ziggo Sport 3 NL
+https://daddylive.sx/stream/stream-919.php
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Ziggo Sport 4 NL
+https://daddylive.sx/stream/stream-396.php
+
+#EXTINF:-1 group-title="Live Events",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (09:00) | Sport Klub HD Croatia
+https://daddylive.sx/stream/stream-453.php
+
+#EXTINF:-1 group-title="Live Events",WWE | All Elite Wrestling AEW : Dynamite (00:00) | TBS USA
+https://daddylive.sx/stream/stream-336.php
+
+#EXTINF:-1 group-title="Live Events",WWE | All Elite Wrestling AEW : Dynamite (00:00) | TSN2
+https://daddylive.sx/stream/stream-112.php
+
+#EXTINF:-1 group-title="Live Events",WWE | All Elite Wrestling AEW : Dynamite (00:00) | Fox Sports Premium MX
+https://daddylive.sx/stream/stream-830.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | Sky Sports Golf UK
+https://daddylive.sx/stream/stream-70.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | GOLF Channel USA
+https://daddylive.sx/stream/stream-318.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | Sky Sports Main Event
+https://daddylive.sx/stream/stream-38.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | Movistar Golf
+https://daddylive.sx/stream/stream-528.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | SuperSport Golf
+https://daddylive.sx/stream/stream-422.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | Sky Sport 4 NZ
+https://daddylive.sx/stream/stream-591.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | Sport KLUB Golf Croatia S
+https://daddylive.sx/stream/stream-710.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | Sky Sports Golf DE
+https://daddylive.sx/stream/stream-785.php
+
+#EXTINF:-1 group-title="Live Events",Golf | Coverage of the Opening Ceremony at the 2025 Ryder Cup (20:00) | MAX Sport 1 Bulgaria
+https://daddylive.sx/stream/stream-472.php
 
 #EXTINF:-1 group-title="Live Events",Snooker | World Snooker Live British Open - Cheltenham, England (12:00) | ITV 4 UK
 https://daddylive.sx/stream/stream-353.php
@@ -159,11 +1143,35 @@ https://daddylive.sx/stream/stream-353.php
 #EXTINF:-1 group-title="Live Events",Snooker | World Snooker Live British Open - Cheltenham, England (18:00) | ITV 4 UK
 https://daddylive.sx/stream/stream-353.php
 
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (00:00) | MLB League Pass
+https://daddylive.sx/stream/stream-7.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (00:00) | TSN1
+https://daddylive.sx/stream/stream-111.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (00:00) | TSN3
+https://daddylive.sx/stream/stream-113.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (00:00) | TSN4
+https://daddylive.sx/stream/stream-114.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (00:00) | TNT Sports 1 UK
+https://daddylive.sx/stream/stream-31.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (00:00) | ESPN USA
+https://daddylive.sx/stream/stream-44.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (00:00) | beIN Sports MAX 4 France
+https://daddylive.sx/stream/stream-494.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (00:00) | ESPN Deportes
+https://daddylive.sx/stream/stream-375.php
+
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Texas Rangers vs Minnesota Twins (00:05) | MLB League Pass
-https://daddylive.sx/stream/stream-10.php
+https://daddylive.sx/stream/stream-8.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Angels vs Kansas City Royals (01:38) | MLB League Pass
-https://daddylive.sx/stream/stream-11.php
+https://daddylive.sx/stream/stream-9.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Los Angeles Angels vs Kansas City Royals (01:38) | FanDuel Sports Network Kansas City
 https://daddylive.sx/stream/stream-895.php
@@ -172,34 +1180,22 @@ https://daddylive.sx/stream/stream-895.php
 https://daddylive.sx/stream/stream-906.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Seattle Mariners vs Colorado Rockies (01:40) | MLB League Pass
-https://daddylive.sx/stream/stream-12.php
+https://daddylive.sx/stream/stream-10.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Seattle Mariners vs Colorado Rockies (01:40) | Root Sports NW
 https://daddylive.sx/stream/stream-920.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Arizona Diamondbacks vs Los Angeles Dodgers (01:40) | MLB League Pass
-https://daddylive.sx/stream/stream-13.php
+https://daddylive.sx/stream/stream-11.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Arizona Diamondbacks vs Los Angeles Dodgers (01:40) | TVA Sports
-https://daddylive.sx/stream/stream-833.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Arizona Diamondbacks vs Los Angeles Dodgers (01:40) | MLB Network
+https://daddylive.sx/stream/stream-399.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Arizona Diamondbacks vs Los Angeles Dodgers (01:40) | Spectrum SportsNet LA
 https://daddylive.sx/stream/stream-764.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Diego Padres vs Milwaukee Brewers (01:40) | MLB League Pass
-https://daddylive.sx/stream/stream-14.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Diego Padres vs Milwaukee Brewers (01:40) | MLB Network
-https://daddylive.sx/stream/stream-399.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Diego Padres vs Milwaukee Brewers (01:40) | FanDuel Sports Network Wisconsin
-https://daddylive.sx/stream/stream-907.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Diego Padres vs Milwaukee Brewers (01:40) | beIN Sports 3 France
-https://daddylive.sx/stream/stream-118.php
-
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Francisco Giants vs St. Louis Cardinals (01:45) | MLB League Pass
-https://daddylive.sx/stream/stream-15.php
+https://daddylive.sx/stream/stream-12.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Francisco Giants vs St. Louis Cardinals (01:45) | NBCS Bay Area USA
 https://daddylive.sx/stream/stream-753.php
@@ -214,7 +1210,7 @@ https://daddylive.sx/stream/stream-896.php
 https://daddylive.sx/stream/stream-900.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Oakland Athletics vs Houston Astros (02:05) | MLB League Pass
-https://daddylive.sx/stream/stream-16.php
+https://daddylive.sx/stream/stream-13.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Oakland Athletics vs Houston Astros (02:05) | NBCS California USA
 https://daddylive.sx/stream/stream-755.php
@@ -222,77 +1218,89 @@ https://daddylive.sx/stream/stream-755.php
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Oakland Athletics vs Houston Astros (02:05) | Space City Home Network
 https://daddylive.sx/stream/stream-921.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | NPB Baseball : Fukuoka vs Tohoku (21:00) | Next Level Sports
-https://daddylive.sx/stream/stream-21.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | NPB Baseball : Nippon Ham Fighters vs Seibu Lions (09:00) | Next Level Sports
+https://daddylive.sx/stream/stream-3.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Atlanta Braves vs Washington Nationals (16:15) | MLB League Pass
-https://daddylive.sx/stream/stream-160.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (16:40) | MLB League Pass
+https://daddylive.sx/stream/stream-168.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Atlanta Braves vs Washington Nationals (16:15) | MLB Network
-https://daddylive.sx/stream/stream-399.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (16:40) | Cincinnati Reds vs Pittsburgh Pirates SportsNet Pittsburgh
+https://daddylive.sx/stream/stream-922.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Atlanta Braves vs Washington Nationals (16:15) | MASN USA
-https://daddylive.sx/stream/stream-829.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (16:40) | FanDuel Sports Network Indiana
+https://daddylive.sx/stream/stream-894.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Atlanta Braves vs Washington Nationals (16:15) | RDS 2
-https://daddylive.sx/stream/stream-840.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (16:40) | FanDuel Sports Network Ohio
+https://daddylive.sx/stream/stream-899.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Atlanta Braves vs Washington Nationals (16:15) | FanDuel Sports Network Wisconsin
-https://daddylive.sx/stream/stream-907.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (16:40) | SPORT1+ DE
+https://daddylive.sx/stream/stream-640.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Diego Padres vs Milwaukee Brewers (20:10) | MLB League Pass
-https://daddylive.sx/stream/stream-8.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (16:40) | Sport 5 Stars Israel
+https://daddylive.sx/stream/stream-147.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Diego Padres vs Milwaukee Brewers (20:10) | TNT Sports 4 UK
-https://daddylive.sx/stream/stream-34.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Baltimore Orioles vs Tampa Bay Rays (17:05) | MLB League Pass
+https://daddylive.sx/stream/stream-169.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : San Diego Padres vs Milwaukee Brewers (20:10) | MLB Network
-https://daddylive.sx/stream/stream-399.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Baltimore Orioles vs Tampa Bay Rays (22:35) | MLB League Pass
-https://daddylive.sx/stream/stream-1.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Baltimore Orioles vs Tampa Bay Rays (22:35) | Bally Sports Sun
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Baltimore Orioles vs Tampa Bay Rays (17:05) | Bally Sports Sun
 https://daddylive.sx/stream/stream-905.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Baltimore Orioles vs Tampa Bay Rays (22:35) | FOX Sports 1 USA
-https://daddylive.sx/stream/stream-39.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Baltimore Orioles vs Tampa Bay Rays (17:05) | MASN USA
+https://daddylive.sx/stream/stream-829.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Baltimore Orioles vs Tampa Bay Rays (17:05) | MLB Network USA
+https://daddylive.sx/stream/stream-399.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Texas Rangers vs Minnesota Twins (18:35) | MLB League Pass
+https://daddylive.sx/stream/stream-170.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Oakland Athletics vs Houston Astros (19:35) | MLB League Pass
+https://daddylive.sx/stream/stream-171.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Oakland Athletics vs Houston Astros (19:35) | NBCS California USA
+https://daddylive.sx/stream/stream-755.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Oakland Athletics vs Houston Astros (19:35) | Space City Home Network
+https://daddylive.sx/stream/stream-921.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Oakland Athletics vs Houston Astros (19:35) | MLB Network USA
+https://daddylive.sx/stream/stream-399.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Arizona Diamondbacks vs Los Angeles Dodgers (19:40) | MLB League Pass
+https://daddylive.sx/stream/stream-172.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Arizona Diamondbacks vs Los Angeles Dodgers (19:40) | TNT Sports 4 UK
+https://daddylive.sx/stream/stream-34.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Arizona Diamondbacks vs Los Angeles Dodgers (19:40) | Spectrum SportsNet LA
+https://daddylive.sx/stream/stream-764.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Philadelphia Phillies vs Miami Marlins (22:05) | MLB League Pass
+https://daddylive.sx/stream/stream-2.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Philadelphia Phillies vs Miami Marlins (22:05) | NBCS Philadelphia USA
+https://daddylive.sx/stream/stream-777.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Philadelphia Phillies vs Miami Marlins (22:05) | FanDuel Sports Network Florida
+https://daddylive.sx/stream/stream-892.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cleveland Guardians vs Detroit Tigers (22:40) | MLB League Pass
-https://daddylive.sx/stream/stream-2.php
+https://daddylive.sx/stream/stream-5.php
+
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cleveland Guardians vs Detroit Tigers (22:40) | TSN3
+https://daddylive.sx/stream/stream-113.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cleveland Guardians vs Detroit Tigers (22:40) | FanDuel Sports Network Detroit
 https://daddylive.sx/stream/stream-891.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (22:40) | MLB League Pass
-https://daddylive.sx/stream/stream-3.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cleveland Guardians vs Detroit Tigers (22:40) | beIN Sports 4 Max France
+https://daddylive.sx/stream/stream-494.php
 
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (22:40) | MLB Network
-https://daddylive.sx/stream/stream-399.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (22:40) | SportsNet Pittsburgh
-https://daddylive.sx/stream/stream-922.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (22:40) | FanDuel Sports Network Indiana
-https://daddylive.sx/stream/stream-894.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cincinnati Reds vs Pittsburgh Pirates (22:40) | FanDuel Sports Network Ohio
-https://daddylive.sx/stream/stream-899.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Philadelphia Phillies vs Miami Marlins (22:45) | MLB League Pass
-https://daddylive.sx/stream/stream-4.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Philadelphia Phillies vs Miami Marlins (22:45) | NBCS Philadelphia USA
-https://daddylive.sx/stream/stream-777.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Philadelphia Phillies vs Miami Marlins (22:45) | FanDuel Sports Network Florida
-https://daddylive.sx/stream/stream-892.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Cleveland Guardians vs Detroit Tigers (22:40) | Sport 5 Live Israel
+https://daddylive.sx/stream/stream-146.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : New York Yankees vs Chicago White Sox (23:05) | MLB League Pass
-https://daddylive.sx/stream/stream-5.php
-
-#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : New York Yankees vs Chicago White Sox (23:05) | Sportsnet One
-https://daddylive.sx/stream/stream-411.php
+https://daddylive.sx/stream/stream-6.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : New York Yankees vs Chicago White Sox (23:05) | YES USA
 https://daddylive.sx/stream/stream-763.php
@@ -301,7 +1309,7 @@ https://daddylive.sx/stream/stream-763.php
 https://daddylive.sx/stream/stream-776.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Toronto Blue Jays vs Boston Red Sox (23:07) | MLB League Pass
-https://daddylive.sx/stream/stream-6.php
+https://daddylive.sx/stream/stream-7.php
 
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Toronto Blue Jays vs Boston Red Sox (23:07) | NESN USA
 https://daddylive.sx/stream/stream-762.php
@@ -318,1451 +1326,455 @@ https://daddylive.sx/stream/stream-408.php
 #EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Toronto Blue Jays vs Boston Red Sox (23:07) | TVA Sports
 https://daddylive.sx/stream/stream-833.php
 
-#EXTINF:-1 group-title="Live Events",Basketball | Russia VTB Super Cup : Zenit Petersburg vs Dubai (14:00) | Arena 2 Premium Serbia
-https://daddylive.sx/stream/stream-135.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (23:40) | MLB League Pass
+https://daddylive.sx/stream/stream-8.php
 
-#EXTINF:-1 group-title="Live Events",Basketball | United League Super Cup : KK Crvena zvezda vs CSKA Moscow (14:00) | Arena 1 Premium Serbia
-https://daddylive.sx/stream/stream-134.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | FIBA ​​Europe Cup qualifications : Cibona vs Prievidza (16:00) | Max Sport 1 Bulgaria
-https://daddylive.sx/stream/stream-472.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | German Cup : Hamburg vs Bamberg (18:00) | Sportklub HD Croatia
-https://daddylive.sx/stream/stream-453.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | German Cup : Hamburg vs Bamberg (18:00) | Sport 5 Live Israel
-https://daddylive.sx/stream/stream-146.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | Israel League Cup : Hapoel Jerusalem BC vs Bnei Herzeliya (17:30) | Sport 5 Plus Israel
-https://daddylive.sx/stream/stream-145.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | Israel League Cup : Maccabi Tel Aviv vs Ironi Kiryat Ata (18:00) | Sportklub 3 Croatia
-https://daddylive.sx/stream/stream-103.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | Israel League Cup : Maccabi Tel Aviv vs Ironi Kiryat Ata (18:00) | Sport 5 Israel
-https://daddylive.sx/stream/stream-144.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague Women Qualification : Basket Zaragoza 2002 vs. BK Zabiny Brno (18:00) | CT Sport Czech HD
-https://daddylive.sx/stream/stream-1033.php
-
-#EXTINF:-1 group-title="Live Events",Basketball | Euroleague Women Qualification : Basket Zaragoza 2002 vs. BK Zabiny Brno (18:00) | Aragon TV Spain
-https://daddylive.sx/stream/stream-156.php
-
-#EXTINF:-1 group-title="Live Events",WNBA | WNBA : Indiana Fever W vs Las Vegas Aces W (01:30) | ESPN USA
-https://daddylive.sx/stream/stream-44.php
-
-#EXTINF:-1 group-title="Live Events",WNBA | WNBA : Indiana Fever W vs Las Vegas Aces W (01:30) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",WNBA | WNBA : Indiana Fever W vs Las Vegas Aces W (01:30) | ESPN Deportes
-https://daddylive.sx/stream/stream-375.php
-
-#EXTINF:-1 group-title="Live Events",WNBA | WNBA : Indiana Fever W vs Las Vegas Aces W (01:30) | ESPN2 Brasil
-https://daddylive.sx/stream/stream-82.php
-
-#EXTINF:-1 group-title="Live Events",WNBA | WNBA : Indiana Fever W vs Las Vegas Aces W (01:30) | ESPN3 Argentina
-https://daddylive.sx/stream/stream-798.php
-
-#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Mixed Elite TTT | Kigali (42.4km) (10:15) | TNT Sports 1 UK
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (23:40) | TNT Sports 1 UK
 https://daddylive.sx/stream/stream-31.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Mixed Elite TTT | Kigali (42.4km) (10:15) | EuroSport 1 Poland
-https://daddylive.sx/stream/stream-57.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (23:40) | Marquee Sports Network UK
+https://daddylive.sx/stream/stream-770.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Mixed Elite TTT | Kigali (42.4km) (10:15) | EuroSport 1 Spain
-https://daddylive.sx/stream/stream-524.php
+#EXTINF:-1 group-title="Live Events",Baseball (MLB) | MLB : Chicago Cubs vs New York Mets (23:40) | SportsNet New York UK
+https://daddylive.sx/stream/stream-759.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Mixed Elite TTT | Kigali (42.4km) (10:15) | EuroSport 1 France
-https://daddylive.sx/stream/stream-772.php
+#EXTINF:-1 group-title="Live Events",Basketball | League Cup : Hapoel Holon vs Gilboa Galil (15:30) | Sport 5 Israel
+https://daddylive.sx/stream/stream-144.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Mixed Elite TTT | Kigali (42.4km) (10:15) | Eurosport 1 SE
-https://daddylive.sx/stream/stream-231.php
+#EXTINF:-1 group-title="Live Events",Basketball | League Cup : Hapoel Holon vs Gilboa Galil (15:30) | Sportklub 3 Croatia
+https://daddylive.sx/stream/stream-103.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Mixed Elite TTT | Kigali (42.4km) (10:15) | EuroSport 1 Italy
-https://daddylive.sx/stream/stream-878.php
+#EXTINF:-1 group-title="Live Events",Basketball | League Cup : Ironi Ramat-Gan vs Nes Ziona (16:00) | Sport 5 Live Israel
+https://daddylive.sx/stream/stream-146.php
 
-#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Mixed Elite TTT | Kigali (42.4km) (10:15) | EuroSport 1 Greece
-https://daddylive.sx/stream/stream-41.php
+#EXTINF:-1 group-title="Live Events",Basketball | League Cup : Hapoel Tel-Aviv vs Hapoel Beer Sheva (17:45) | Sport 5 Israel
+https://daddylive.sx/stream/stream-144.php
 
-#EXTINF:-1 group-title="Live Events",Sailing / Boating | World Rowing Championships Day-4 (02:00) | Sky Sport 1 NZ
-https://daddylive.sx/stream/stream-588.php
+#EXTINF:-1 group-title="Live Events",Basketball | League Cup : Hapoel Tel-Aviv vs Hapoel Beer Sheva (17:45) | Sportklub 3 Croatia
+https://daddylive.sx/stream/stream-103.php
 
-#EXTINF:-1 group-title="Live Events",Bowling | World Champion Of Champions: Day 4 S2 (03:50) | Sky Sport 4 NZ
-https://daddylive.sx/stream/stream-591.php
+#EXTINF:-1 group-title="Live Events",Climbing | Men's Speed | Final World Championships | Seoul (10:45) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
 
-#EXTINF:-1 group-title="Live Events",Bowling | World Champion Of Champions: Day 4 S1 (22:00) | Sky Sport 5 NZ
-https://daddylive.sx/stream/stream-592.php
+#EXTINF:-1 group-title="Live Events",Climbing | Men's Speed | Final World Championships | Seoul (10:45) | EuroSport 2 Poland
+https://daddylive.sx/stream/stream-58.php
 
-#EXTINF:-1 group-title="Live Events",Handball | NB I Women : Mol Esztergomi KC vs. Debreceni VSC (16:00) | Duna World Hungary
-https://daddylive.sx/stream/stream-157.php
+#EXTINF:-1 group-title="Live Events",Climbing | Men's Speed | Final World Championships | Seoul (10:45) | EuroSport 2 Spain
+https://daddylive.sx/stream/stream-525.php
 
-#EXTINF:-1 group-title="Live Events",Handball | NB I Women : Mol Esztergomi KC vs. Debreceni VSC (16:00) | Sportklub 1 Croatia
-https://daddylive.sx/stream/stream-101.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : Aalborg Haandbold vs. Sporting Clube Portugal (16:35) | TV3 Sport Denmark HD
-https://daddylive.sx/stream/stream-809.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : CS Dinamo Bucuresti vs. Veszprem KC (16:35) | Sport TV2 Portugal
-https://daddylive.sx/stream/stream-74.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : CS Dinamo Bucuresti vs. Veszprem KC (16:35) | Sport 1 Hungary
-https://daddylive.sx/stream/stream-158.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : CS Dinamo Bucuresti vs. Veszprem KC (16:35) | Arena 5 Premium Serbia
-https://daddylive.sx/stream/stream-171.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : CS Dinamo Bucuresti vs. Veszprem KC (16:35) | Digi Sport 3 Romania
-https://daddylive.sx/stream/stream-402.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : CS Dinamo Bucuresti vs. Veszprem KC (16:35) | Prima Sport 3 Romania
-https://daddylive.sx/stream/stream-585.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : CS Dinamo Bucuresti vs. Veszprem KC (16:35) | Sport 3 Israel
-https://daddylive.sx/stream/stream-142.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Denmark, Damehandboldligaen : Silkeborg Voel KFUM vs. HC Odense (18:00) | TV2 Sport Denmark
-https://daddylive.sx/stream/stream-810.php
-
-#EXTINF:-1 group-title="Live Events",Handball | France LFH Division 1 Women : Chambray Touraine vs OGC Nice Cote D'Azur (18:00) | beIN Sports 3 France
-https://daddylive.sx/stream/stream-118.php
-
-#EXTINF:-1 group-title="Live Events",Handball | PGNiG Superliga : Gniezno W vs Zaglebie W (18:30) | Polsat Sport 1 Poland
-https://daddylive.sx/stream/stream-47.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : HBC Nantes vs. Kolstad Handball (18:45) | Sport 1 Hungary
-https://daddylive.sx/stream/stream-158.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : HBC Nantes vs. Kolstad Handball (18:45) | TV2 Sport 2 Norway
-https://daddylive.sx/stream/stream-159.php
-
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : HBC Nantes vs. Kolstad Handball (18:45) | EuroSport 2 France
+#EXTINF:-1 group-title="Live Events",Climbing | Men's Speed | Final World Championships | Seoul (10:45) | EuroSport 2 France
 https://daddylive.sx/stream/stream-773.php
 
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : RK Pelister vs. GOG Handbold (18:45) | DR 2 Denmark
-https://daddylive.sx/stream/stream-802.php
+#EXTINF:-1 group-title="Live Events",Climbing | Men's Speed | Final World Championships | Seoul (10:45) | Eurosport 2 SE
+https://daddylive.sx/stream/stream-232.php
 
-#EXTINF:-1 group-title="Live Events",Handball | Champions League : RK Pelister vs. GOG Handbold (18:45) | Arena Sport 5 Serbia
-https://daddylive.sx/stream/stream-940.php
+#EXTINF:-1 group-title="Live Events",Climbing | Men's Speed | Final World Championships | Seoul (10:45) | EuroSport 2 Italy
+https://daddylive.sx/stream/stream-879.php
 
-#EXTINF:-1 group-title="Live Events",Futsal | UEFA Futsal Championship : Romania vs Hungary (16:30) | M4 Sport Hungary
-https://daddylive.sx/stream/stream-265.php
+#EXTINF:-1 group-title="Live Events",Climbing | Men's Speed | Final World Championships | Seoul (10:45) | EuroSport 2 Greece
+https://daddylive.sx/stream/stream-42.php
 
-#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from Goodwood, Perth, Redcar, Kempton and Listowel (12:15) | Racing Tv UK
+#EXTINF:-1 group-title="Live Events",Climbing | Men's Speed | Final World Championships | Seoul (10:45) | Eurosport 2 SE
+https://daddylive.sx/stream/stream-232.php
+
+#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Women U23 Road Race | Kigali (119.3km) (11:00) | TNT Sports 1 UK
+https://daddylive.sx/stream/stream-31.php
+
+#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Women U23 Road Race | Kigali (119.3km) (11:00) | EuroSport 1 Poland
+https://daddylive.sx/stream/stream-57.php
+
+#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Women U23 Road Race | Kigali (119.3km) (11:00) | EuroSport 1 Spain
+https://daddylive.sx/stream/stream-524.php
+
+#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Women U23 Road Race | Kigali (119.3km) (11:00) | EuroSport 1 France
+https://daddylive.sx/stream/stream-772.php
+
+#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Women U23 Road Race | Kigali (119.3km) (11:00) | Eurosport 1 SE
+https://daddylive.sx/stream/stream-231.php
+
+#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Women U23 Road Race | Kigali (119.3km) (11:00) | EuroSport 1 Italy
+https://daddylive.sx/stream/stream-878.php
+
+#EXTINF:-1 group-title="Live Events",Cycling | UCI Road World Championships Women U23 Road Race | Kigali (119.3km) (11:00) | EuroSport 1 Greece
+https://daddylive.sx/stream/stream-41.php
+
+#EXTINF:-1 group-title="Live Events",Futsal | Czech Republic 1. Liga : FC Rapid Usti Nad Labem vs. Ftzs Liberec (15:30) | CT Sport Czech
+https://daddylive.sx/stream/stream-1033.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Bambusa Women's League : HOJ W vs Sonderjyske W (16:30) | TV2 Sport Denmark
+https://daddylive.sx/stream/stream-810.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Vive Kielce vs Fuchse Berlin (16:45) | DAZN2 DE
+https://daddylive.sx/stream/stream-427.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Vive Kielce vs Fuchse Berlin (16:45) | TV3 Sport Denmark
+https://daddylive.sx/stream/stream-809.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Vive Kielce vs Fuchse Berlin (16:45) | EuroSport 1 Poland
+https://daddylive.sx/stream/stream-57.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Vive Kielce vs Fuchse Berlin (16:45) | Arena Sport 1 Serbia
+https://daddylive.sx/stream/stream-429.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Szeged vs Paris SG (16:45) | Sport 1 Hungary
+https://daddylive.sx/stream/stream-167.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Szeged vs Paris SG (16:45) | Digi Sport 4 Romania
+https://daddylive.sx/stream/stream-403.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Szeged vs Paris SG (16:45) | Prima Sport 3 Romania
+https://daddylive.sx/stream/stream-585.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Szeged vs Paris SG (16:45) | EuroSport 2 France
+https://daddylive.sx/stream/stream-773.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : Szeged vs Paris SG (16:45) | Sport 3 Israel
+https://daddylive.sx/stream/stream-142.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : PPD Zagreb vs Barcelona (16:45) | DAZN 1 Spain
+https://daddylive.sx/stream/stream-445.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : PPD Zagreb vs Barcelona (16:45) | Arena Sport 2 Serbia
+https://daddylive.sx/stream/stream-530.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : PPD Zagreb vs Barcelona (16:45) | Arena Sport 2 Croatia
+https://daddylive.sx/stream/stream-433.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Handball-Bundesliga : Gummersbach vs Stuttgart (16:45) | DYN DE
+https://daddylive.sx/stream/stream-177.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Handball-Bundesliga : Kiel vs Minden (17:00) | Arena Sport 3 Serbia
+https://daddylive.sx/stream/stream-431.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Handball-Bundesliga : Kiel vs Minden (17:00) | Sportklub 1 Croatia
+https://daddylive.sx/stream/stream-101.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Handball-Bundesliga : Kiel vs Minden (17:00) | Nova Sport 1 Czech
+https://daddylive.sx/stream/stream-179.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Handball-Bundesliga : Lemgo vs Bergischer (17:00) | DYN DE
+https://daddylive.sx/stream/stream-178.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Spain Asobal : Bidasoa Irun vs. Ademar Leon (18:30) | JOJ Sport Slovakia
+https://daddylive.sx/stream/stream-180.php
+
+#EXTINF:-1 group-title="Live Events",Handball | 888ligaen : HOJ vs Nordsjaelland (18:30) | TV2 Sport Denmark
+https://daddylive.sx/stream/stream-810.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : PSC Magdeburg vs Wisla Plock (18:45) | DAZN2 DE
+https://daddylive.sx/stream/stream-427.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : PSC Magdeburg vs Wisla Plock (18:45) | Sport 1 Hungary
+https://daddylive.sx/stream/stream-167.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : PSC Magdeburg vs Wisla Plock (18:45) | TV3 Sport Denmark
+https://daddylive.sx/stream/stream-809.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : PSC Magdeburg vs Wisla Plock (18:45) | EuroSport 1 Poland
+https://daddylive.sx/stream/stream-57.php
+
+#EXTINF:-1 group-title="Live Events",Handball | Champions League : PSC Magdeburg vs Wisla Plock (18:45) | Sport 3 Israel
+https://daddylive.sx/stream/stream-142.php
+
+#EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from Newmarket, Perth, Pontefract and Listowel (12:15) | Racing Tv UK
 https://daddylive.sx/stream/stream-555.php
 
 #EXTINF:-1 group-title="Live Events",Horse Racing | Live racing from around the UK (12:30) | Sky Sports Racing UK
 https://daddylive.sx/stream/stream-554.php
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | HockeyAllsvenskan : IF Bjorkloven vs AIK (17:00) | TV4 Sport Hockey Sweden
-https://daddylive.sx/stream/stream-700.php
+#EXTINF:-1 group-title="Live Events",Horse Racing | America's Day At the Races (17:00) | Fox Sports 2 USA
+https://daddylive.sx/stream/stream-758.php
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | HockeyAllsvenskan : Vasteras vs Almtuna (17:00) | TV4 Sport Live 4 Sweden
-https://daddylive.sx/stream/stream-706.php
+#EXTINF:-1 group-title="Live Events",Sailing / Boating | World Rowing Championships D5 S1 (02:00) | Sky Sport 2 NZ
+https://daddylive.sx/stream/stream-589.php
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | HockeyAllsvenskan : Sodertalje vs Troja/Ljungby (17:00) | TV4 Sport Live 1 Sweden
-https://daddylive.sx/stream/stream-703.php
+#EXTINF:-1 group-title="Live Events",Sailing / Boating | World Rowing Championships D5 S2 (06:00) | Sky Sport 2 NZ
+https://daddylive.sx/stream/stream-589.php
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | HockeyAllsvenskan : Oskarshamn vs BIK Karlskoga (17:00) | TV4 Sportkanalen Sweden
-https://daddylive.sx/stream/stream-707.php
+#EXTINF:-1 group-title="Live Events",Bowling | World Champion Of Champions: Day 4 S2 (03:50) | Sky Sport 5 NZ
+https://daddylive.sx/stream/stream-592.php
 
-#EXTINF:-1 group-title="Live Events",Ice Hockey | HockeyAllsvenskan : Mora vs Ostersund (17:00) | TV4 Sport Live 2 Sweden
-https://daddylive.sx/stream/stream-704.php
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | HockeyAllsvenskan : Modo vs Nybro (17:00) | TV4 Sport Live 3 Sweden
-https://daddylive.sx/stream/stream-705.php
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Czech Republic, 1st Liga : PSG Berani Zlin vs. SC Kolin (15:30) | CT Sport Czech HD
-https://daddylive.sx/stream/stream-1033.php
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia MHL : Amurskie Tigry U20 vs Krasnaya Armiya U20 (09:00) | KHL Tv
-https://daddylive.sx/stream/stream-23.php
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Sibir Novosibirsk vs Salavat Yulaev Ufa (12:30) | KHL Prime
-https://daddylive.sx/stream/stream-24.php
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia MHL : Snezhnye Barsy Astana U20 vs Stalnye Lisy U20 (13:30) | KHL Tv
-https://daddylive.sx/stream/stream-23.php
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Russia KHL : Lokomotiv Yaroslavl vs Severstal Cherepovets (16:00) | KHL Prime
-https://daddylive.sx/stream/stream-24.php
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Liiga : Kärpät Oulu vs Rauma Lukko (15:30) | MTV Urheilu 1 Finland
-https://daddylive.sx/stream/stream-182.php
-
-#EXTINF:-1 group-title="Live Events",Ice Hockey | Liiga : KalPa vs Assat (15:30) | MTV Urheilu 2 Finland
-https://daddylive.sx/stream/stream-183.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Minnesota Wild vs Dallas Stars (00:00) | NHL Gamecenter
-https://daddylive.sx/stream/stream-23.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Edmonton Oilers vs Winnipeg Jets (00:00) | NHL Gamecenter
-https://daddylive.sx/stream/stream-24.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Edmonton Oilers vs Winnipeg Jets (00:00) | TSN3
-https://daddylive.sx/stream/stream-113.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Tampa Bay Lightning vs Nashville Predators (00:00) | NHL Gamecenter
-https://daddylive.sx/stream/stream-25.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Seattle Kraken vs Calgary Flames (01:00) | NHL Gamecenter
-https://daddylive.sx/stream/stream-26.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Vegas Golden Knights (02:00) | NHL Gamecenter
-https://daddylive.sx/stream/stream-27.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Vegas Golden Knights (02:00) | NHL Network USA
-https://daddylive.sx/stream/stream-663.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Vegas Golden Knights (02:00) | Viaplay Sports 2 UK
-https://daddylive.sx/stream/stream-550.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Vegas Golden Knights (02:00) | MAX Sport 2 Bulgaria
-https://daddylive.sx/stream/stream-473.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Carolina Hurricanes (22:00) | NHL Gamecenter
-https://daddylive.sx/stream/stream-14.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Carolina Hurricanes (22:00) | NHL Network USA
-https://daddylive.sx/stream/stream-663.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Carolina Hurricanes (22:00) | TVA Sports 2
-https://daddylive.sx/stream/stream-834.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Florida Panthers vs Carolina Hurricanes (22:00) | MAX Sport 2 Bulgaria
-https://daddylive.sx/stream/stream-473.php
-
-#EXTINF:-1 group-title="Live Events",NHL | NHL : Pittsburgh Penguins vs Columbus Blue Jackets (23:00) | NHL Gamecenter
-https://daddylive.sx/stream/stream-15.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Italy vs Belgium (07:30) | Polsat Sport 1 Poland
-https://daddylive.sx/stream/stream-47.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Italy vs Belgium (07:30) | SporTV2 Brazil
-https://daddylive.sx/stream/stream-79.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Italy vs Belgium (07:30) | Arena 2 Premium Serbia
-https://daddylive.sx/stream/stream-135.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Italy vs Belgium (07:30) | MAX Sport 2 Bulgaria
-https://daddylive.sx/stream/stream-473.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Italy vs Belgium (07:30) | Sportklub 1 Croatia
-https://daddylive.sx/stream/stream-101.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Italy vs Belgium (07:30) | Sport 3 Israel
-https://daddylive.sx/stream/stream-142.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | Beach Volleyball Pro Tour (M): Rio - Qualifications LIVE (11:00) | Sportklub 4 Croatia
-https://daddylive.sx/stream/stream-104.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Poland vs Turkey (12:00) | Polsat Sport 1 Poland
-https://daddylive.sx/stream/stream-47.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Poland vs Turkey (12:00) | L Equipe France
-https://daddylive.sx/stream/stream-645.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Poland vs Turkey (12:00) | TRT Spor Turkey
-https://daddylive.sx/stream/stream-889.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Poland vs Turkey (12:00) | Arena 2 Premium Serbia
-https://daddylive.sx/stream/stream-135.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Poland vs Turkey (12:00) | MAX Sport 2 Bulgaria
-https://daddylive.sx/stream/stream-473.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Poland vs Turkey (12:00) | Sportklub 1 Croatia
-https://daddylive.sx/stream/stream-101.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Poland vs Turkey (12:00) | Sport 3 Israel
-https://daddylive.sx/stream/stream-142.php
-
-#EXTINF:-1 group-title="Live Events",Volleyball | São Paulo Women's Volleyball Championship : Osasco x Sesi Bauru (23:00) | SporTV2 Brazil
-https://daddylive.sx/stream/stream-79.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : SKA Khabarovsk vs Rodina Moskva (09:00) | Match Premier Russia
-https://daddylive.sx/stream/stream-573.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Poland Puchar Polski : Legia II Warsaw VS Górnik Zabrze (10:30) | TVP Sport Poland
-https://daddylive.sx/stream/stream-128.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : Bandırmaspor vs Manisa BBSK (11:30) | TRT Spor Turkey
-https://daddylive.sx/stream/stream-889.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : Veles vs Rotor Volgograd (11:30) | Match Premier Russia
-https://daddylive.sx/stream/stream-573.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | ASEAN Club Championship : Pathum United vs Buriram United (12:00) | Astro Arena Bola 2
-https://daddylive.sx/stream/stream-2.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | ASEAN Club Championship : Công An Hà Nôi vs Cebu (12:30) | Astro Arena 2
-https://daddylive.sx/stream/stream-3.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | ASEAN Club Championship : Selangor vs Tampines Rovers (13:00) | Astro Arena Bola
-https://daddylive.sx/stream/stream-4.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | South Africa - DStv Premiership : Golden Arrows vs Mamelodi Sundowns (13:00) | SuperSport PSL
-https://daddylive.sx/stream/stream-413.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Poland Puchar Polski : Pogoń Grodzisk Maz. vs Lechia Gdańsk (13:15) | TVP Sport Poland
-https://daddylive.sx/stream/stream-128.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | United Arab Emirates - UAE Pro League : Khor Fakkan vs Al Ittihad Kalba (13:25) | Dubai Sports 1
-https://daddylive.sx/stream/stream-604.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | United Arab Emirates - UAE Pro League : Khor Fakkan vs Al Ittihad Kalba (13:25) | Abu Dhabi Sports 1
-https://daddylive.sx/stream/stream-600.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : BB Erzurumspor vs Keçiörengücü (14:00) | TRT Spor Turkey
-https://daddylive.sx/stream/stream-889.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : Volgar Astrakhan vs Neftekhimik (14:00) | Match Premier Russia
-https://daddylive.sx/stream/stream-573.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : Volgar Astrakhan vs Neftekhimik (14:00) | MATCH TV Russia
-https://daddylive.sx/stream/stream-127.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Portugal - Liga 3 : São João Ver vs AD Marco 09 (14:00) | Canal 11 Portugal
-https://daddylive.sx/stream/stream-540.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Egypt - Premier League : ENPPI vs Ismaily (14:00) | Ontime Sports Egypt
-https://daddylive.sx/stream/stream-175.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Kazakhstan - Kazakhstan Premier League : Tobol vs Ordabasy (14:00) | Qazsport
-https://daddylive.sx/stream/stream-5.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Czech Republic - Czech Cup : Karlovy Vary vs Sparta Praha (14:00) | Oneplay Sport 1 CZ
-https://daddylive.sx/stream/stream-1027.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Siracusa vs Potenza Calcio (15:00) | Sky Sport 253 IT
-https://daddylive.sx/stream/stream-6.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Croatia - Nogometni Cup : NK Koprivnica vs Hajduk Split (15:00) | MAX Sport 1 Croatia
-https://daddylive.sx/stream/stream-779.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | 20 Mediaset IT
-https://daddylive.sx/stream/stream-857.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Viaplay Sports 2 UK
-https://daddylive.sx/stream/stream-550.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Premier Sports 2 Ireland
-https://daddylive.sx/stream/stream-799.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | DAZN 1 ES
-https://daddylive.sx/stream/stream-445.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Sport TV1 Portugal
-https://daddylive.sx/stream/stream-49.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Polsat Sport 2 Poland
-https://daddylive.sx/stream/stream-50.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Match! Football 3 Russia
-https://daddylive.sx/stream/stream-138.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Arena 2 Premium Serbia
-https://daddylive.sx/stream/stream-135.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Ziggo Sport 5 NL
-https://daddylive.sx/stream/stream-383.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Nova Sports Start Greece
-https://daddylive.sx/stream/stream-637.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Arena Sport 1 Croatia
-https://daddylive.sx/stream/stream-432.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | MAX Sport 3 Bulgaria
-https://daddylive.sx/stream/stream-474.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Parma vs Spezia (15:00) | Sport 4 Israel
-https://daddylive.sx/stream/stream-143.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - King Cup : Al Jubail vs Al Riyadh (15:10) | Thmanyah
-https://daddylive.sx/stream/stream-7.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | South Africa - DStv Premiership : Kaizer Chiefs vs Marumo Gallants (15:30) | SuperSport PSL
-https://daddylive.sx/stream/stream-413.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - King Cup : Al Jabalain vs Al Fateh (15:45) | Thmanyah
-https://daddylive.sx/stream/stream-8.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Portugal - Liga 3 : Sporting Braga II vs Sanjoanense (16:00) | Canal 11 Portugal
-https://daddylive.sx/stream/stream-540.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Serbia - Super Liga : Novi Pazar vs Radnički Kragujevac (16:00) | Arena 1 Premium Serbia
-https://daddylive.sx/stream/stream-134.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Serbia - Super Liga : Novi Pazar vs Radnički Kragujevac (16:00) | Arena Sport 10 Serbia
-https://daddylive.sx/stream/stream-945.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | United Arab Emirates - UAE Pro League : Al Jazira vs Al Wahda (16:15) | Dubai Sports 1
-https://daddylive.sx/stream/stream-604.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | United Arab Emirates - UAE Pro League : Al Jazira vs Al Wahda (16:15) | Abu Dhabi Sports 1
-https://daddylive.sx/stream/stream-600.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Slovenia Slovenia Cup : Olimpija vs Domžale (16:15) | Sportklub 1 Slovenia
-https://daddylive.sx/stream/stream-22.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : Tekstilshchik vs Fakel (16:30) | Match Premier Russia
-https://daddylive.sx/stream/stream-573.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Russia - Russian Cup : Tekstilshchik vs Fakel (16:30) | MATCH TV Russia
-https://daddylive.sx/stream/stream-127.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Cosenza vs Giugliano (16:30) | Sky Sport 258 IT
-https://daddylive.sx/stream/stream-161.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Sorrento vs Virtus Casarano (16:30) | Sky Sport 254 IT
-https://daddylive.sx/stream/stream-30.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Cavese vs Latina (16:30) | Sky Sport 255 IT
-https://daddylive.sx/stream/stream-109.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Salernitana vs Audace Cerignola (16:30) | Sky Sport 256 IT
-https://daddylive.sx/stream/stream-162.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Salernitana vs Audace Cerignola (16:30) | Sky Sport Calcio IT
-https://daddylive.sx/stream/stream-870.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Foggia vs Casertana (16:30) | Sky Sport 257 IT
-https://daddylive.sx/stream/stream-163.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie A Women’s Cup : Juventus vs Inter Milano (16:30) | Sky Sport Uno IT
-https://daddylive.sx/stream/stream-461.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie A Women’s Cup : Juventus vs Inter Milano (16:30) | FOX Soccer Plus
-https://daddylive.sx/stream/stream-756.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Hellas Verona vs Venezia (16:30) | Italia 1 IT
-https://daddylive.sx/stream/stream-854.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Hellas Verona vs Venezia (16:30) | Viaplay Sports 1 UK
-https://daddylive.sx/stream/stream-451.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Hellas Verona vs Venezia (16:30) | Premier Sports 1 Ireland
-https://daddylive.sx/stream/stream-771.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Hellas Verona vs Venezia (16:30) | Match! Football 1 Russia
-https://daddylive.sx/stream/stream-136.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Hellas Verona vs Venezia (16:30) | Arena Sport 1 Serbia
-https://daddylive.sx/stream/stream-429.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Czech Republic - Czech Cup : Zbrojovka Brno vs Teplice (16:30) | Oneplay Sport 1 CZ
-https://daddylive.sx/stream/stream-1027.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (16:45) | Sky Sport Austria 1
-https://daddylive.sx/stream/stream-559.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | TNT Sports 5 UK
-https://daddylive.sx/stream/stream-9.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Sky Sport Austria 3
-https://daddylive.sx/stream/stream-2.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Sky Sport 252 IT
-https://daddylive.sx/stream/stream-10.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | DAZN Eleven 2 Portugal
-https://daddylive.sx/stream/stream-456.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Polsat Sport Premium 2 Poland
-https://daddylive.sx/stream/stream-11.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Canal+ Foot France
-https://daddylive.sx/stream/stream-463.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Arena 4 Premium Serbia
-https://daddylive.sx/stream/stream-165.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Ziggo Sport 3 NL
-https://daddylive.sx/stream/stream-919.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Digi Sport 1 Romania
-https://daddylive.sx/stream/stream-400.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Prima Sport 1 Romania
-https://daddylive.sx/stream/stream-583.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Arena Sport 3 Croatia
-https://daddylive.sx/stream/stream-434.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Movistar Liga de Campeones 2
-https://daddylive.sx/stream/stream-166.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Cosmote Sport 2 Greece
-https://daddylive.sx/stream/stream-623.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | MAX Sport 2 Bulgaria
-https://daddylive.sx/stream/stream-473.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | ESPN3 Argentina
-https://daddylive.sx/stream/stream-798.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | beIN Sports English 2
-https://daddylive.sx/stream/stream-90.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : PAOK vs Maccabi Tel Aviv (16:45) | Sport 1 Israel
-https://daddylive.sx/stream/stream-140.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | TNT Sports 3 UK
-https://daddylive.sx/stream/stream-33.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | CBS Sports Network USA
-https://daddylive.sx/stream/stream-308.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Sky Sport Austria 2
-https://daddylive.sx/stream/stream-12.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | DAZN Eleven 3 Portugal
-https://daddylive.sx/stream/stream-457.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Polsat Sport Premium 1 Poland
-https://daddylive.sx/stream/stream-13.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Sky Sport 251 IT
-https://daddylive.sx/stream/stream-14.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Sky Sport Arena IT
-https://daddylive.sx/stream/stream-462.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Canal+ Sport France
-https://daddylive.sx/stream/stream-122.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Ziggo Sport 2 NL
-https://daddylive.sx/stream/stream-398.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Digi Sport 2 Romania
-https://daddylive.sx/stream/stream-401.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Prima Sport 2 Romania
-https://daddylive.sx/stream/stream-584.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | TUDN USA
-https://daddylive.sx/stream/stream-66.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Movistar Liga de Campeones 3
-https://daddylive.sx/stream/stream-167.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Arena 3 Premium Serbia
-https://daddylive.sx/stream/stream-139.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | ESPN2 Mexico
-https://daddylive.sx/stream/stream-926.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | beIN Sports Malaysia
-https://daddylive.sx/stream/stream-712.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Arena Sport 4 Croatia
-https://daddylive.sx/stream/stream-580.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | bTV Action Bulgaria
-https://daddylive.sx/stream/stream-481.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | ESPN2 Argentina
-https://daddylive.sx/stream/stream-150.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | SuperSport Premier League
-https://daddylive.sx/stream/stream-414.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | SuperSport MaXimo 1
-https://daddylive.sx/stream/stream-572.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Supersport Grandstand
-https://daddylive.sx/stream/stream-412.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | beIN Sports MENA 3
-https://daddylive.sx/stream/stream-93.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Midtjylland vs Sturm Graz (16:45) | Sport 2 Israel
-https://daddylive.sx/stream/stream-141.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Poland - Ekstraklasa : Raków Częstochowa vs Lech Poznań (16:45) | Canal+ Sport 3 Poland
-https://daddylive.sx/stream/stream-259.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Poland - Ekstraklasa : Raków Częstochowa vs Lech Poznań (16:45) | TVP Sport Poland
-https://daddylive.sx/stream/stream-128.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Poland - Ekstraklasa : Raków Częstochowa vs Lech Poznań (16:45) | Arena Sport 3 Serbia
-https://daddylive.sx/stream/stream-431.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : Erokspor vs İstanbulspor (17:00) | Tabii Spor 6 Turkey
-https://daddylive.sx/stream/stream-3.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Turkey - 1. Lig : Bodrumspor vs Van BB (17:00) | TRT Spor Turkey
-https://daddylive.sx/stream/stream-889.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Egypt - Premier League : National Bank of Egypt vs Wadi Degla (17:00) | Ontime Sports Egypt
-https://daddylive.sx/stream/stream-175.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Egypt - Premier League : Ceramica Cleopatra vs Future (17:00) | Ontime Sports 2 Egypt
-https://daddylive.sx/stream/stream-176.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | DAZN LaLiga
-https://daddylive.sx/stream/stream-538.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | DAZN2 DE
-https://daddylive.sx/stream/stream-427.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Now Sports 2 HK
-https://daddylive.sx/stream/stream-177.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | DAZN Eleven 4 Portugal
-https://daddylive.sx/stream/stream-458.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Eleven Sports 1 Poland
-https://daddylive.sx/stream/stream-71.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Eleven Sports 4 Poland
-https://daddylive.sx/stream/stream-4.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | beIN Sports 1 France
-https://daddylive.sx/stream/stream-116.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | ESPN Deportes
-https://daddylive.sx/stream/stream-375.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Digi Sport 4 Romania
-https://daddylive.sx/stream/stream-403.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Prima Sport 4 Romania
-https://daddylive.sx/stream/stream-586.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Match! Football 2 Russia
-https://daddylive.sx/stream/stream-137.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Nova Sports 1 Greece
-https://daddylive.sx/stream/stream-631.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | TV2 Sport X Denmark
-https://daddylive.sx/stream/stream-808.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Arena Sport 2 Serbia
-https://daddylive.sx/stream/stream-430.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | TV4 Football Sweden
-https://daddylive.sx/stream/stream-747.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Nova SPORT 4 CZ
-https://daddylive.sx/stream/stream-1024.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | Arena Sport 2 Croatia
-https://daddylive.sx/stream/stream-433.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | MAX Sport 4 Bulgaria
-https://daddylive.sx/stream/stream-475.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | SuperSport Laliga
-https://daddylive.sx/stream/stream-415.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Getafe vs Deportivo Alavés (17:00) | beIN Sports MENA 4
-https://daddylive.sx/stream/stream-94.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : Simulcast (17:00) | Magenta Sport 301
-https://daddylive.sx/stream/stream-5.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : SGS Essen vs Köln (17:00) | Magenta Sport 304
-https://daddylive.sx/stream/stream-15.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : Wolfsburg vs Werder Bremen (17:00) | Magenta Sport 303
-https://daddylive.sx/stream/stream-16.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : Wolfsburg vs Werder Bremen (17:00) | DAZN1 DE
-https://daddylive.sx/stream/stream-426.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Frauen-Bundesliga : Hoffenheim vs Nürnberg (17:00) | Magenta Sport 302
-https://daddylive.sx/stream/stream-17.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | beIN Sports 1 Turkey
-https://daddylive.sx/stream/stream-62.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | beIN SPORTS USA
-https://daddylive.sx/stream/stream-425.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | beIN SPORTS en Español
-https://daddylive.sx/stream/stream-372.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | Sport TV6 Portugal
-https://daddylive.sx/stream/stream-291.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | Match! Football 3 Russia
-https://daddylive.sx/stream/stream-138.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | Arena Sport 4 Serbia
-https://daddylive.sx/stream/stream-581.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | Fox Sports 2 Argentina
-https://daddylive.sx/stream/stream-788.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | beIN Sports MAX 7 France
-https://daddylive.sx/stream/stream-497.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Super Lig : Kayserispor vs Beşiktaş (17:00) | Sportklub 2 Croatia
-https://daddylive.sx/stream/stream-102.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Brage vs GIF Sundsvall (17:00) | max Extra 2 Sweden
-https://daddylive.sx/stream/stream-18.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Oddevold vs Falkenberg (17:00) | max Extra 3 Sweden
-https://daddylive.sx/stream/stream-19.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Landskrona vs Kalmar (17:00) | max Extra 1 Sweden
-https://daddylive.sx/stream/stream-20.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Sweden - Superettan : Örebro vs Varberg (17:00) | max Extra 4 Sweden
-https://daddylive.sx/stream/stream-21.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Croatia - Nogometni Cup : Uljanik vs Osijek (17:15) | MAX Sport 1 Croatia
-https://daddylive.sx/stream/stream-779.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | South Africa - DStv Premiership : Stellenbosch vs Durban City (17:30) | SuperSport PSL
-https://daddylive.sx/stream/stream-413.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Saudi Arabia - King Cup : Al Orubah vs Al Quadisiya (18:00) | Thmanyah
-https://daddylive.sx/stream/stream-7.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Netherlands - Eredivisie : AZ vs PEC Zwolle (18:00) | ESPN 1 NL
-https://daddylive.sx/stream/stream-379.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Netherlands - Eredivisie : AZ vs PEC Zwolle (18:00) | Sportsnet World
-https://daddylive.sx/stream/stream-410.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Netherlands - Eredivisie : AZ vs PEC Zwolle (18:00) | Sportklub 1 Croatia
-https://daddylive.sx/stream/stream-101.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | World U21 Premier League International Cup : Manchester United U21 vs Athletic Bilbao U21 (18:00) | MUTV UK
-https://daddylive.sx/stream/stream-377.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Portugal - Liga 3 : Paredes vs Vitória Guimarães II (18:30) | Canal 11 Portugal
-https://daddylive.sx/stream/stream-540.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Belgium - Pro League : Club Brugge vs Westerlo (18:30) | DAZN Pro League 1 Belgium
-https://daddylive.sx/stream/stream-22.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Trapani 1905 vs Catania (18:30) | Sky Sport 259 IT
-https://daddylive.sx/stream/stream-164.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Trapani 1905 vs Catania (18:30) | RAI Sport 1 IT
-https://daddylive.sx/stream/stream-882.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Picerno vs Benevento (18:45) | Sky Sport 257 IT
-https://daddylive.sx/stream/stream-163.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Monopoli vs Team Altamura (18:45) | Sky Sport 258 IT
-https://daddylive.sx/stream/stream-161.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Atalanta II vs Crotone (18:45) | Sky Sport 256 IT
-https://daddylive.sx/stream/stream-162.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Italy - Serie C : Atalanta II vs Crotone (18:45) | Sky Sport Calcio IT
-https://daddylive.sx/stream/stream-870.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | Sky Sports Premier League UK
-https://daddylive.sx/stream/stream-130.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | Nova SPORT 6 CZ
-https://daddylive.sx/stream/stream-1026.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | Sport TV1 Portugal
-https://daddylive.sx/stream/stream-49.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | beIN Sports 2 France
-https://daddylive.sx/stream/stream-117.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | Astro Football
-https://daddylive.sx/stream/stream-124.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | Diema Sport 3 Bulgaria
-https://daddylive.sx/stream/stream-467.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | Arena Sport 6 Serbia
-https://daddylive.sx/stream/stream-941.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | ESPN Brazil
-https://daddylive.sx/stream/stream-81.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | SuperSport Variety 3
-https://daddylive.sx/stream/stream-418.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | SuperSport MaXimo 1
-https://daddylive.sx/stream/stream-572.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | beIN Sports MENA 5
-https://daddylive.sx/stream/stream-95.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Huddersfield Town vs Manchester City (18:45) | Sport 4 Israel
-https://daddylive.sx/stream/stream-143.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | Sky Sports+
-https://daddylive.sx/stream/stream-36.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | Nova SPORT 2 CZ
-https://daddylive.sx/stream/stream-1022.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | Sport TV3 Portugal
-https://daddylive.sx/stream/stream-454.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | TV3 MAX Denmark
-https://daddylive.sx/stream/stream-223.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | V Sport Premium
-https://daddylive.sx/stream/stream-1.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | beIN Sports MAX 5 France
-https://daddylive.sx/stream/stream-495.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | Diema Sport Bulgaria
-https://daddylive.sx/stream/stream-465.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | beIN Sports MENA 7
-https://daddylive.sx/stream/stream-97.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Tottenham Hotspur vs Doncaster Rovers (18:45) | Sport 3 Israel
-https://daddylive.sx/stream/stream-142.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Newcastle United vs Bradford City (18:45) | Sky Sports Football UK
-https://daddylive.sx/stream/stream-35.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Newcastle United vs Bradford City (18:45) | Nova SPORT 5 CZ
-https://daddylive.sx/stream/stream-1025.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Newcastle United vs Bradford City (18:45) | Sport TV4 Portugal
-https://daddylive.sx/stream/stream-289.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Newcastle United vs Bradford City (18:45) | beIN Sports MAX 4 France
-https://daddylive.sx/stream/stream-494.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Newcastle United vs Bradford City (18:45) | Nova Sport Bulgaria
-https://daddylive.sx/stream/stream-468.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Newcastle United vs Bradford City (18:45) | ESPN2 Brazil
-https://daddylive.sx/stream/stream-82.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Newcastle United vs Bradford City (18:45) | SuperSport Variety 1
-https://daddylive.sx/stream/stream-416.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Newcastle United vs Bradford City (18:45) | beIN Sports MENA 6
-https://daddylive.sx/stream/stream-96.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (19:00) | Sky Sport Austria 1
-https://daddylive.sx/stream/stream-559.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (19:00) | Ziggo Sport 4 NL
-https://daddylive.sx/stream/stream-396.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (19:00) | Canal+ Sport360
-https://daddylive.sx/stream/stream-464.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Simulcast (19:00) | Movistar Liga de Campeones 3
-https://daddylive.sx/stream/stream-167.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | TNT Sports 1 UK
-https://daddylive.sx/stream/stream-31.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | CBS Sports Network USA
-https://daddylive.sx/stream/stream-308.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Sky Sport Austria 7
-https://daddylive.sx/stream/stream-23.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | DAZN Eleven 2 Portugal
-https://daddylive.sx/stream/stream-456.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Ziggo Sport 2 NL
-https://daddylive.sx/stream/stream-398.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Movistar Liga de Campeones
-https://daddylive.sx/stream/stream-435.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Blue Sport 2 Live
-https://daddylive.sx/stream/stream-55.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Sky Sport 253 IT
-https://daddylive.sx/stream/stream-6.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Canal+ Sport France
-https://daddylive.sx/stream/stream-122.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Digi Sport 2 Romania
-https://daddylive.sx/stream/stream-401.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Prima Sport 1 Romania
-https://daddylive.sx/stream/stream-583.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Polsat Sport Extra 1 Poland
-https://daddylive.sx/stream/stream-178.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | beIN Sports Malaysia
-https://daddylive.sx/stream/stream-712.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Arena 3 Premium Serbia
-https://daddylive.sx/stream/stream-139.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Arena Sport 4 Croatia
-https://daddylive.sx/stream/stream-580.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | bTV Action Bulgaria
-https://daddylive.sx/stream/stream-481.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | ESPN2 Argentina
-https://daddylive.sx/stream/stream-150.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | SuperSport Football
-https://daddylive.sx/stream/stream-56.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | beIN Sports MENA 2
-https://daddylive.sx/stream/stream-92.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | beIN Sports MENA English 2
-https://daddylive.sx/stream/stream-90.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Real Betis vs Nottingham Forest (19:00) | Sport 1 Israel
-https://daddylive.sx/stream/stream-140.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | TNT Sports 5 UK
-https://daddylive.sx/stream/stream-9.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | Ziggo Sport 1 NL
-https://daddylive.sx/stream/stream-393.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | Sky Sport Austria 5
-https://daddylive.sx/stream/stream-24.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | DAZN Eleven 1 Portugal
-https://daddylive.sx/stream/stream-455.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | Polsat Sport Premium 2 Poland
-https://daddylive.sx/stream/stream-11.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | Movistar Liga de Campeones 4
-https://daddylive.sx/stream/stream-168.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | Arena 2 Premium Serbia
-https://daddylive.sx/stream/stream-135.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | Canal+ Live 3 France
-https://daddylive.sx/stream/stream-59.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | Blue Sport 7 Live
-https://daddylive.sx/stream/stream-68.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | ESPN3 Argentina
-https://daddylive.sx/stream/stream-798.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | SuperSport Variety 2
-https://daddylive.sx/stream/stream-417.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Sporting Braga vs Feyenoord (19:00) | beIN Sports MENA 5
-https://daddylive.sx/stream/stream-95.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | TNT Sports 3 UK
-https://daddylive.sx/stream/stream-33.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Sky Sport 252 IT
-https://daddylive.sx/stream/stream-10.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Canal+ Foot France
-https://daddylive.sx/stream/stream-463.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Sky Sport Austria 6
-https://daddylive.sx/stream/stream-25.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Polsat Sport Premium 1 Poland
-https://daddylive.sx/stream/stream-13.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Movistar Liga de Campeones 2
-https://daddylive.sx/stream/stream-166.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Sky Sport Uno IT
-https://daddylive.sx/stream/stream-461.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Blue Sport 3 Live
-https://daddylive.sx/stream/stream-69.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Digi Sport 1 Romania
-https://daddylive.sx/stream/stream-400.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Prima Sport 2 Romania
-https://daddylive.sx/stream/stream-584.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | TUDN USA
-https://daddylive.sx/stream/stream-66.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | UniMás
-https://daddylive.sx/stream/stream-133.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Ziggo Sport 3 NL
-https://daddylive.sx/stream/stream-919.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Ring bg
-https://daddylive.sx/stream/stream-471.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | ESPN Argentina
-https://daddylive.sx/stream/stream-149.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | Arena 4 Premium Serbia
-https://daddylive.sx/stream/stream-165.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | SuperSport Action
-https://daddylive.sx/stream/stream-420.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Nice vs Roma (19:00) | beIN Sports MENA 1
-https://daddylive.sx/stream/stream-91.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | TNT Sports 8 UK
-https://daddylive.sx/stream/stream-26.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | TRT 1 Turkey
-https://daddylive.sx/stream/stream-27.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | Arena Sport 1 Croatia
-https://daddylive.sx/stream/stream-432.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | Sky Sport Austria 8
-https://daddylive.sx/stream/stream-28.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | Sky Sport Mix DE
-https://daddylive.sx/stream/stream-557.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | Arena Sport 7 Serbia
-https://daddylive.sx/stream/stream-942.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | SONY TEN 1 HD
-https://daddylive.sx/stream/stream-885.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | Movistar Liga de Campeones 7
-https://daddylive.sx/stream/stream-169.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | Canal+ Live 4 France
-https://daddylive.sx/stream/stream-76.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | Ziggo Sport 6 NL
-https://daddylive.sx/stream/stream-901.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | Blue Sport 4 Live
-https://daddylive.sx/stream/stream-77.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | ŠTV 1 Slovenia
-https://daddylive.sx/stream/stream-86.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | ESPN2 Mexico
-https://daddylive.sx/stream/stream-926.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Dinamo Zagreb vs Fenerbahçe (19:00) | beIN Sports MENA 7
-https://daddylive.sx/stream/stream-97.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | RTS 1 Serbia
-https://daddylive.sx/stream/stream-29.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | Sky Sport Austria 3
-https://daddylive.sx/stream/stream-2.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | DAZN Eleven 3 Portugal
-https://daddylive.sx/stream/stream-457.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | Sky Sport 254 IT
-https://daddylive.sx/stream/stream-30.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | Canal+ Live 5 France
-https://daddylive.sx/stream/stream-105.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | Movistar Liga de Campeones 5
-https://daddylive.sx/stream/stream-170.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | SONY TEN 3 HD
-https://daddylive.sx/stream/stream-887.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | Ziggo Sport 5 NL
-https://daddylive.sx/stream/stream-383.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | Arena 1 Premium Serbia
-https://daddylive.sx/stream/stream-134.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | Blue Sport 5 Live
-https://daddylive.sx/stream/stream-106.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | Arena Sport 3 Croatia
-https://daddylive.sx/stream/stream-434.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | MAX Sport 2 Bulgaria
-https://daddylive.sx/stream/stream-473.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | SuperSport Variety 4
-https://daddylive.sx/stream/stream-419.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Crvena Zvezda vs Celtic (19:00) | beIN Sports MENA 6
-https://daddylive.sx/stream/stream-96.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | TNT Sports 6 UK
-https://daddylive.sx/stream/stream-107.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | Sky Sport Austria 4
-https://daddylive.sx/stream/stream-108.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | Sky Sport 255 IT
-https://daddylive.sx/stream/stream-109.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | Canal+ Live 6 France
-https://daddylive.sx/stream/stream-110.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | Arena 5 Premium Serbia
-https://daddylive.sx/stream/stream-171.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | Nitro DE
-https://daddylive.sx/stream/stream-179.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | Movistar Liga de Campeones 6
-https://daddylive.sx/stream/stream-172.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | Polsat Sport Extra 4 Poland
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Slovakia 1st Liga : HC Tebs Bratislava vs. Slovakia (09:00) | JOJ Sport Slovakia
 https://daddylive.sx/stream/stream-180.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | Blue Sport 1 Live
-https://daddylive.sx/stream/stream-151.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Finland Mestis - Jokerit vs KeuPa HT (15:30) | MTV Urheilu 1 Finland
+https://daddylive.sx/stream/stream-184.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | beIN Sports 2 Malaysia
-https://daddylive.sx/stream/stream-713.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Freiburg vs Basel (19:00) | beIN Sports MENA 9
-https://daddylive.sx/stream/stream-99.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Malmö FF vs Ludogorets (19:00) | TNT Sports 7 UK
-https://daddylive.sx/stream/stream-152.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Malmö FF vs Ludogorets (19:00) | Canal+ Live 7 France
-https://daddylive.sx/stream/stream-153.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Malmö FF vs Ludogorets (19:00) | Movistar Liga de Campeones 8
-https://daddylive.sx/stream/stream-173.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Malmö FF vs Ludogorets (19:00) | MAX Sport 3 Bulgaria
-https://daddylive.sx/stream/stream-474.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | UEFA Europa League : Malmö FF vs Ludogorets (19:00) | Arena Sport 8 Serbia
-https://daddylive.sx/stream/stream-943.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | Italia 1 IT
-https://daddylive.sx/stream/stream-854.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | DAZN 1 ES
-https://daddylive.sx/stream/stream-445.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | DAZN2 DE
-https://daddylive.sx/stream/stream-427.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | Sport TV6 Portugal
-https://daddylive.sx/stream/stream-291.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | Polsat Sport 2 Poland
-https://daddylive.sx/stream/stream-50.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | Match! Football 1 Russia
-https://daddylive.sx/stream/stream-136.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | Arena Sport 4 Serbia
-https://daddylive.sx/stream/stream-581.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | Nova Sports 2 Greece
-https://daddylive.sx/stream/stream-632.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Coppa Italia : Como vs Sassuolo (19:00) | MAX Sport 1 Bulgaria
-https://daddylive.sx/stream/stream-472.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Sky Sports Main Event UK
-https://daddylive.sx/stream/stream-38.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Sky Sport Premier League DE
-https://daddylive.sx/stream/stream-154.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Sky Sport Top Event DE
-https://daddylive.sx/stream/stream-556.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Nova SPORT 1 CZ
-https://daddylive.sx/stream/stream-1021.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Sport TV2 Portugal
-https://daddylive.sx/stream/stream-74.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Digi Sport 3 Romania
-https://daddylive.sx/stream/stream-402.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Astro Grandstand
-https://daddylive.sx/stream/stream-123.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | ESPN3 Mexico
-https://daddylive.sx/stream/stream-927.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Diema Sport 2 Bulgaria
-https://daddylive.sx/stream/stream-466.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | ESPN4 Brazil
-https://daddylive.sx/stream/stream-85.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Arena Sport 1 Serbia
-https://daddylive.sx/stream/stream-429.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | SuperSport Premier League beIN Sports MAX 6 France (CH-496)
-https://daddylive.sx/stream/stream-414.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Supersport Grandstand
-https://daddylive.sx/stream/stream-412.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | beIN Sports MENA English 1
-https://daddylive.sx/stream/stream-61.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | beIN Sports MENA 9
-https://daddylive.sx/stream/stream-99.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | England - League Cup : Port Vale vs Arsenal (19:00) | Sport 2 Israel
-https://daddylive.sx/stream/stream-141.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Poland - Ekstraklasa : Legia Warszawa vs Jagiellonia Białystok (19:00) | Canal+ Sport 3 Poland
-https://daddylive.sx/stream/stream-259.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Poland - Puchar Polski : Nieciecza vs Widzew Łódź (19:00) | TVP Sport Poland
-https://daddylive.sx/stream/stream-128.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | M+ LALIGA TV
-https://daddylive.sx/stream/stream-84.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | M+ LALIGA 2 TV
-https://daddylive.sx/stream/stream-174.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Viaplay Sports 1 UK
-https://daddylive.sx/stream/stream-451.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Premier Sports 1 Ireland
-https://daddylive.sx/stream/stream-771.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Nova Sport 4 CZ
-https://daddylive.sx/stream/stream-1024.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | DAZN1 DE
-https://daddylive.sx/stream/stream-426.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | MATCH TV Russia
-https://daddylive.sx/stream/stream-127.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | DAZN Eleven 4 Portugal
-https://daddylive.sx/stream/stream-458.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Eleven Sports 1 Poland
-https://daddylive.sx/stream/stream-71.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | beIN Sports 1 France
-https://daddylive.sx/stream/stream-116.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Canal+ Sport 3 Afrique
-https://daddylive.sx/stream/stream-488.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Match! Football 2 Russia
-https://daddylive.sx/stream/stream-137.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Arena Sport 3 Serbia
-https://daddylive.sx/stream/stream-431.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Digi Sport 4 Romania
-https://daddylive.sx/stream/stream-403.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Prima Sport 3 Romania
-https://daddylive.sx/stream/stream-585.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | ESPN Deportes
-https://daddylive.sx/stream/stream-375.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | Nova Sports Prime Greece
-https://daddylive.sx/stream/stream-638.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | TV2 Sport X Denmark
-https://daddylive.sx/stream/stream-808.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | TV4 Football Sweden
-https://daddylive.sx/stream/stream-747.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | MAX Sport 4 Bulgaria
-https://daddylive.sx/stream/stream-475.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Atlético Madrid vs Rayo Vallecano (19:30) | SuperSport Laliga
-https://daddylive.sx/stream/stream-415.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | DAZN LaLiga 2
-https://daddylive.sx/stream/stream-155.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | DAZN LaLiga
-https://daddylive.sx/stream/stream-538.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | Now Sports 3 HK
+#EXTINF:-1 group-title="Live Events",Ice Hockey | Norway Eliteserien : Storhamar Hockey vs. IHK Sparta Sarpsborg (16:30) | TV2 Sport 2 Norway
 https://daddylive.sx/stream/stream-181.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | Nova Sport 3 CZ
-https://daddylive.sx/stream/stream-1023.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | DEL : ERC Ingolstadt vs Red Bull Munchen (17:30) | Magenta Sport 301
+https://daddylive.sx/stream/stream-25.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | Canal+ Sport Poland
-https://daddylive.sx/stream/stream-48.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Vaxjo vs Orebro (17:00) | MTV Urheilu 2 Finland
+https://daddylive.sx/stream/stream-185.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | beIN Sports MAX 7 France
-https://daddylive.sx/stream/stream-497.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Rogle vs Linkopings (17:00) | TV4 Sport Live 4 Sweden
+https://daddylive.sx/stream/stream-706.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | TV4 Sportkanalen Sweden
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Malmo vs Brynas (17:00) | TV4 Sportkanalen Sweden
 https://daddylive.sx/stream/stream-707.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | Prima Sport 4 Romania
-https://daddylive.sx/stream/stream-586.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Lulea vs Djurgardens (17:00) | TV4 Sport Live 3 Sweden
+https://daddylive.sx/stream/stream-705.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | Arena Sport 2 Serbia
-https://daddylive.sx/stream/stream-430.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Leksands vs Skelleftea (17:00) | TV4 Sport Live 1 Sweden
+https://daddylive.sx/stream/stream-703.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | Match! Football 3 Russia
-https://daddylive.sx/stream/stream-138.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : HV 71 vs Timra (17:00) | TV4 Sport Live 2 Sweden
+https://daddylive.sx/stream/stream-704.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | Nova Sports 1 Greece
-https://daddylive.sx/stream/stream-631.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Farjestad BK vs Frolunda (17:00) | TV4 Hockey Sweden
+https://daddylive.sx/stream/stream-700.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | Arena Sport 2 Croatia
-https://daddylive.sx/stream/stream-433.php
+#EXTINF:-1 group-title="Live Events",Ice Hockey | SHL : Vaxjo vs Orebro (17:00) | TV4 Motor Sweden
+https://daddylive.sx/stream/stream-702.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Spain - La Liga : Real Sociedad vs Mallorca (19:30) | beIN Sports MENA 4
-https://daddylive.sx/stream/stream-94.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Seattle Kraken vs Edmonton Oilers (01:00) | NHL Gamecenter
+https://daddylive.sx/stream/stream-16.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | beIN SPORTS USA
-https://daddylive.sx/stream/stream-425.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Seattle Kraken vs Edmonton Oilers (01:00) | NHL Network USA
+https://daddylive.sx/stream/stream-663.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | beIN SPORTS en Español
-https://daddylive.sx/stream/stream-372.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Calgary Flames vs Vancouver Canucks (02:00) | NHL Gamecenter
+https://daddylive.sx/stream/stream-17.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | Sport TV1 Portugal
-https://daddylive.sx/stream/stream-49.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Los Angeles Kings vs Anaheim Ducks (02:00) | NHL Gamecenter
+https://daddylive.sx/stream/stream-18.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | Sportdigital FUSSBALL DE
-https://daddylive.sx/stream/stream-571.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Buffalo Sabres vs Detroit Red Wings (23:00) | NHL Gamecenter
+https://daddylive.sx/stream/stream-11.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | Arena Sport 1 Croatia
-https://daddylive.sx/stream/stream-432.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Islanders vs New York Rangers (23:00) | NHL Gamecenter
+https://daddylive.sx/stream/stream-12.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | Arena 1 Premium Serbia
-https://daddylive.sx/stream/stream-134.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Islanders vs New York Rangers (23:00) | NHL Network USA
+https://daddylive.sx/stream/stream-663.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | ESPN Brazil
-https://daddylive.sx/stream/stream-81.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : New York Islanders vs New York Rangers (23:00) | MSG USA
+https://daddylive.sx/stream/stream-765.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | beIN Sports MENA 3
-https://daddylive.sx/stream/stream-93.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Washington Capitals (23:00) | NHL Gamecenter
+https://daddylive.sx/stream/stream-13.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | beIN Sports MENA English 1
-https://daddylive.sx/stream/stream-61.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Philadelphia Flyers vs Washington Capitals (23:00) | Monumental Sports Network
+https://daddylive.sx/stream/stream-778.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Sudamericana : Atlético Mineiro vs Bolívar (22:00) | Sport 3 Israel
-https://daddylive.sx/stream/stream-142.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Toronto Maple Leafs vs Montréal Canadiens (23:00) | NHL Gamecenter
+https://daddylive.sx/stream/stream-14.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Uruguay : Defensor Sporting vs Central Español (22:00) | VTV+ Uruguay
-https://daddylive.sx/stream/stream-391.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Toronto Maple Leafs vs Montréal Canadiens (23:00) | TSN2
+https://daddylive.sx/stream/stream-112.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Copa Uruguay : Defensor Sporting vs Central Español (22:00) | GOLTV USA
-https://daddylive.sx/stream/stream-597.php
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Toronto Maple Leafs vs Montréal Canadiens (23:00) | TSN4
+https://daddylive.sx/stream/stream-114.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | United States - NCAA Women's Soccer : Notre Dame vs North Carolina (22:00) | ACC Network USA
+#EXTINF:-1 group-title="Live Events",NHL | NHL : Toronto Maple Leafs vs Montréal Canadiens (23:00) | RDS CA
+https://daddylive.sx/stream/stream-839.php
+
+#EXTINF:-1 group-title="Live Events",Triathlon | Triathlon: World Triathlon Championship Series in Weihai men's competitions (01:00) | Sport TV3 Portugal
+https://daddylive.sx/stream/stream-454.php
+
+#EXTINF:-1 group-title="Live Events",Triathlon | Triathlon: World Triathlon Championship Series in Weihai men's competitions (01:00) | Sport 2 Israel
+https://daddylive.sx/stream/stream-141.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Czech Republic vs Iran (07:30) | Polsat Sport 1 Poland
+https://daddylive.sx/stream/stream-47.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Czech Republic vs Iran (07:30) | CT Sport Czech
+https://daddylive.sx/stream/stream-1033.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Czech Republic vs Iran (07:30) | Arena Premium 2 Serbia
+https://daddylive.sx/stream/stream-135.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Czech Republic vs Iran (07:30) | Zona DAZN Italy
+https://daddylive.sx/stream/stream-877.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Czech Republic vs Iran (07:30) | Sportklub 1 Croatia
+https://daddylive.sx/stream/stream-101.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : Czech Republic vs Iran (07:30) | Sport 2 Israel
+https://daddylive.sx/stream/stream-141.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : USA vs Bulgaria (12:20) | Polsat Sport 1 Poland
+https://daddylive.sx/stream/stream-47.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : USA vs Bulgaria (12:20) | Arena Premium 2 Serbia
+https://daddylive.sx/stream/stream-135.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : USA vs Bulgaria (12:20) | Max Sport 2 Bulgaria
+https://daddylive.sx/stream/stream-473.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : USA vs Bulgaria (12:20) | Zona DAZN Italy
+https://daddylive.sx/stream/stream-877.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : USA vs Bulgaria (12:20) | Rai Sport 1 IT
+https://daddylive.sx/stream/stream-882.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : USA vs Bulgaria (12:20) | Sportklub 1 Croatia
+https://daddylive.sx/stream/stream-101.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | FIVB World Championship : USA vs Bulgaria (12:20) | Sport 2 Israel
+https://daddylive.sx/stream/stream-141.php
+
+#EXTINF:-1 group-title="Live Events",Volleyball | I. Liga : Bedzin vs GKS Katowice (18:30) | Polsat Sport 3 Poland
+https://daddylive.sx/stream/stream-129.php
+
+#EXTINF:-1 group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Pittsburgh vs. SMU (00:00) | ACC Network USA
 https://daddylive.sx/stream/stream-664.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : Vasco da Gama vs Bahia (22:30) | Premiere BR
-https://daddylive.sx/stream/stream-20.php
+#EXTINF:-1 group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Indiana vs Northwestern (01:00) | BTN USA
+https://daddylive.sx/stream/stream-397.php
 
-#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : Grêmio vs Botafogo (22:30) | Premiere BR
-https://daddylive.sx/stream/stream-88.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Brazil - Brasileirão : Grêmio vs Botafogo (22:30) | Match! Football 3 Russia
-https://daddylive.sx/stream/stream-138.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Major League Soccer : New York City vs Inter Miami (23:30) | MLS Season Pass
-https://daddylive.sx/stream/stream-55.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Uruguay - Primera Division : Tacuarembó vs Peñarol (23:30) | VTV+ Uruguay
-https://daddylive.sx/stream/stream-391.php
-
-#EXTINF:-1 group-title="Live Events",Soccer | Uruguay - Primera Division : Tacuarembó vs Peñarol (23:30) | GOLTV USA
-https://daddylive.sx/stream/stream-597.php
-
-#EXTINF:-1 group-title="Live Events",Tennis ATP - CHENGDU | ATP - CHENGDU : Altmaier D. vs Shapovalov D. (07:00) | Tennis Stream
-https://daddylive.sx/stream/stream-1507.php
-
-#EXTINF:-1 group-title="Live Events",Tennis ATP - CHENGDU | ATP - CHENGDU : Altmaier D. vs Shapovalov D. (07:00) | Tennis Stream
-https://daddylive.sx/stream/stream-40.php
-
-#EXTINF:-1 group-title="Live Events",Tennis ATP - CHENGDU | ATP - CHENGDU : Fucsovics M. vs Tiafoe F. (08:30) | Tennis Stream
-https://daddylive.sx/stream/stream-1507.php
-
-#EXTINF:-1 group-title="Live Events",Tennis ATP - CHENGDU | ATP - CHENGDU : Fucsovics M. vs Tiafoe F. (08:30) | Tennis Stream
-https://daddylive.sx/stream/stream-40.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Hon P. vs Golubic V. (06:00) | Tennis Stream
-https://daddylive.sx/stream/stream-1503.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Jacquemot E. vs Ruzic A. (06:00) | Tennis Stream
-https://daddylive.sx/stream/stream-1504.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Krejcikova B. vs Blinkova A. (06:00) | Tennis Stream
-https://daddylive.sx/stream/stream-1501.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Zhang R. vs Lys E. (06:00) | Tennis Stream
-https://daddylive.sx/stream/stream-1502.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Boulter K. vs Baptiste H. (07:30) | Tennis Stream
-https://daddylive.sx/stream/stream-1502.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Kudermetova P. vs Inglis M. (07:30) | Tennis Stream
-https://daddylive.sx/stream/stream-1504.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Volynets K. vs Stearns P. (07:30) | Tennis Stream
-https://daddylive.sx/stream/stream-1503.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Zakharova A. vs Zhang S. (07:30) | Tennis Stream
-https://daddylive.sx/stream/stream-1501.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Bondar A. vs Andreescu B. (09:00) | Tennis Stream
-https://daddylive.sx/stream/stream-1501.php
-
-#EXTINF:-1 group-title="Live Events",Tennis WTA - BEIJING | WTA - BEIJING : Maria T. vs Bouzkova M. (09:00) | Tennis Stream
-https://daddylive.sx/stream/stream-1502.php
-
-#EXTINF:-1 group-title="Live Events",Golf | Live From the Ryder Cup Episode 5 • Live (12:00) | Golf Channel USA
-https://daddylive.sx/stream/stream-318.php
-
-#EXTINF:-1 group-title="Live Events",Climbing | World Championships | Seoul Women's Speed | Final (10:45) | TNT Sports 2 UK
-https://daddylive.sx/stream/stream-32.php
-
-#EXTINF:-1 group-title="Live Events",Climbing | World Championships | Seoul Women's Speed | Final (10:45) | EuroSport 2 Poland
-https://daddylive.sx/stream/stream-58.php
-
-#EXTINF:-1 group-title="Live Events",Climbing | World Championships | Seoul Women's Speed | Final (10:45) | EuroSport 2 Spain
-https://daddylive.sx/stream/stream-525.php
-
-#EXTINF:-1 group-title="Live Events",Climbing | World Championships | Seoul Women's Speed | Final (10:45) | EuroSport 2 France
-https://daddylive.sx/stream/stream-773.php
-
-#EXTINF:-1 group-title="Live Events",Climbing | World Championships | Seoul Women's Speed | Final (10:45) | Eurosport 2 SE
-https://daddylive.sx/stream/stream-232.php
-
-#EXTINF:-1 group-title="Live Events",Climbing | World Championships | Seoul Women's Speed | Final (10:45) | EuroSport 2 Italy
-https://daddylive.sx/stream/stream-879.php
-
-#EXTINF:-1 group-title="Live Events",Climbing | World Championships | Seoul Women's Speed | Final (10:45) | EuroSport 2 Greece
-https://daddylive.sx/stream/stream-42.php
-
-#EXTINF:-1 group-title="Live Events",Climbing | World Championships | Seoul Women's Speed | Final (10:45) | Eurosport 2 SE
-https://daddylive.sx/stream/stream-232.php
-
-#EXTINF:-1 group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : South Carolina vs. Kentucky (23:00) | SEC Network USA
+#EXTINF:-1 group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Vanderbilt vs Texas (01:00) | SEC Network USA
 https://daddylive.sx/stream/stream-385.php
 
-#EXTINF:-1 group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Missouri vs. Texas A&M (23:00) | ESPN2 USA
-https://daddylive.sx/stream/stream-45.php
-
-#EXTINF:-1 group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Michigan at Nebraska (23:00) | BTN USA
+#EXTINF:-1 group-title="Live Events",NCAA Women's Volleyball | Women's College Volleyball : Washington vs Purdue (22:30) | BTN USA
 https://daddylive.sx/stream/stream-397.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - BEIJING | ATP - BEIJING : Bonzi B. vs Marozsan F. (05:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1510.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - BEIJING | ATP - BEIJING : Atmane T. vs Zhang Z (06:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1510.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - BEIJING | ATP - BEIJING : Davidovich Fokina A. vs Ugo Carabelli C. (08:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1510.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - BEIJING | ATP - BEIJING : Sinner J. vs Cilic M. (11:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1510.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ATP - BEIJING | ATP - BEIJING : Sinner J. vs Cilic M. (11:00) | Tennis Stream
+https://daddylive.sx/stream/stream-40.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΤΟKYO | ΑΤΡ - ΤΟKYO : Michelsen A. vs Quinn E. (05:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1509.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΤΟKYO | ΑΤΡ - ΤΟKYO : Thompson J. vs Nakashima B. (05:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1508.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΤΟKYO | ΑΤΡ - ΤΟKYO : Bergs Z. vs Tabilo A. (06:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1509.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΤΟKYO | ΑΤΡ - ΤΟKYO : Medjedovic H. vs Rune H. (06:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1508.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΤΟKYO | ΑΤΡ - ΤΟKYO : Ruud C. vs Mochizuki S. (07:00) | Tennis Stream
+https://daddylive.sx/stream/stream-1507.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΤΟKYO | ΑΤΡ - ΤΟKYO : Alcaraz C. vs Baez S. (08:30) | Tennis Stream
+https://daddylive.sx/stream/stream-1507.php
+
+#EXTINF:-1 group-title="Live Events",Tennis ΑΤΡ - ΤΟKYO | ΑΤΡ - ΤΟKYO : Alcaraz C. vs Baez S. (08:30) | Tennis Stream
+https://daddylive.sx/stream/stream-40.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | NHRA Sportsman Series Reading New Live Reading (22:00) | Fox Sports 2 USA
+https://daddylive.sx/stream/stream-758.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | TNT Sports 2 UK
+https://daddylive.sx/stream/stream-32.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Sky Sport MotoGP Italy
+https://daddylive.sx/stream/stream-575.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | CANAL+ MotoGP France
+https://daddylive.sx/stream/stream-271.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Sky Sport Mix DE
+https://daddylive.sx/stream/stream-557.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Sky Sport Top Event DE
+https://daddylive.sx/stream/stream-556.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Canal+ Sport 360
+https://daddylive.sx/stream/stream-464.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Sport TV4 Portugal
+https://daddylive.sx/stream/stream-289.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | ESPN Argentina
+https://daddylive.sx/stream/stream-149.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Cosmote Sport 5 Greece
+https://daddylive.sx/stream/stream-626.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Cytavision Sports 6
+https://daddylive.sx/stream/stream-916.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Sport Klub 3 Croatia
+https://daddylive.sx/stream/stream-103.php
+
+#EXTINF:-1 group-title="Live Events",Motorsport | Moto 3 : Grand Prix of Japan Free Practice (22:00) | Ziggo Sport 1 NL
+https://daddylive.sx/stream/stream-393.php
+
+#EXTINF:-1 group-title="Live Events",Am. Football | NCAAF : Army vs East Carolina (23:30) | ESPN USA
+https://daddylive.sx/stream/stream-44.php
+
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL Women : Geelong Cats W vs Hawthorn Hawks W (09:00) | FOX Soccer Plus
+https://daddylive.sx/stream/stream-756.php
+
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL Women : Geelong Cats W vs Hawthorn Hawks W (09:00) | TNT Sports 3 UK
+https://daddylive.sx/stream/stream-33.php
+
+#EXTINF:-1 group-title="Live Events",Aussie rules | AFL Women : Geelong Cats W vs Hawthorn Hawks W (09:00) | Sky Sport 2 NZ
+https://daddylive.sx/stream/stream-589.php
+
+#EXTINF:-1 group-title="Live Events",Rugby Union | Bunnings NPC : Hawke's Bay vs Auckland (07:05) | Sky Sport 1 NZ
+https://daddylive.sx/stream/stream-588.php
+
+#EXTINF:-1 group-title="Live Events",Rugby Union | Aviva Premiership Rugby : Sale Sharks vs Gloucester (18:00) | TNT Sports 3 UK
+https://daddylive.sx/stream/stream-33.php
+
+#EXTINF:-1 group-title="Live Events",Rugby Union | Aviva Premiership Rugby : Sale Sharks vs Gloucester (18:00) | Sky Sport 1 NZ
+https://daddylive.sx/stream/stream-588.php
+
+#EXTINF:-1 group-title="Live Events",Rugby Union | Aviva Premiership Rugby : Sale Sharks vs Gloucester (18:00) | Sportsnet World
+https://daddylive.sx/stream/stream-410.php
+
+#EXTINF:-1 group-title="Live Events",Rugby Union | Pro D2 : Agen vs Beziers (19:00) | Canal+ Sport France
+https://daddylive.sx/stream/stream-122.php
+
+#EXTINF:-1 group-title="Live Events",Squash | Premier Padel, Round of 16 Germany P2 (08:00) | Sport 4 Israel
+https://daddylive.sx/stream/stream-143.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (Women): Rio (Women) LIVE (12:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (Women): Rio (Women) LIVE (13:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (Women): Rio (Women) LIVE (14:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (Women): Rio (Women) LIVE (15:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (Women): Rio (Women) LIVE (16:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (Women): Rio (Women) LIVE (17:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (M): Rio LIVE (18:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (M): Rio LIVE (19:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (M): Rio LIVE (20:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (M): Rio LIVE (21:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (M): Rio LIVE (22:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Beach Volleyball | Beach Volleyball Pro Tour (M): Rio LIVE (23:00) | Sportklub 4 Croatia
+https://daddylive.sx/stream/stream-104.php
+
+#EXTINF:-1 group-title="Live Events",Water Sports | Rowing: World Championships - Shanghai 2025 finals (06:00) | TVP Sport Poland
+https://daddylive.sx/stream/stream-128.php
 
 #EXTINF:-1 group-title="DLHD 24/7",ABC USA
 https://daddylive.sx/stream/stream-51.php
