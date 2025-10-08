@@ -3,9 +3,11 @@ import re
 
 # Birleştirilecek M3U listelerinin URL'leri
 URLS = [
-    "https://cine10giris.org.tr/ulusaltv.m3u",
-    "https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/daddylive-channels.m3u8",
-    "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u",
+    "https://tinyurl.com/2ao2rans",
+    "https://raw.githubusercontent.com/Lunedor/iptvTR/refs/heads/main/FilmArsiv.m3u",
+    "https://dl.dropbox.com/scl/fi/dj74gt6awxubl4yqoho07/github.m3u?rlkey=m7pzzvk27d94bkfl9a98tluai",
+    "https://raw.githubusercontent.com/Lunedor/iptvTR/refs/heads/main/FilmArsiv.m3u",
+    "https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Filmler.m3u",
 ]
 
 # Çıktı dosyasının adı
