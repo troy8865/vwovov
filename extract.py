@@ -13,16 +13,6 @@ source_urls = [
 "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3",
 "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia",
 "http://158.101.222.193:88/georgia_play.php?id=silk_sport4",
-"https://www.kanald.com.tr/canli-yayin",
-"https://www.showtv.com.tr/canli-yayin",
-"https://www.nowtv.com.tr/canli-yayin",
-"https://www.tv4.com.tr/canli-yayin",
-"https://www.kanal7.com/canli-izle",
-"https://www.showturk.com.tr/canli-yayin/showturk",
-"https://www.startv.com.tr/canli-yayin",
-"https://beyaztv.com.tr/canli-yayin",
-"https://puhutv.com/star-tv-canli-yayin",
-"https://www.tabii.com/tr/watch/live/trt1?trackId=150002",
 
 ]
 
