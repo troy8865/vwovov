@@ -13,6 +13,7 @@ source_urls = [
 "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3",
 "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia",
 "http://158.101.222.193:88/georgia_play.php?id=silk_sport4",
+"http://158.101.222.193:88/georgia_play.php?id=matchplaneta",    
 
 ]
 
